@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of nonexistence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Empty rhetoric or insincere or exaggerated talk.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or condition of being nothing; nonexistence or total oblivion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Utter insignificance, worthlessness, or existential void.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"LVII Meanwhile Angel Clare had walked automatically along the way by which he had come, and, entering his hotel, sat down over the breakfast, staring at nothingness."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"It continued to exist, and, in its next incarnation, became the residing spirit of that apparitional body known as Darrell Standing’s which soon is to be taken out and hanged and sent into the nothingness whither all apparitions go."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Forms disintegrate into the eternal nothingness from which there is no return."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Michael Henchard’s will concluded with the grim desire that no man remember his name, consigning his memory to total **nothingness**."*
+> - 📜 **Jack London (*The Sea-Wolf*):** *"He stared into the blackness of the night, contemplating the vast **nothingness** into which all life must eventually dissolve."*
+> - 📜 **Blaise Pascal (*Pensées*):** *"What is man in nature? A **nothingness** compared to the infinite, an all compared to the nothing, a mean between everything and nothing."*

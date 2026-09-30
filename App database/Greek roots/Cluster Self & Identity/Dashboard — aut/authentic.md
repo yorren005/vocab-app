@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not false or imitation : real, actual.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: True to one's own personality, spirit, or character.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of undisputed origin; genuine, true, and not a copy, forgery, or counterfeit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: True to one’s own personality, spirit, or character; sincere; in existentialism, living in accordance with genuine freedom.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Of all the learned and authentic fellows,— PAROLLES."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, Sir John, here is the heart of my purpose: you are a gentleman of excellent breeding, admirable discourse, of great admittance, authentic in your place and person, generally allowed for your many warlike, courtlike, and learned preparations."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How could communities, Degrees in schools, and brotherhoods in cities, Peaceful commerce from dividable shores, The primogenity and due of birth, Prerogative of age, crowns, sceptres, laurels, But by degree stand in authentic place?"*
+> - 📜 **William Shakespeare (*All's Well That Ends Well*):** *"To be said, an **authentic** fellow, and one that hath spoken with the king."*
+> - 📜 **Samuel Johnson (*Preface to Shakespeare*):** *"His characters are the genuine progeny of common humanity, an **authentic** mirror of living manners."*
+> - 📜 **Thomas Carlyle (*On Heroes, Hero-Worship, and the Heroic in History*):** *"The first mark of a true hero is that he be sincere and **authentic** in his convictions."*

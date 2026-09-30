@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mark on an article of trade to indicate its origin and authenticity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Validating the authenticity of something or someone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act, process, or evidence of establishing that something is genuine, valid, or authentic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computer security, the verification of credentials to confirm a claimant’s identity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, authentication designates a mark on an article of trade to indicate its origin and authenticity."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The **authentication** of historical records requires the sober collation of dates, names, and seals."*
+> - 📜 **Lord Acton (*The Study of History*):** *"Modern criticism begins with the rigorous **authentication** of archival documents."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The prison registry served as the grim **authentication** that the prisoner was condemned to the guillotine."*

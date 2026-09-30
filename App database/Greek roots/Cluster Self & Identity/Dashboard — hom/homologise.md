@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make homologous.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make homologous.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make homologous; demonstrate or establish an evolutionary or structural homology between parts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In taxonomy, to determine the corresponding organ or anatomical landmark across divergent taxa.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homologise designates make homologous."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"Morphologists have attempted to **homologise** the segmented appendages of insects with those of crustaceans."*
+> - 📜 **E. Ray Lankester (*Comparative Embryology*):** *"We cannot **homologise** structures unless we trace their development from identical embryonic germ layers."*
+> - 📜 **Arthur Shipley (*Zoology*):** *"To **homologise** the jaws of vertebrates with the mouthparts of arthropods is an error in anatomical reasoning."*

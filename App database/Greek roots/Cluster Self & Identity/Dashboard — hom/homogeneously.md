@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: All similarly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: All similarly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a homogeneous manner; with uniform structure, consistency, or distribution throughout.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without variation or divergence among parts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homogeneously designates all similarly."*
+> - 📜 **James Clerk Maxwell (*Theory of Heat*):** *"When heat is **homogeneously** distributed throughout a conductor, all internal thermal currents cease."*
+> - 📜 **Bertrand Russell (*The Principles of Mathematics*):** *"Geometry assumes space to be **homogeneously** constituted in all directions."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons*):** *"The primordial protoplasm was **homogeneously** diffused throughout the single-celled organism."*

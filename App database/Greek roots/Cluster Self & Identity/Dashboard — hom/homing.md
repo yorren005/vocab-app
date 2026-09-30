@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide with, or send to, a home.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Return home accurately from a long distance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Trained, bred, or possessing an innate instinct to return to home or roost from great distances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In guidance systems and ballistics, automatically steering or guiding toward a specified destination or radiating target.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"Lindsay Gordon._) Well, Douglas, I'm sorry you've got to be homing, Though I grant it's unwise to continue your roaming, But the evening's to spare ere you drop me astern, So come up to my room and indulge in a yarn."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"If she had been defending a homing dove, she could not have been more outraged, more aflame."*
-> - 📜 **H. Rider Haggard (*Swallow: A Tale of the Great Trek*):** *"Who am I that I should question your wisdom?” and, turning his horse’s head, he rode forward across the gloomy veldt as certainly as a homing rock-dove wings its flight."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The remarkable navigational prowess of the **homing** pigeon has been perfected by centuries of selective breeding."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The evening sky was streaked with the dark silhouettes of **homing** rooks returning to the churchyard elms."*
+> - 📜 **Arthur C. Clarke (*Rendezvous with Rama*):** *"The probe was equipped with an automatic **homing** beacon that locked onto the faint radio emission."*

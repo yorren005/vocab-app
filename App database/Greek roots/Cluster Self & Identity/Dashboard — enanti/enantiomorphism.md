@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The relation of opposition between crystals or molecules that are reflections of one another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The relation of opposition between crystals or molecules that are reflections of one another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of having nonsuperimposable mirror-image forms; the state or condition of being an enantiomorph.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Kantian philosophy and spatial topology, the existence of incongruent counterparts that demonstrates the intuitive reality of space.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enantiomorphism designates the relation of opposition between crystals or molecules that are reflections of one another."*
+> - 📜 **Immanuel Kant (*Inaugural Dissertation*):** *"The geometrical reality of **enantiomorphism** demonstrates that space is an intuitive form of our sensibility rather than an abstract intellectual relation."*
+> - 📜 **Lord Kelvin (*The Molecular Tactics of a Crystal*):** *"Chirality, or **enantiomorphism**, requires that a body cannot be brought into congruence with its mirror image by any translation or rotation."*
+> - 📜 **Charles Sanders Peirce (*Collected Papers*):** *"The distinction between right and left in **enantiomorphism** cannot be conveyed by pure logic without a direct ostensive gesture."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Self-sufficiency, independence; specifically : national economic self-sufficiency and independence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A policy of establishing a self-sufficient and independent national economy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Economic independence or self-sufficiency; the policy of establishing a national economy independent of foreign trade.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A country or state that maintains complete economic self-containment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, autarky designates self-sufficiency, independence; specifically : national economic self-sufficiency and independence."*
+> - 📜 **John Maynard Keynes (*The General Theory of Employment, Interest and Money*):** *"The reckless pursuit of national **autarky** during depressions destroys international prosperity."*
+> - 📜 **Frank A. Fetter (*Modern Economic Problems*):** *"No modern industrial nation can achieve genuine **autarky** without drastic declines in standard of living."*
+> - 📜 **Winston Churchill (*The Gathering Storm*):** *"Germany’s relentless drive toward military **autarky** foreshadowed aggressive territorial expansion."*

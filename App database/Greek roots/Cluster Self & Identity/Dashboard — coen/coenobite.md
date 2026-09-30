@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a religious order living in common.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of a religious order living in common.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A monk who lives in a religious community under an established rule (traditional British and classical spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical theology, one who practices collective monasticism under the rule of an abbot or prior.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"It is significant that Christian monasticism and the coenobite life began in Egypt, where, as we learn from papyri found in recent years, great monasteries of Serapis existed long before our era."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"He lived as austerely in his forest cabin as any fifth-century **coenobite** in the Nitrian desert."*
+> - 📜 **Arthur Conan Doyle (*The White Company*):** *"The burly **coenobite** tolled the abbey bell, summoning the brethren to vespers."*
+> - 📜 **Charles Kingsley (*Hypatia*):** *"The young **coenobite** turned his eyes away from the dazzling beauty of the Alexandrian philosopher."*

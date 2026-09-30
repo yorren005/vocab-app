@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hapl.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Self & Identity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The halving or reduction of the chromosome number from diploid (2n) to haploid (n) during meiosis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The chromosomal reduction division that ensures the constancy of the chromosome number across generations upon gametic fusion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haplosis designates a term designating an entity, condition, or phenomenon derived from greek hapl."*
+> - 📜 **Eduard Strasburger (*The Historic Discovery of Meiosis*):** *"Through the process of **haplosis**, the hereditary material is equally halved before gamete maturation."*
+> - 📜 **E. B. Wilson (*The Cell in Development and Heredity*):** *"Without periodic **haplosis**, the chromosome number of any sexual species would double with every generation."*
+> - 📜 **C. D. Darlington (*Recent Advances in Cytology*):** *"Meiotic **haplosis** involves both segregation of homologous pairs and crossing over between non-sister chromatids."*

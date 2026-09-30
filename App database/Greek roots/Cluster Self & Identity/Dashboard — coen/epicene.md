@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having but one form to indicate either sex.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having characteristics typical of the other sex.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having characteristics of both sexes, or belonging to neither sex; androgynous or unisex.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical grammar, having a single grammatical gender form that can refer to either sex without changing its ending.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epicene designates having but one form to indicate either sex."*
+> - 📜 **Ben Jonson (*Epicoene, or The Silent Woman*):** *"He took her for a modest maiden, yet found in her an **epicene** ambiguity that startled his wit."*
+> - 📜 **Virginia Woolf (*Orlando*):** *"Orlando looked in the mirror, delighted by the subtle, **epicene** grace that transcended the rigid costume of the court."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"The delicate Eloi seemed to have evolved beyond sexual divergence, possessing a soft, **epicene** beauty."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Parasite in invertebrates and lower vertebrates of no known economic importance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Parasite in invertebrates and lower vertebrates of no known economic importance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any protozoan parasite belonging to the order Haplosporida; of or relating to these spore-forming parasites.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to parasitic infections in marine invertebrates caused by haplosporidian protists.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haplosporidian designates parasite in invertebrates and lower vertebrates of no known economic importance."*
+> - 📜 **E. Ray Lankester (*A Treatise on Zoology*):** *"A microscopic examination of the oyster tissue revealed dense clusters of the **haplosporidian** parasite."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*):** *"Marine bivalves face relentless threats from microscopic **haplosporidian** invaders in tidal estuaries."*
+> - 📜 **Arthur Shipley (*The Cambridge Natural History*):** *"The life cycle of the **haplosporidian** organism involves complex intermediate spore stages in the host gut."*

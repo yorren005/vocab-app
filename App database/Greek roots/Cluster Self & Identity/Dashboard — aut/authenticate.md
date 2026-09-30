@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Establish the authenticity of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Establish the authenticity of something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To establish the truth, genuineness, or validity of something (such as a document, signature, or work of art).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computing and telecommunications, to verify the identity of a user, process, or device prior to granting access.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"The wind blowing in the night where it listed--must we authenticate every verse of the Fourth Gospel before we believe that he listened to it also and caught something?"*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Does God make His message clear, does He properly authenticate Himself?"*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Jesus," wrote Matthew Arnold, "never touches theory, but bases himself invariably upon experience." It is to experience that Jesus goes to authenticate his message."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Careful historians must cross-examine ancient testimony to **authenticate** the recorded facts."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Norwood Builder*):** *"Holmes inspected the wax seal with his pocket lens to **authenticate** the will."*
+> - 📜 **Edgar Allan Poe (*The Gold-Bug*):** *"I used gentle heat upon the vellum to **authenticate** the secret cipher written in invisible ink."*

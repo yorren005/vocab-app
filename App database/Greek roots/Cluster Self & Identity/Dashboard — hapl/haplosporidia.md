@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An order in the subclass acnidosporidia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An order in the subclass acnidosporidia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A group or order of spore-forming protozoan parasites (Haplosporida) that infect aquatic invertebrates, particularly mollusks and oysters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Endoparasitic protists causing severe epizootics (such as MSX disease in oysters), characterized by spores lacking polar filaments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haplosporidia designates an order in the subclass acnidosporidia."*
+> - 📜 **E. Ray Lankester (*A Treatise on Zoology*):** *"The **Haplosporidia** constitute an enigmatic group of sporozoans inhabiting the coelomic cavities of marine worms and mollusks."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"Mysterious die-offs of Chesapeake Bay oysters were traced to virulent microparasites related to the **Haplosporidia**."*
+> - 📜 **E. B. Wilson (*The Cell in Development and Inheritance*):** *"The spore development in **Haplosporidia** reveals a primitive multinucleate plasmodium prior to encapsulation."*

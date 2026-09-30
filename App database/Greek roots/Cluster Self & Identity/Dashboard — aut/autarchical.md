@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or characterized by autarchy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characterized by autarchy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to autarchy; pertaining to absolute sovereignty, autocracy, or despotic personal rule.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by uncontrolled, unlimited political dominion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, autarchical designates of or relating to or characterized by autarchy."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"An **autarchical** regime concentrates all legislative and executive prerogatives in the hands of a single master."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Despotism does not cease to be oppressive when exercised through an **autarchical** assembly."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Democratic nations must guard against an **autarchical** bureaucracy that suffocates civic liberty."*

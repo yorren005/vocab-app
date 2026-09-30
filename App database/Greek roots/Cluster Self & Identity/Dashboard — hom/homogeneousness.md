@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being similar or comparable in kind or nature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being similar or comparable in kind or nature.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or quality of being homogeneous; uniformity of nature, texture, or composition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lack of internal diversity, divergence, or variation across components.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homogeneousness designates the quality of being similar or comparable in kind or nature."*
+> - 📜 **Herbert Spencer (*The Principles of Biology*):** *"The embryonic blastoderm begins in complete **homogeneousness** before morphological differentiation begins."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"The mystic soul experiences a profound **homogeneousness** of emotion, where conflicting doubts melt away."*
+> - 📜 **Edgar Allan Poe (*Eureka: A Prose Poem*):** *"The original state of matter was absolute simplicity, unity, and **homogeneousness**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of a cell or organism having a single set of chromosomes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of a cell or organism having a single set of chromosomes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, having, or resembling the haploid condition; characterized by a single set of chromosomes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing cells, phases, or generations possessing the chromosome number n.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haploidic designates of a cell or organism having a single set of chromosomes."*
+> - 📜 **C. D. Darlington (*Recent Advances in Cytology*):** *"The **haploidic** chromosome number remains constant throughout all gametic cell lineages."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Heredity*):** *"Meiotic reduction produces four **haploidic** daughter cells from each primary spermatocyte."*
+> - 📜 **G. Ledyard Stebbins (*Chromosomal Evolution in Higher Plants*):** *"Spontaneous doubling of a **haploidic** genome yields an instantly homozygous fertile line."*

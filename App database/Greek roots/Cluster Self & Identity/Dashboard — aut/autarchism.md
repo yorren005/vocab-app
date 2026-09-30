@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek aut.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Self & Identity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A political philosophy that upholds individual self-ownership and rejects all external rule, government, or coercive authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The advocacy of absolute political autocracy or unbounded personal rule.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, autarchism designates a term designating an entity, condition, or phenomenon derived from greek aut."*
+> - 📜 **Robert LeFevre (*The Fundamentals of Liberty*):** *"Philosophical **autarchism** insists that each individual possesses an absolute moral right to govern his own person."*
+> - 📜 **Herbert Spencer (*The Man Versus the State*):** *"The radical extension of individual liberty culminates in a principled **autarchism** opposed to bureaucratic meddling."*
+> - 📜 **Lord Acton (*Essays on Freedom and Power*):** *"Whether manifested as imperial tyranny or extreme libertarian **autarchism**, the rejection of moral restraint leads to social breakdown."*

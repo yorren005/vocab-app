@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek kastan.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Self & Identity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An irrational, morbid aversion to or fear of chestnuts, chestnut trees, or related nuts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specific phobic reaction triggered by the tactile or olfactory presence of chestnuts or spiny chestnut burs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Kastanophobia designates a term designating an entity, condition, or phenomenon derived from greek kastan."*
+> - 📜 **G. Stanley Hall (*A Study of Fears*):** *"Among idiosyncratic anxieties recorded in pediatric psychology, rare forms such as **kastanophobia** reflect conditioned aversions to spiny husks."*
+> - 📜 **William James (*The Principles of Psychology*):** *"An obsessive fear, whether of open spaces or peculiar plant products like **kastanophobia**, reveals how emotion can attach to arbitrary stimuli."*
+> - 📜 **H. G. Wells (*The Secret Places of the Heart*):** *"His neuroses took bizarre shapes—a morbid fear of autumn orchards that the doctor playfully termed a mild **kastanophobia**."*

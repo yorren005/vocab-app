@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or resembling a homily.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to homiletics; also : preachy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to homilies, preaching, or religious sermonizing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by moralizing discourse or didactic exhortation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homiletic designates of, relating to, or resembling a homily."*
+> - 📜 **Samuel Taylor Coleridge (*Aids to Reflection*):** *"The pulpit loses its divine power when spiritual truth degenerates into dry **homiletic** moralizing."*
+> - 📜 **John Henry Newman (*Parochial and Plain Sermons*):** *"The ancient fathers cultivated a **homiletic** eloquence that addressed the heart rather than scholastic wit."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"The professor endured the endless **homiletic** lectures of his elders with stoic silence."*

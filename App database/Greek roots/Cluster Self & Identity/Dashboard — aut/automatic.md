@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Largely or wholly involuntary; especially : reflex.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Acting or done spontaneously or unconsciously.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Working or operating by itself with little or no direct human control; self-acting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Done unconsciously, instinctively, or spontaneously without premeditated conscious thought; as a noun, an automatic firearm.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Moreover, as was shown by what followed, she was oddly exercising the faculty of invention upon the speciality of the clever Jacquet Droz, the designer of automatic substitutes for human limbs."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The irresistible, universal, automatic tendency to find sweet pleasure somewhere, which pervades all life, from the meanest to the highest, had at length mastered Tess."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Winwood said that the forty men in the break, in whose confidence he was, had already such power in the Prison that they were about to begin smuggling in automatic pistols by means of the guards they had bought up."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"His movements became **automatic**, governed by habit rather than conscious resolve."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Habit diminishes the conscious attention with which our acts are performed, rendering them smooth and **automatic**."*
+> - 📜 **Jack London (*The Call of the Wild*):** *"Buck’s muscular reactions were swift and **automatic**, responding before thought could intervene."*

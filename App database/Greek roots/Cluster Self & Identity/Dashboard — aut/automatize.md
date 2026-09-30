@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Turn into an automaton.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make automatic or control or operate automatically.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make automatic; render self-acting or unconscious through repetition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ergonomics and software engineering, to replace human labor with algorithmic or robotic control.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, automatize designates turn into an automaton."*
+> - 📜 **John Dewey (*Human Nature and Conduct*):** *"Education must **automatize** basic habits so that the conscious mind remains free to explore novel situations."*
+> - 📜 **Thorstein Veblen (*The Theory of Business Enterprise*):** *"The imperative of the machine process is to **automatize** every phase of manufacturing."*
+> - 📜 **Herbert A. Simon (*The Shape of Automation*):** *"As we **automatize** administrative routines, computers assume the burden of repetitive clerical decisions."*

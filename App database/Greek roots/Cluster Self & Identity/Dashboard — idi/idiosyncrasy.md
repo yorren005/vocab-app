@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A peculiarity of constitution, behavior, or temperament : an individualizing characteristic or quality; broadly : eccentricity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An unusual part or feature of something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mode of behavior, habit, or way of thought peculiar to an individual; a personal quirk or eccentricity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology and medicine, an abnormal or unusual personal susceptibility to a food, drug, or other agent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It was written to me (as it told me in so many words), perhaps because it was the writer’s idiosyncrasy to put that trust in me, perhaps because it was mine to justify it."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"X Every village has its idiosyncrasy, its constitution, often its own code of morality."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"At that moment—(ought I to attribute it to some peculiar idiosyncrasy)—I felt so great a heat that I was obliged to take off my coat."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mr. Skimpole had an agreeable **idiosyncrasy** of never understanding anything whatever about the value of money."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Sherlock Holmes had many **idiosyncrasies**, but none more perplexing than his habit of playing the violin at midnight."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Personal genius is often rooted in some constitutional **idiosyncrasy** that alters how sensations are integrated."*

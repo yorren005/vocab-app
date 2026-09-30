@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of being haploid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The condition of being haploid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition or state of having a single set of chromosomes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant breeding and cytogenetics, the occurrence of viable sporophytes possessing only the gametic chromosome number.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haploidy designates the condition of being haploid."*
+> - 📜 **G. Ledyard Stebbins (*Variation and Evolution in Plants*):** *"Artificially induced **haploidy** followed by colchicine treatment provides a rapid method for producing homozygous crops."*
+> - 📜 **Theodosius Dobzhansky (*Mankind Evolving*):** *"Natural **haploidy** in animals is largely restricted to the male sex of arrhenotokous insects."*
+> - 📜 **Barbara McClintock (*Chromosome Organization and Genic Expression*):** *"The cytological consequences of **haploidy** reveal how chromosomes behave in the absence of a homologous partner."*

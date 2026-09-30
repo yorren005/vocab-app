@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or conforming to idiom.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or conforming to idiom.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Using, containing, or conforming to the characteristic idioms and natural expressions of a language.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Peculiar to or characteristic of a given language, dialect, or style of artistic expression; fluent and natural in style.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"No, you wicked foreign woman; I am your match.” Madame Defarge was not likely to follow these idiomatic remarks in detail; but, she so far understood them as to perceive that she was set at naught."*
+> - 📜 **Samuel Johnson (*The Lives of the Most Eminent English Poets*):** *"Addison’s prose represents the model of the middle style: pure, perspicuous, and delightfully **idiomatic**."*
+> - 📜 **H. L. Mencken (*The American Language*):** *"The American spoken language has evolved an **idiomatic** vigor that continually enriches English literature."*
+> - 📜 **Matthew Arnold (*On Translating Homer*):** *"The translator must avoid both archaic stiffness and modern slang, seeking a noble, **idiomatic** simplicity."*

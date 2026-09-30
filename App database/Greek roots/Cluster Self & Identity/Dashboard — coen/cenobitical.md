@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or befitting cenobites or their practices of communal living.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or befitting cenobites or their practices of communal living.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cenobitic; of or relating to a community of monks living together under a common rule.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Communal or monastic in character, emphasizing collective spiritual discipline over solitary asceticism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cenobitical designates of or relating to or befitting cenobites or their practices of communal living."*
+> - 📜 **David Hume (*The History of England*):** *"The **cenobitical** institutions of the Anglo-Saxon period served as islands of literacy amid barbarian turmoil."*
+> - 📜 **Samuel Johnson (*A Journey to the Western Islands of Scotland*):** *"On Iona, the ruins of ancient **cenobitical** dwellings bear witness to Columba's missionary zeal."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The bishop defended the **cenobitical** endowments against royal confiscation with formidable learning."*

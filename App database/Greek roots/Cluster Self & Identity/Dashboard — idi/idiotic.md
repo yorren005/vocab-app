@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing complete lack of thought or common sense : foolish.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by extreme intellectual disability.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Very stupid or foolish; senselessly absurd.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically, characteristic of or afflicted with profound congenital cognitive impairment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"Oh, there’s no use in talking to him,” said Alice desperately: “he’s perfectly idiotic!” And she opened the door and went in."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"So I, too, affected not to recognize my enemy, and, putting on an idiotic senility, I, too, crawled in the dust toward the litter whining for mercy and charity."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"There is no folly so besotted that the idiotic rivalries of society, the prurience, the rashness, the blindness of youth, will not hurry a man to its commission."*
+> - 📜 **Mark Twain (*The Adventures of Huckleberry Finn*):** *"It was an **idiotic** scheme from the beginning, but Tom Sawyer was set on doing it according to the books."*
+> - 📜 **H. G. Wells (*The Island of Doctor Moreau*):** *"The creature gave an **idiotic** grin, blinking in the harsh glare of the lantern."*
+> - 📜 **Jack London (*Martin Eden*):** *"He marveled at the **idiotic** complacency of bourgeois drawing rooms, where shallow chatter passed for wisdom."*

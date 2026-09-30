@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an idiomatic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an idiomatic manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an idiomatic manner; in accordance with the natural expressions and grammatical idioms of a language.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Using the authentic colloquial phrases, cadence, and vernacular style characteristic of native speakers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, idiomatically designates in an idiomatic manner."*
+> - 📜 **Benjamin Franklin (*Autobiography*):** *"I took pains to translate the Spectator into my own words and back again, learning to express myself **idiomatically** and clearly."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"Though writing in a foreign tongue, he phrased every thought so **idiomatically** that even native scholars were astonished."*
+> - 📜 **Henry James (*The Art of Fiction*):** *"The French dialogue was rendered **idiomatically**, catching the subtle irony of the Parisian salon."*

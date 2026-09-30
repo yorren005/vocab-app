@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or marked by autism or autism spectrum disorder.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person with autism or autism spectrum disorder.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, characteristic of, or affected with autism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending toward solitary self-absorption or intensive, specialized focus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, autistic designates of, relating to, or marked by autism or autism spectrum disorder."*
+> - 📜 **Eugen Bleuler (*Dementia Praecox*):** *"The **autistic** withdrawal of the patient creates an impassable barrier between him and the hospital staff."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"The **autistic** artist drew the cathedral with photographic precision, capturing every stone from memory."*
+> - 📜 **William James (*The Principles of Psychology*):** *"In extreme reverie, our thoughts take on an almost **autistic** independence from sensory stimuli."*

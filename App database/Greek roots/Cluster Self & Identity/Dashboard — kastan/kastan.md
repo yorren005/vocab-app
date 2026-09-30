@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of brown.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of brown.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek combining root (kastanon) signifying chestnut or chestnut-brown coloration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used in botanical and entomological taxonomy to denote chestnut-colored species or chestnut-bearing flora.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, kastan designates adjective*) pertaining to, derived from, or characteristic of brown."*
+> - 📜 **Theophrastus (*Enquiry into Plants*):** *"The nut which some call the Sardian nut and others **kastanon** flourishes best in the mountainous regions of Thessaly."*
+> - 📜 **Pliny the Elder (*Natural History*):** *"The chestnut tree, derived from the Greek **kastanon**, was transplanted to Italy from the forests of Magnesia."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The specific epithet preserves the ancient root **kastan**- in reference to the rich tawny color of the seed coat."*

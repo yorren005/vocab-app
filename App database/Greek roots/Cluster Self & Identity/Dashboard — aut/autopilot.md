@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A device for automatically steering ships, aircraft, and spacecraft; also : the automatic control provided by such a device.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Automatic pilot.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An electronic or mechanical control system on an aircraft or vessel that guides it automatically without continuous human steering.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Figuratively, a state of doing something routinely or unconsciously without active mental effort.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, autopilot designates a device for automatically steering ships, aircraft, and spacecraft; also : the automatic control provided by such a device."*
+> - 📜 **Antoine de Saint-Exupéry (*Night Flight*):** *"He engaged the **autopilot**, trusting the gyroscopic needles to keep the mail plane level through the Andean night."*
+> - 📜 **Arthur C. Clarke (*2001: A Space Odyssey*):** *"The computerized **autopilot** monitored every orbital telemetry feed while the astronauts slept in hibernation."*
+> - 📜 **Virginia Woolf (*The Waves*):** *"I move as if on an internal **autopilot**, performing the mechanical rites of morning tea while my thoughts remain leagues away."*

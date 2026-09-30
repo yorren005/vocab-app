@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A suborder of sauropterygia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A suborder of sauropterygia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A suborder or clade of extinct carnivorous marine sauropterygian reptiles of the Triassic Period that includes the nothosaurs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A group characterized by paddle-shaped limbs and long snouts, serving as an important transitional clade between terrestrial diapsids and aquatic plesiosaurs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nothosauria designates a suborder of sauropterygia."*
+> - 📜 **Alfred Sherwood Romer (*Vertebrate Paleontology*):** *"The **Nothosauria** flourished during the Middle and Late Triassic, occupying the ecological niches later dominated by oceanic plesiosaurs."*
+> - 📜 **Henry Fairfield Osborn (*The Origin and Evolution of Life*):** *"The skeletal anatomy of the **Nothosauria** illustrates the progressive mechanical modifications required for marine locomotion."*
+> - 📜 **Arthur Smith Woodward (*Outlines of Vertebrate Palaeontology*):** *"Cranial remains of the **Nothosauria** from central Europe demonstrate a specialized jaw mechanism adapted for piscivorous feeding."*

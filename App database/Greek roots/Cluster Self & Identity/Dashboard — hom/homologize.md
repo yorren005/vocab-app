@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be homologous.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make homologous.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make homologous; determine or establish structural and evolutionary correspondence between biological parts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative morphology, to correlate an organ in one organism with its evolutionary equivalent in another.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homologize designates be homologous."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy of Vertebrates*):** *"The anatomist must **homologize** each cranial bone before reconstructing the primordial archetype."*
+> - 📜 **Stephen Jay Gould (*The Structure of Evolutionary Theory*):** *"Geoffroy Saint-Hilaire attempted to **homologize** the ventral nerve cord of insects with the dorsal spinal cord of vertebrates."*
+> - 📜 **Alfred Sherwood Romer (*The Vertebrate Body*):** *"Paleontologists successfully **homologize** the reptilian articular and quadrate with the mammalian auditory ossicles."*

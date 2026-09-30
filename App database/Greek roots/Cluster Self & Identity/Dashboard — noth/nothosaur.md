@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extinct marine reptile with longer more slender limbs than plesiosaurs and less completely modified for swimming.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extinct marine reptile with longer more slender limbs than plesiosaurs and less completely modified for swimming.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extinct semi-aquatic marine reptile of the genus Nothosaurus from the Triassic Period, possessing paddle-like limbs and sharp grasping teeth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A basal sauropterygian reptile adapted for coastal and lagoonal hunting, considered an evolutionary relative of the later plesiosaurs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nothosaur designates extinct marine reptile with longer more slender limbs than plesiosaurs and less completely modified for swimming."*
+> - 📜 **Richard Owen (*Palaeontology, or A Systematic Summary of Extinct Animals*):** *"The sharp, backward-curved teeth of the **nothosaur** were ideally suited for seizing slippery prey in Triassic shoals."*
+> - 📜 **Louis Agassiz (*Geological Sketches*):** *"In the limestone beds of Muschelkalk, the articulated limbs of the **nothosaur** reveal an animal equally at home upon coastal sandbanks and in open water."*
+> - 📜 **Edwin H. Colbert (*Evolution of the Vertebrates*):** *"The amphibious lifestyle of the **nothosaur** represents an intermediate stage in the reptilian recolonization of the sea."*

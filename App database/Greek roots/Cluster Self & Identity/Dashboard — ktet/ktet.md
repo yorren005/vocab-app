@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ktet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Self & Identity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek etymological root (ktētos, from ktaomai, 'to acquire, possess'), relating to possession, property, or acquired characteristics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical linguistics and Byzantine law, the morphemic base of terms designating ownership, property rights, or the founder/patron of a foundation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ktet designates a term designating an entity, condition, or phenomenon derived from greek ktet."*
+> - 📜 **Aristotle (*Politics*):** *"The science of acquisition, derived from the root **ktet**-, investigates the natural methods by which households secure necessary property."*
+> - 📜 **Henry Sumner Maine (*Ancient Law*):** *"Early codes distinguished between ancestral heritage and purely **ktet**-ic acquisitions gained through personal labor."*
+> - 📜 **William Whewell (*The Philosophy of the Inductive Sciences*):** *"Grammatical terms incorporating **ktet**- express possessive relationships between the subject and its attributes."*

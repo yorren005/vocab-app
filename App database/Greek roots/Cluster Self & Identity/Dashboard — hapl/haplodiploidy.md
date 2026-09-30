@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hapl.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Self & Identity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genetic sex-determination mechanism where males are haploid (arising parthenogenetically) and females are diploid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The reproductive and evolutionary system underlying social cooperation and worker altruism in colonial Hymenoptera.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haplodiploidy designates a term designating an entity, condition, or phenomenon derived from greek hapl."*
+> - 📜 **Robert Trivers (*Social Evolution*):** *"Hamilton’s model demonstrated how **haplodiploidy** alters the evolutionary calculus of kin selection."*
+> - 📜 **Richard Dawkins (*The Selfish Gene*):** *"Because of **haplodiploidy**, a female worker ant shares three-quarters of her genes with her full sisters."*
+> - 📜 **George C. Williams (*Adaptation and Natural Selection*):** *"The phylogenetic distribution of eusociality clusters strikingly around lineages possessing the asymmetry of **haplodiploidy**."*

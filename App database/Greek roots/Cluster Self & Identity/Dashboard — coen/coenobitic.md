@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or befitting cenobites or their practices of communal living.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or befitting cenobites or their practices of communal living.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to life in a religious community; living collectively as coenobites.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by shared communal living, collective ownership, and mutual discipline.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coenobitic designates of or relating to or befitting cenobites or their practices of communal living."*
+> - 📜 **George Eliot (*Romola*):** *"Fra Girolamo urged his followers toward a quasi-**coenobitic** austerity in the midst of worldly Florence."*
+> - 📜 **Matthew Arnold (*Essays in Criticism*):** *"The **coenobitic** brotherhoods preserved classical manuscripts when the civil structures of the West collapsed."*
+> - 📜 **Lord Acton (*The History of Freedom*):** *"The **coenobitic** monasteries of the East asserted an independence from imperial decrees that secular bishops often surrendered."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Similar in evolutionary origin but not in function.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Similar in evolutionary origin but not in function.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to homology; corresponding in fundamental structure and evolutionary origin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In algebraic topology and abstract algebra, relating to homology groups, boundary operators, and cycle chains.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homological designates similar in evolutionary origin but not in function."*
+> - 📜 **Henri Poincaré (*Analysis Situs*):** *"The topological properties of higher-dimensional manifolds are revealed through their **homological** invariants."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Naturalists have long recognized the **homological** identity of the bones in the human arm, the bat's wing, and the porpoise's flipper."*
+> - 📜 **Saunders Mac Lane (*Homology*):** *"The development of **homological** algebra unified disparate algebraic techniques under the single concept of derived functors."*

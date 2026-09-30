@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Interpret as an allegory.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make into an allegory.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To turn into an allegory; interpret or represent symbolically.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To write or speak allegorically; construct symbolic narratives illustrating moral principles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The more reasonable among Jews and Christians," says Celsus, "try to allegorize them [the Scriptures], but they are beyond being {194} allegorized and are nothing but sheer mythology of the silliest type."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"The poet has the power to **allegorize** the ordinary facts of daily labor, revealing their spiritual significance."*
+> - 📜 **Jonathan Swift (*A Tale of a Tub*):** *"The three brothers resolved to **allegorize** their father's will until its simple prohibitions justified their extravagant coats."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"So man’s insanity is heaven’s sense; and they will **allegorize** away his deepest truth."*

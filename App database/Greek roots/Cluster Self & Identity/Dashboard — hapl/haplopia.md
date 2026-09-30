@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hapl.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Self & Identity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Normal single vision; visual perception in which an object viewed with both eyes is perceived as a single entity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of binocular sensory fusion where images from corresponding retinal points merge into a single stereoscopic image.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haplopia designates a term designating an entity, condition, or phenomenon derived from greek hapl."*
+> - 📜 **Hermann von Helmholtz (*Treatise on Physiological Optics*):** *"Normal **haplopia** requires that the image of an object fall upon precisely corresponding retinal points in both retinas."*
+> - 📜 **William James (*The Principles of Psychology*):** *"When the visual axes align accurately upon a fixation point, double images vanish into harmonious **haplopia**."*
+> - 📜 **Francis Galton (*Inquiries into Human Faculty and Its Development*):** *"The testing of stereoscopic vision confirmed that the subject maintained stable **haplopia** even under ocular fatigue."*

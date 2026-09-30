@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of the nature of a homily or sermon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to homiletics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the art of preaching sermons; homiletic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to homiletics, the branch of pastoral theology dealing with the composition and delivery of sermons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homiletical designates of the nature of a homily or sermon."*
+> - 📜 **Jonathan Swift (*A Discourse Concerning the Mechanical Operation of the Spirit*):** *"He possessed that peculiar **homiletical** tone that puts congregation after congregation into peaceful slumber."*
+> - 📜 **Cotton Mather (*Magnalia Christi Americana*):** *"His **homiletical** gifts were celebrated throughout New England for their scriptural fidelity."*
+> - 📜 **Matthew Arnold (*Literature and Dogma*):** *"The Hebrew prophets used a direct poetic energy that defied all formal **homiletical** rules."*

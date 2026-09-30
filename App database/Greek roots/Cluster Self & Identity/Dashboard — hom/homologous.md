@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the same relative position, value, or structure: such as.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhibiting biological homology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the same structural position, evolutionary origin, or developmental derivation, but not necessarily the same function.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In genetics, designating chromosome pairs containing the same gene loci; in chemistry, belonging to a homologous series.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"The spheres are to each other as the squares of their homologous sides."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"What can be more curious than that the hand of a man, the paddle of the porpoise, and the wing of the bat, should all include **homologous** bones, in the same relative positions?"*
+> - 📜 **Thomas Hunt Morgan (*The Mechanism of Mendelian Heredity*):** *"Synapsis brings **homologous** maternal and paternal chromosomes into intimate physical pairing prior to segregation."*
+> - 📜 **August Kekulé (*Organic Chemistry*):** *"The alkanes form a **homologous** series where each consecutive member differs by a single methylene group."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of simple, single.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of simple, single.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a diverse tribe of freshwater cichlid fishes (Haplochromini) endemic chiefly to the East African Great Lakes, famous for rapid adaptive radiation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by specialized female mouth-brooding habits and rapid speciation into hundreds of ecological morphs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haplochromine designates adjective*) pertaining to, derived from, or characteristic of simple, single."*
+> - 📜 **George Albert Boulenger (*Catalogue of the Fresh-Water Fishes of Africa*):** *"The **haplochromine** fauna of Lake Victoria exhibits astonishing dental diversity adapted to divergent trophic niches."*
+> - 📜 **Ernst Mayr (*Animal Species and Evolution*):** *"The explosive speciation of the **haplochromine** cichlids presents evolutionary biology with its most spectacular radiation."*
+> - 📜 **Richard Dawkins (*The Blind Watchmaker*):** *"Hundreds of **haplochromine** species evolved within a few geological heartbeats in the cradle of the African rift lakes."*

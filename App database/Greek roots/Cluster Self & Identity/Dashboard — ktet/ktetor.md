@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ktet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Self & Identity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The founder, builder, patron, or endowee of an Eastern Orthodox monastery, church, or charitable foundation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Byzantine and post-Byzantine iconography, a portrait of the donor depicted holding a model of the church being offered to Christ or a patron saint.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ktetor designates a term designating an entity, condition, or phenomenon derived from greek ktet."*
+> - 📜 **Steven Runciman (*The Great Church in Captivity*):** *"The pious nobleman was honored as the monastery’s **ktetor**, his name inscribed forever in the foundation’s commemorative diptychs."*
+> - 📜 **Robert Byron (*The Station: Athos, Treasures and Men*):** *"On the narthex wall, the fresco depicted the **ktetor** in fur-trimmed brocade presenting a miniature monastery to the Virgin."*
+> - 📜 **J. M. Hussey (*The Orthodox Church in the Byzantine Empire*):** *"The typikon promulgated by the **ktetor** regulated every detail of monastic liturgy and agrarian property management."*

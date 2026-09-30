@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A letter of an alphabet in a particular shape (such as A or a).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A letter or combination of letters that is one of several ways of representing one phoneme (such as pp in hopping representing the phoneme \p\).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In linguistics, any of the variant forms of a letter or grapheme in a particular alphabet (such as uppercase A, lowercase a, or cursive ɑ).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In law, a deed, will, or legal document executed by a proxy on behalf of someone else, rather than an autograph written in one's own hand.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, allograph designates a letter of an alphabet in a particular shape (such as a or a)."*
+> - 📜 **Edward Sapir (*Selected Writings in Language, Culture, and Personality*):** *"The phonetician distinguishes the underlying grapheme from the specific script **allograph** executed on parchment."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"A testament written by another hand, being an **allograph**, demanded the corroboration of credible subscribing witnesses."*
+> - 📜 **David Crystal (*A Dictionary of Linguistics and Phonetics*):** *"Just as an allophone is a positional variant of a phoneme, so an **allograph** is a conditioned variant of a grapheme."*

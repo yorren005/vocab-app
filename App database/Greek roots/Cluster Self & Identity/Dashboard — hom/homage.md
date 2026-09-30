@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Respectful deference.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Respectful deference.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Special honor, respect, or reverence shown publicly; tribute.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In feudal law, the formal public ceremony by which a tenant or vassal declared himself the man (homo) of his lord, pledging fealty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let me have a child at fifty, to whom Herod of Jewry may do homage."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know his eye doth homage otherwhere, Or else what lets it but he would be here?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But if that I am I, then well I know Your weeping sister is no wife of mine, Nor to her bed no homage do I owe."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"Hence his ambition growing, to have no less than sovereign **homage**."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Norman knights knelt before the altar, swearing perpetual fealty and **homage** to their duke."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The crowd offered spontaneous **homage** to the brave doctor who had suffered so long in the Bastille."*

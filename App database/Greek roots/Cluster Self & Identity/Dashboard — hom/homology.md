@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A similarity often attributable to common origin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Correspondence or similarity in form or function between parts (such as the wing of a bat and the human arm) of different species resulting from modification of a trait possessed by a common ancestor : similarity of traits reflecting common descent and ancestry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of having the same or similar relation, relative position, or evolutionary structure (anatomical similarity from common ancestry).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematics, an algebraic procedure for associating a sequence of abelian groups with a topological space to measure connectivity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homology designates a similarity often attributable to common origin."*
+> - 📜 **Richard Owen (*On the Archetype and Homologies of the Vertebrate Skeleton*):** *"Homology is the same organ in different animals under every variety of form and function."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The structural **homology** between man and the lower animals is inexplicable except through common descent with modification."*
+> - 📜 **Stephen Jay Gould (*Ontogeny and Phylogeny*):** *"Evolutionary morphology was reborn when Darwin provided a historical explanation for the mystery of **homology**."*

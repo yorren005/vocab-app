@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek idi.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Self & Identity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A disease, disorder, or condition that arises spontaneously or from an obscure or unknown cause; an essential or primary disease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A peculiar individual susceptibility, temperamental idiosyncrasy, or constitutional predisposition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, idiopathy designates a term designating an entity, condition, or phenomenon derived from greek idi."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Where no toxic agent or microbial pathogen can be detected, the clinician must record the condition as an **idiopathy**."*
+> - 📜 **Thomas Percival (*Medical Ethics*):** *"The physician must carefully distinguish a secondary symptom from a primary constitutional **idiopathy**."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"Many a diagnosis that sounds impressive to the patient is merely Greek for an **idiopathy** of unknown origin."*

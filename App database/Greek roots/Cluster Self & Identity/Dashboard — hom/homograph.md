@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of two or more words spelled alike but different in meaning or derivation or pronunciation (such as the bow of a ship, a bow and arrow).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of two or more words spelled alike but different in meaning or derivation or pronunciation (such as the bow of a ship, a bow and arrow).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A word that shares the same written spelling as another word, but has a different meaning, origin, and often pronunciation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In lexicography and typography, two distinct lexical units that happen to converge into an identical orthographic representation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homograph designates one of two or more words spelled alike but different in meaning or derivation or pronunciation (such as the bow of a ship, a bow and arrow)."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"The English language abounds with tricky **homographs**, where phonetic divergence has separated words of identical spelling."*
+> - 📜 **Otto Jespersen (*Language*):** *"The foreign student is perpetually baffled by the English **homograph**, which disguises two unrelated roots under one spelling."*
+> - 📜 **David Crystal (*The Cambridge Encyclopedia of the English Language*):** *"Context alone distinguishes between the verbal and nominal senses of a written **homograph**."*

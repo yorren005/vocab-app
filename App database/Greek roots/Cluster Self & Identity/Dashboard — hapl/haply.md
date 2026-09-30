@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By accident.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By accident.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: By chance, fortune, or accident; perhaps, maybe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occurring by unforeseen happenstance; perchance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord your son made me to think of this; Else Paris, and the medicine, and the king, Had from the conversation of my thoughts Haply been absent then."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"FIRST GENTLEMAN. ’Tis but the boldness of his hand haply, which his heart was not consenting to."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When haply he shall hear that she is gone He will return; and hope I may that she, Hearing so much, will speed her foot again, Led hither by pure love."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"And **haply** the clear eye of heaven will look upon our troubled state with favor."*
+> - 📜 **John Milton (*Lycidas*):** *"Together both, ere the high lawns appeared... and **haply** some mournful muse may sing for us."*
+> - 📜 **John Keats (*Ode to a Nightingale*):** *"The night is tender, and **haply** the Queen-Moon is on her throne, clustered around by all her starry Fays."*

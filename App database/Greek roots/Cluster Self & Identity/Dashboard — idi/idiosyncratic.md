@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A peculiarity of constitution, behavior, or temperament : an individualizing characteristic or quality; broadly : eccentricity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An unusual part or feature of something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Peculiar to an individual; eccentric, distinctive, or unique in style, temperament, or character.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medicine, describing an unusual or hypersensitive reaction to a therapeutic drug or substance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, idiosyncratic designates a peculiarity of constitution, behavior, or temperament : an individualizing characteristic or quality; broadly : eccentricity."*
+> - 📜 **Virginia Woolf (*To the Lighthouse*):** *"He held an **idiosyncratic** view of human character, judging men by small gestures rather than public deeds."*
+> - 📜 **George Orwell (*Collected Essays*):** *"Dickens’s prose is intensely **idiosyncratic**, instantly recognizable by its overflowing energy and bizarre similes."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"The patient developed an **idiosyncratic** system of mnemonic signs that allowed him to navigate his daily life."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek coen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Self & Identity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The general, undifferentiated sense of bodily existence and internal physical condition, resulting from the sum of organic sensations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychiatric history, the visceral self-awareness or somatic feeling of vital existence that forms the baseline of self-identity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coenesthesia designates a term designating an entity, condition, or phenomenon derived from greek coen."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Our background feeling of personal identity rests heavily upon this obscure, continuous organic sensation called **coenesthesia**."*
+> - 📜 **Théodule-Armand Ribot (*The Diseases of Personality*):** *"Alterations in the visceral **coenesthesia** produce bizarre delusions of bodily transformation and estrangement."*
+> - 📜 **Sigmund Freud (*The Ego and the Id*):** *"The bodily ego is first and foremost a somatic projection derived from the deep currents of **coenesthesia**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek idi.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Self & Identity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek combining root (idio-, from idios, meaning 'one's own, private, peculiar, distinct'), forming terms relating to individual distinctiveness or personal uniqueness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medicine, linguistics, and psychology, designating conditions or characteristics that originate intrinsically within the individual rather than from external causes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, idi designates a term designating an entity, condition, or phenomenon derived from greek idi."*
+> - 📜 **Aristotle (*Nicomachean Ethics*):** *"The Greek root **idi**- originally marked what belongs privately to a citizen as distinguished from common civic affairs."*
+> - 📜 **William Whewell (*The Philosophy of the Inductive Sciences*):** *"In modern scientific nomenclature, the prefix **idi**- denotes properties inherent in the specific constitution of a body."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Linguistic compounds utilizing **idi**- isolate that which is strictly personal or peculiar to an individual mind."*

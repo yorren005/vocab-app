@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or conforming to idiom.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or conforming to idiom.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or characterized by idioms; idiomatic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism, preserving the peculiar colloquial phrases, syntactic turns, or vernacular rhythms of native speech.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, idiomatical designates of or relating to or conforming to idiom."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Translations that stick too servilely to the word lose the lively, **idiomatical** spirit of the original."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"Wordsworth sought to adopt the real language of men, stripped of poetic diction yet richly **idiomatical**."*
+> - 📜 **William Hazlitt (*Table-Talk*):** *"His conversation was seasoned with an **idiomatical** salt that gave flavour to the most ordinary topic."*

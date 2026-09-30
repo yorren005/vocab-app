@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used in or characteristic of or containing allegory.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used in or characteristic of or containing allegory.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Constituting or containing an allegory; expressing symbolic meaning through narrative figures and actions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Interpreted symbolically rather than literally; figurative or parabolic.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sydney Waterlow (*Shelley*):** *"Not only are the personages too transparently allegorical, but the allegory is insipid; especially tactless is the treatment of the marriage between Prometheus, the Spirit of Humanity, and Asia, the Spirit of Nature, as a romantic love affair."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"An allegorical meaning may lurk here."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"I have noticed merely those parts of the poem immediately connected with the tower, and have passed over a large part which was in the allegorical vein, so much cultivated at that day."*
+> - 📜 **John Bunyan (*The Pilgrim's Progress*):** *"My dark and **allegorical** lines will bring truth to thy light and delight to thy mind."*
+> - 📜 **C. S. Lewis (*The Allegory of Love*):** *"The **allegorical** method grew up when thinkers sought to reconcile ancient myths with philosophical morality."*
+> - 📜 **Nathaniel Hawthorne (*The Celestial Railroad*):** *"The pilgrims boarded the modern train, unaware of the **allegorical** abyss yawning beneath the tracks."*

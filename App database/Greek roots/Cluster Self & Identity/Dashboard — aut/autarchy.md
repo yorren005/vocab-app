@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: autarky.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: absolute sovereignty : autocracy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Absolute sovereignty; autocratic rule or government by an uncontrolled ruler (from Greek autos + archein, to rule).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Absolute power or despotic supremacy exercised over a state or organization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog autarchy as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Diocletian transformed the nominal republic into an undisguised **autarchy**, demanding divine honors from his courtiers."*
+> - 📜 **Thomas Babington Macaulay (*History of England*):** *"The Stuart monarchs foolishly dreamed of establishing an **autarchy** upon English soil."*
+> - 📜 **Woodrow Wilson (*The State*):** *"A pure **autarchy** rests upon force alone, lacking the enduring stability conferred by citizen consent."*

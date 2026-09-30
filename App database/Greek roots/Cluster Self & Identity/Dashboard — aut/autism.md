@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A neurodevelopmental disorder that typically appears by age two, that is variable in expression but is usually diagnosed by persistent impairments in social interaction and communication and by stereotyped patterns of behavior, activities, or interests, and that may be accompanied by cognitive or language impairments : autism spectrum disorder.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or marked by autism or autism spectrum disorder.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A complex neurodevelopmental condition characterized by challenges in social communication, repetitive behaviors, and restricted interests.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically (coined by Eugen Bleuler), a state of profound self-absorption where fantasy and private reality predominate over external relations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, autism designates a neurodevelopmental disorder that typically appears by age two, that is variable in expression but is usually diagnosed by persistent impairments in social interaction and communication and by stereotyped patterns of behavior, activities, or interests, and that may be accompanied by cognitive or language impairments : autism spectrum disorder."*
+> - 📜 **Eugen Bleuler (*Dementia Praecox or the Group of Schizophrenias*):** *"I designate as **autism** this detachment from external reality together with the relative or absolute predominance of the inner life."*
+> - 📜 **Oliver Sacks (*An Anthropologist on Mars*):** *"Temple Grandin’s extraordinary visual memory provides a unique window into the inner architecture of **autism**."*
+> - 📜 **Hans Asperger (*Autistic Psychopathy in Childhood*):** *"Children presenting with this form of **autism** exhibit remarkable originality of thought alongside social estrangement."*

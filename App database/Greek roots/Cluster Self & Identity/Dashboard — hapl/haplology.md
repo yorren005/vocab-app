@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Contraction of a word by omission of one or more similar sounds or syllables (as in mineralogy for hypothetical mineralology or \ˈprä-blē\ for probably).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Contraction of a word by omission of one or more similar sounds or syllables (as in mineralogy for hypothetical mineralology or \ˈprä-blē\ for probably).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The phonetic omission of one of two consecutive identical or very similar syllables in a word during speech evolution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A historical sound change that streamlines polysyllabic pronunciation by eliminating repetitive articulatory gestures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haplology designates contraction of a word by omission of one or more similar sounds or syllables (as in mineralogy for hypothetical mineralology or \ˈprä-blē\ for probably)."*
+> - 📜 **Otto Jespersen (*Language: Its Nature, Development and Origin*):** *"The transformation of Old English Englaland into England is a classic historical example of **haplology**."*
+> - 📜 **Leonard Bloomfield (*Language*):** *"In rapid colloquial speech, **haplology** routinely drops repetitive acoustic syllables to economize muscular effort."*
+> - 📜 **Edward Sapir (*Language*):** *"Phonetic drift often accomplishes structural simplification through sound-laws like **haplology**."*

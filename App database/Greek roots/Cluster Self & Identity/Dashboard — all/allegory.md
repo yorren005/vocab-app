@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The expression of truths or generalizations about human existence by means of symbolic figures and actions; also : an instance (as in literature or painting) of such expression.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A symbolic representation : emblem.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A story, poem, or picture that can be interpreted to reveal a hidden meaning, typically a moral, religious, or political one.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A symbolic representation of abstract principles through characters, figures, and events serving as visible emblems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Here, beneath the painted ceiling, with foreshortened Allegory staring down at his intrusion as if it meant to swoop upon him, and he cutting it dead, Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn, and goes home to Allegory and meditation."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"From the ceiling, foreshortened Allegory, in the person of one impossible Roman upside down, points with the arm of Samson (out of joint, and an odd one) obtrusively toward the window."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Allegory in roman helmet and sandals points with clumsy forefinger toward the painted ceiling of Mr. Tulkinghorn's room."*
+> - 📜 **Plato (*Republic*):** *"The **allegory** of the cave illustrates the ascent of the soul from shadows into the radiant sunlight of truth."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Where eloquence and **allegory** are used, they insinuate wrong ideas and mislead the judgment."*

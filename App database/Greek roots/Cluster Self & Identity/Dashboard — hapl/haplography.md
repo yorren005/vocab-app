@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hapl.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Self & Identity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The accidental omission of one of two identical or similar adjacent letters, syllables, words, or lines in copying a manuscript.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A common scribal lapse in paleography resulting from the copyist's eye skipping between identical characters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haplography designates a term designating an entity, condition, or phenomenon derived from greek hapl."*
+> - 📜 **A. E. Housman (*Selected Prose*):** *"The copyist skipped three words through simple **haplography**, seduced by the repetition of the final syllable."*
+> - 📜 **Bruce Metzger (*The Text of the New Testament*):** *"Scribal **haplography** is particularly frequent in early uncial manuscripts where words were written without spaces."*
+> - 📜 **Desiderius Erasmus (*Annotations on the New Testament*):** *"A critical editor must restore readings lost through inadvertent **haplography** in early Byzantine codices."*

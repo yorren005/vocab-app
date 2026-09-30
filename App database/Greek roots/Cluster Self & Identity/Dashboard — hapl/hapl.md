@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: single.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: haploid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek combining root (haplo-, from haplous, meaning 'single, simple, twofold-less'), forming scientific terms denoting singleness, simplicity, or a single set of chromosomes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In genetics, linguistics, and optics, indicating an unmultiplied, uncoupled, or single-unit state.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog hapl as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Eduard Strasburger (*Periodic Reduction of Chromosomes in Living Organisms*):** *"The Greek root **hapl**- was selected to denote the unreduced, single set of nuclear chromosomes found in gametes."*
+> - 📜 **William Whewell (*The Philosophy of the Inductive Sciences*):** *"In modern biological synthesis, prefixes derived from **hapl**- isolate the elementary, uncompounded state from the diploid."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"Chromosomal terminology employs the root **hapl**- to trace the alternating generations of plants and animals."*

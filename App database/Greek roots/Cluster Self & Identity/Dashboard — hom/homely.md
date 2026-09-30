@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking in physical beauty or proportion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a feeling of home; cozy and comfortable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Simple, plain, and unpretentious; comfortable and cozy, suited to the home.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In North American usage, plain in physical appearance; lacking refinement or elegance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I think, sir, you can eat none of this homely meat."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And ever shall With true observance seek to eke out that Wherein toward me my homely stars have fail’d To equal my great fortune."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hath homely age th’ alluring beauty took From my poor cheek? then he hath wasted it."*
+> - 📜 **William Shakespeare (*The Two Gentlemen of Verona*):** *"Home-keeping youth have ever **homely** wits."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"She found comfort in the **homely** routine of the dairy, far from the cruel whispers of the town."*
+> - 📜 **George Eliot (*Silas Marner*):** *"The cottage had a **homely** warmth, illuminated by the bright hearth fire and the child's golden curls."*

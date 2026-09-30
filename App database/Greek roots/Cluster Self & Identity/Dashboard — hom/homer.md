@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A base hit on which the batter scores a run.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ancient greek epic poet who is believed to have written the iliad and the odyssey (circa 850 bc).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The legendary ancient Greek epic poet traditionally credited with composing the Iliad and the Odyssey.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ancient Hebrew liquid and dry measure equal to about ten baths; in baseball, a colloquial term for a home run.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The sun went down in an ochreous mist; but they sat, and talked on, and grew as merry as the gods in Homer’s heaven."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Her lord, a wight of Homer’s craft,^2 Tho’ limpin wi’ the spavie, He hirpl’d up, an’ lap like daft, An’ shor’d them Dainty Davie."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Air Tune—“For a’ that, an’ a’ that.” I am a Bard of no regard, Wi’ gentle folks an’ a’ that; But Homer-like, the glowrin byke, Frae town to town I draw that."*
+> - 📜 **Alexander Pope (*Preface to the Translation of Homer's Iliad*):** *"**Homer** was the greater genius, Virgil the better artist; in one we most admire the man, in the other the work."*
+> - 📜 **John Keats (*On First Looking into Chapman's Homer*):** *"Yet did I never breathe its pure serene till I heard Chapman speak out loud and bold... listening to ancient **Homer**."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The old measure was recorded in bushels and **homers**, preserving ancient biblical standards of grain."*

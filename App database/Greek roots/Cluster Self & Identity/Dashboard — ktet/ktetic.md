@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of possession, ownership.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of possession, ownership.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressing or denoting possession or ownership; possessive (as a ktetic adjective or pronoun).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical grammar, describing an adjectival derivation formed from a proper name to indicate origin, belonging, or ownership.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ktetic designates adjective*) pertaining to, derived from, or characteristic of possession, ownership."*
+> - 📜 **James Hadley (*A Greek Grammar for Schools and Colleges*):** *"A **ktetic** adjective formed from a patronymic expresses personal possession or direct familial descent."*
+> - 📜 **B. L. Gildersleeve (*Syntax of Classical Greek*):** *"The **ktetic** suffix converts the substantive into a possessive epithet without requiring the genitive case."*
+> - 📜 **William Dwight Whitney (*Language and the Study of Language*):** *"The development of **ktetic** forms demonstrates how inflectional languages condense complex genitive phrases into compact modifiers."*

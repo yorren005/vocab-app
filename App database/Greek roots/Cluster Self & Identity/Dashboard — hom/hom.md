@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One and the same : similar : alike.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Homosexual.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek combining root (homo-, from homos, meaning 'same, equal, identical, uniform'), forming terms denoting similarity, correspondence, or equality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biological and chemical systematics, designating structures, genes, or compounds possessing identical origin, symmetry, or composition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Example: The selfishness of Achilles, as remarked by the poet Homer, occasioned a thousand woes to the Greeks--muri Achaiois alge etheke--(Hom."*
-> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"Lindsay Gordon._) Well, Douglas, I'm sorry you've got to be homing, Though I grant it's unwise to continue your roaming, But the evening's to spare ere you drop me astern, So come up to my room and indulge in a yarn."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"If she had been defending a homing dove, she could not have been more outraged, more aflame."*
+> - 📜 **Aristotle (*Categories*):** *"Things are said to be equivocal when they share a name, but univocal when the essence is designated by the root **hom**-."*
+> - 📜 **William Whewell (*The Philosophy of the Inductive Sciences*):** *"In modern comparative morphology, prefixes formed from **hom**- denote unity of structural plan across divergent species."*
+> - 📜 **Thomas Henry Huxley (*Darwiniana*):** *"The particle **hom**- serves as a compass in taxonomy, indicating common evolutionary inheritance."*

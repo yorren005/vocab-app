@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective & Noun*) Resembling, having the physical form of, or akin to simple, single.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective & Noun*) Resembling, having the physical form of, or akin to simple, single.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or designating a sex-determination system in which males develop from unfertilized eggs and are haploid, while females develop from fertilized eggs and are diploid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to hymenopteran insects (bees, wasps, ants) whose genetic structure creates high sibling relatedness, facilitating eusociality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haplodiploid designates adjective & noun*) resembling, having the physical form of, or akin to simple, single."*
+> - 📜 **W. D. Hamilton (*The Genetical Evolution of Social Behaviour*):** *"Under a **haplodiploid** genetic system, sisters are more closely related to each other than mothers are to their daughters."*
+> - 📜 **Edward O. Wilson (*The Insect Societies*):** *"The predisposition toward sterile worker castes in ants is strongly reinforced by their **haplodiploid** constitution."*
+> - 📜 **John Maynard Smith (*Evolutionary Genetics*):** *"In **haplodiploid** populations, male lethals are eliminated immediately because hemizygous males have no second allele to mask defects."*

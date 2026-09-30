@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek coen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Self & Identity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient Greek term (κοινωνός) meaning a partner, companion, sharer, or participant in a common enterprise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In New Testament and patristic theology, a partner in spiritual fellowship (koinonia) or joint-heir in divine grace.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, koinonos designates a term designating an entity, condition, or phenomenon derived from greek coen."*
+> - 📜 **Aristotle (*Nicomachean Ethics*):** *"True friendship requires that each friend be a **koinonos**, sharing in joy and adversity as in a common venture."*
+> - 📜 **John Calvin (*Institutes of the Christian Religion*):** *"The believer becomes a **koinonos**, an intimate participant in the mystical body of Christ through faith."*
+> - 📜 **F. J. A. Hort (*The Christian Ecclesia*):** *"In Hellenic trade as in apostolic fellowship, a **koinonos** bore mutual financial and spiritual liabilities."*

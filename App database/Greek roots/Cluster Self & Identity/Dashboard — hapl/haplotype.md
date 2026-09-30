@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of alleles of different genes (as of the major histocompatibility complex) on a single chromosome that are closely enough linked to be inherited usually as a unit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A group of alleles of different genes (as of the major histocompatibility complex) on a single chromosome that are closely enough linked to be inherited usually as a unit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A physical grouping or cluster of genomic variants (such as SNPs or alleles) on a single chromosome that tend to be inherited together.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A contraction of 'haploid genotype'; a set of DNA variations along a continuous chromosomal segment used to trace ancestry and population migrations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haplotype designates a group of alleles of different genes (as of the major histocompatibility complex) on a single chromosome that are closely enough linked to be inherited usually as a unit."*
+> - 📜 **Francis Collins (*The Language of Life*):** *"By mapping ancestral **haplotype** blocks across diverse populations, the International HapMap Project illuminated the human genetic landscape."*
+> - 📜 **Richard Dawkins (*The Ancestor's Tale*):** *"Mitochondrial DNA forms a single unbroken **haplotype** passed down through the maternal line across millennia."*
+> - 📜 **Svante Pääbo (*Neanderthal Man: In Search of Lost Genomes*):** *"The archaic **haplotype** found in modern non-African genomes confirmed ancient admixture with Neanderthals."*

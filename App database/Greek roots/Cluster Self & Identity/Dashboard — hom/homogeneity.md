@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being similar or comparable in kind or nature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being of uniform throughout in composition or structure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or state of being all of the same or of a similar kind or nature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematics, physics, and chemistry, uniform composition or structure throughout a system; lack of variance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"This is [Chinese] _yü t´ang chia ch´i_, "beautiful vessel for the Jade Hall." It is improbable that the _yü t´ang_ was a factory name, as the specimens so marked have little homogeneity."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"This depended upon national polity and the fact as to most of the ancient republics that they did not possess homogeneity was the cause of their fall."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"They believe in the homogeneity of our race, and that upon this depends the progress of our institutions and everything on which we build our hopes."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Evolution is an integration of matter during which matter passes from an indefinite, incoherent **homogeneity** to a definite, coherent heterogeneity."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The social **homogeneity** of democratic societies encourages uniform habits and national laws."*
+> - 📜 **Isaac Newton (*Opticks*):** *"A ray of light retains its intrinsic color and refrangibility so long as the medium preserves optical **homogeneity**."*

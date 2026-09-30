@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek coen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Self & Identity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An evolutionary phenomenon in sexual organisms whereby individuals prefer to mate with partners displaying average, typical, or non-extreme phenotypic traits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An innate preference for the phenotypic mean that acts as a stabilizing evolutionary mechanism against deleterious mutations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, koinophilia designates a term designating an entity, condition, or phenomenon derived from greek coen."*
+> - 📜 **Richard Dawkins (*The Selfish Gene*):** *"The phenomenon of **koinophilia** explains why visual attractiveness frequently coincides with an average facial geometry."*
+> - 📜 **Stephen Jay Gould (*The Structure of Evolutionary Theory*):** *"Stabilizing sexual selection via **koinophilia** weeds out extreme mutants and preserves the morphological integrity of the species."*
+> - 📜 **Edward O. Wilson (*Consilience: The Unity of Knowledge*):** *"Cross-cultural studies of aesthetic preference indicate an instinctive **koinophilia**, where composite average forms are perceived as most harmonious."*

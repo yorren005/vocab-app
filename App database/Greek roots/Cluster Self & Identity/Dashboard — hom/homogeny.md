@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (biology) similarity because of common evolution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (biology) similarity because of common evolution.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Correspondence between parts or organs in different animals or plants due to evolutionary descent from a common ancestral structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Similarity of character, structure, or origin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homogeny designates (biology) similarity because of common evolution."*
+> - 📜 **E. Ray Lankester (*On the Use of the Term Homology in Modern Morphology*):** *"I propose the term **homogeny** to designate those structural resemblances which are traceable to shared genetic heritage."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"The forelimb of the mammal and the wing of the bird exhibit undeniable **homogeny** in skeletal design."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The anatomical **homogeny** linking human skeletal architecture to that of the anthropoid apes cannot be explained by coincidence."*

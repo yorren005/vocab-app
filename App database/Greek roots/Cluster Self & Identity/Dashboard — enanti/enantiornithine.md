@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of opposite.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of opposite.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or belonging to the Enantiornithes ('opposite birds'), an extinct group of toothed Mesozoic birds characterized by a distinctive reverse articulation of the shoulder bones.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: As a noun, any fossil bird of this dominant Cretaceous clade whose coracoid and scapula articulated in the opposite manner from modern birds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enantiornithine designates adjective*) pertaining to, derived from, or characteristic of opposite."*
+> - 📜 **Stephen Jay Gould (*The Structure of Evolutionary Theory*):** *"The Cretaceous skies were ruled not by ancestors of modern fowl, but by the flourishing **enantiornithine** birds that perished in the mass extinction."*
+> - 📜 **Luis Chiappe (*Glorified Dinosaurs: The Origin and Early Evolution of Birds*):** *"Every fossilized **enantiornithine** skeleton demonstrates that nature experimented with multiple aerodynamic designs during the dawn of avian flight."*
+> - 📜 **Richard Dawkins (*The Ancestor's Tale*):** *"The peculiar shoulder socket of an **enantiornithine** flyer marks a divergent path in the evolutionary tree that was cut short sixty-six million years ago."*

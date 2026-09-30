@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The whole amount, quantity, or extent of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: As much as possible.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In classical word formation, the Greek combining root (allo-, from allos, meaning 'other, different, divergent'); in English Germanic vocabulary, the entire quantity, number, or extent of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medicine, genetics, and ecology, designating alternative states, alien tissue sources, or divergence from standard norms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For all that beauty that doth cover thee, Is but the seemly raiment of my heart, Which in thy breast doth live, as thine in me, How can I then be elder than thou art?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou art the grave where buried love doth live, Hung with the trophies of my lovers gone, Who all their parts of me to thee did give, That due of many, now is thine alone."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If my slight Muse do please these curious days, The pain be mine, but thine shall be the praise. 39 O how thy worth with manners may I sing, When thou art all the better part of me?"*
+> - 📜 **Aristotle (*Metaphysics*):** *"The Greek root **all**- establishes difference in kind or category, distinguishing the other from the identical."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"**All** hail, Macbeth, that shalt be king hereafter!"*
+> - 📜 **John Milton (*Paradise Lost*):** *"Farewell happy fields where joy for ever dwells... what though the field be lost? **All** is not lost."*

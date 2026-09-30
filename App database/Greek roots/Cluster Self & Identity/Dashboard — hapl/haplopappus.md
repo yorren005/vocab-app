@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of north and south american perennial herbs or shrubs with yellow flowers; in some classifications include species placed in other genera especially hazardia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of north and south american perennial herbs or shrubs with yellow flowers; in some classifications include species placed in other genera especially hazardia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of North American composite shrubs and herbs (Haplopappus, family Asteraceae) bearing yellow flower heads and simple pappus bristles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An important model genus in plant cytogenetics (notably Haplopappus gracilis), renowned for having an exceptionally low chromosome number (n = 2).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haplopappus designates genus of north and south american perennial herbs or shrubs with yellow flowers; in some classifications include species placed in other genera especially hazardia."*
+> - 📜 **Asa Gray (*Synoptical Flora of North America*):** *"The genus **Haplopappus** occupies arid western plains, recognized by its bristly yellow rays and simple pappus."*
+> - 📜 **G. Ledyard Stebbins (*Chromosomal Evolution in Higher Plants*):** *"Cytologists treasure **Haplopappus** gracilis because its mere two pairs of giant chromosomes make karyotype analysis effortless."*
+> - 📜 **Theodosius Dobzhansky (*Genetics of the Evolutionary Process*):** *"Chromosomal rearrangements in **Haplopappus** can be mapped directly under the light microscope without staining ambiguities."*

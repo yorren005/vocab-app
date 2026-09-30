@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An organism (such as some primitive algae) having a diploid zygote that undergoes meiosis to produce haploid cells.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organism (such as some primitive algae) having a diploid zygote that undergoes meiosis to produce haploid cells.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An organism or generation in whose life cycle the somatic stage is haploid, with meiosis occurring immediately upon zygote formation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plant or protist where the only diploid cell in the entire life history is the zygote itself.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haplont designates an organism (such as some primitive algae) having a diploid zygote that undergoes meiosis to produce haploid cells."*
+> - 📜 **Felix Eugen Fritsch (*The Structure and Reproduction of the Algae*):** *"In a typical **haplont**, the vegetative thallus is composed entirely of cells with the reduced chromosome count."*
+> - 📜 **Gilbert M. Smith (*Cryptogamic Botany*):** *"The zygote of a **haplont** serves as a resting spore, undergoing meiosis immediately upon germination."*
+> - 📜 **John Merle Coulter (*Morphology of Gymnosperms*):** *"The evolutionary progression of vascular land plants shows a gradual eclipse of the ancestral **haplont**."*

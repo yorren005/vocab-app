@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Automobile.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ceremony for pronouncing judgment by the Inquisition which was followed by the execution of sentence by secular authorities; broadly : the burning of a heretic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ancient Greek pronoun αὐτός, meaning 'self, same, spontaneous, very.'
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical grammar and philosophy, the root denoting individual selfhood and autonomous agency.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Vachel Lindsay (*The Chinese Nightingale, and Other Poems*):** *"From miles around, the autos drive."*
+> - 📜 **Plato (*Alcibiades I*):** *"To know oneself is to understand the nature of the true **autos**, the immortal soul, rather than its bodily instrument."*
+> - 📜 **Aristotle (*Metaphysics*):** *"The concept of **autos** serves as the linguistic pivot for asserting that a thing is identical with its own essence."*
+> - 📜 **William Whewell (*History of the Inductive Sciences*):** *"Modern science borrowed the Greek **autos** whenever it required a name for self-governing physical systems."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Intended to deceive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intended to deceive.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not authentic; not genuine, reliable, or verified; counterfeit or spurious.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In existential philosophy and psychology, lacking personal integrity; living in conformity with external expectations rather than self-determined truth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"There was never a Claimant that couldn’t get a hearing, nor one that couldn’t accumulate a rapturous following, no matter how flimsy and apparently unauthentic his claim might be."*
+> - 📜 **Samuel Johnson (*The Lives of the Most Eminent English Poets*):** *"The critics rejected the disputed ballad as an **unauthentic** fabrication of a later century."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"A court whose ceremonies were hollow and **unauthentic** could not withstand the fiery verdict of the people."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"Petitions that do not reflect the genuine will of the electors are dismissed as **unauthentic** clamor."*

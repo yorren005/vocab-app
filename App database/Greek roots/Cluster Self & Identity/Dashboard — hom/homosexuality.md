@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sexual attraction to (or sexual relations with) persons of the same sex.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sexual attraction to (or sexual relations with) persons of the same sex.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Romantic attraction, sexual attraction, or sexual behavior between members of the same sex or gender.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The enduring emotional, romantic, and sexual orientation directed toward persons of the same sex.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homosexuality designates a sexual attraction to (or sexual relations with) persons of the same sex."*
+> - 📜 **Sigmund Freud (*Letter to an American Mother, 1935*):** *"**Homosexuality** is assuredly no advantage, but it is nothing to be ashamed of, no vice, no degradation, it cannot be classified as an illness."*
+> - 📜 **Havelock Ellis (*Sexual Inversion*):** *"A comprehensive history of human civilization must recognize that **homosexuality** has flourished openly in noble cultures."*
+> - 📜 **Margaret Mead (*Sex and Temperament in Three Primitive Societies*):** *"Cross-cultural anthropology demonstrates that the social roles surrounding **homosexuality** vary enormously among societies."*

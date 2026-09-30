@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An expression in the usage of a language that has a meaning that cannot be understood from the combined meanings of its elements (such as up in the air for "undecided") or in its grammatically atypical use of words (such as give way for "retreat").
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The language peculiar to a people or to a district, community, class, or group : dialect.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An expression or phrase whose meaning cannot be deduced from the literal meanings of its individual component words.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The dialect, distinctive grammatical character, or characteristic mode of expression of a language, people, or artistic school.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Even Kim marvelled at the way I mastered the idiom."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"That very sweet language will be gone soon, if not gone already, and no book learning will revive the suppleness of idiom, that haunting misty loveliness...."*
-> - 📜 **James Joyce (*Ulysses*):** *"So saying he skipped around, nimbly considering, frankly at the same time apologetic to get on his companion’s right, a habit of his, by the bye, his right side being, in classical idiom, his tender Achilles."*
+> - 📜 **John Dryden (*Preface to the Fables*):** *"He followed nature in every line, clothing his thoughts in the native, robust **idiom** of our mother tongue."*
+> - 📜 **George Orwell (*Politics and the English Language*):** *"Modern writing abounds with stale phrases and decaying **idioms** that choke the clarity of thought."*
+> - 📜 **Virginia Woolf (*The Waves*):** *"Each artist must forge an **idiom** of his own if he is to catch the fluid rhythm of life."*

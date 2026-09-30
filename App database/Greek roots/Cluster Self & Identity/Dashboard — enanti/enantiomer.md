@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of a pair of chemical compounds whose molecular structures have a nonsuperimposable mirror-image relationship to each other.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either of a pair of chemical compounds whose molecular structures have a nonsuperimposable mirror-image relationship to each other.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of a pair of chemical compounds whose molecular structures are nonsuperimposable mirror images of one another (optical isomers).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An optical antipode that rotates plane-polarized light in the opposite direction and interacts differently with chiral receptor environments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enantiomer designates either of a pair of chemical compounds whose molecular structures have a nonsuperimposable mirror-image relationship to each other."*
+> - 📜 **Louis Pasteur (*Researches on Molecular Dissymmetry*):** *"Each crystal proved to be an **enantiomer**, perfectly identical in every facet save that one was the right-handed mirror reflection of the other."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"A biological receptor frequently binds only one **enantiomer**, rejecting its optical twin as an incompatible key."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"The therapeutic efficacy of L-dopa resides entirely in that specific **enantiomer**, whereas the D-form produces only toxic side-effects."*

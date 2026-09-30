@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hapl.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Self & Identity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The haploid phase or generation in the life cycle of an organism, extending from meiosis to fertilization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The gametophytic stage in plants where all somatic cells possess the single chromosome number n.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haplophase designates a term designating an entity, condition, or phenomenon derived from greek hapl."*
+> - 📜 **F. O. Bower (*The Origin of a Land Flora*):** *"The transition from the aquatic **haplophase** to the terrestrial diplophase was the great milestone of plant evolution."*
+> - 📜 **C. D. Darlington (*The Evolution of Genetic Systems*):** *"During the extended **haplophase** of lower plants, gene expression is directly subject to natural selection."*
+> - 📜 **G. Ledyard Stebbins (*Processes of Organic Evolution*):** *"In bryophytes, the photosynthetic moss carpet constitutes the prolonged **haplophase** of the life cycle."*

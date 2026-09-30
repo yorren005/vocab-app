@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A usually short sermon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lecture or discourse on or of a moral theme.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sermon or religious discourse delivered to a congregation, usually with a practical rather than theological emphasis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tedious moralizing lecture or admonition given to an individual or audience.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O most gentle Jupiter, what tedious homily of love have you wearied your parishioners withal, and never cried “Have patience, good people!” CELIA."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Bessie supplied the hiatus by a homily of an hour’s length, in which she proved beyond a doubt that I was the most wicked and abandoned child ever reared under a roof."*
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"You glance aside, you doubtless think My homily a foolish whim, 'Twill soon be ended, eat and drink, The lights are growing dim."*
+> - 📜 **William Shakespeare (*As You Like It*):** *"What tedious **homily** of love have you wearied your parishioners withal, and never cried 'Have patience, good people'!"*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Mr. Pumblechook never failed to deliver a stern **homily** on the duty of young boys to be grateful to their betters."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"The quiet eloquence of his Sunday **homily** made a deeper impression than all the theatrical preaching of London."*

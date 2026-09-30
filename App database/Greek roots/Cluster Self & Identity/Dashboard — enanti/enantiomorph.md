@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Enantiomer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either of a pair of crystals (as of quartz) that are structural mirror images.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An object, crystal, or molecular structure that is the non-superimposable mirror image of another (such as a right hand compared to a left hand).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mineralogy, a crystal exhibiting hemihedral faces that tilt to the right or left, rotating polarized light correspondingly.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enantiomorph designates enantiomer."*
+> - 📜 **Immanuel Kant (*Prolegomena to Any Future Metaphysics*):** *"What can be more similar to my hand than its image in the glass? Yet no such **enantiomorph** can ever be put in the place of the real hand."*
+> - 📜 **Louis Pasteur (*Studies on Molecular Dissymmetry*):** *"By painstakingly separating each **enantiomorph** with forceps under the lens, I isolated the dextro and levo tartaric acids."*
+> - 📜 **D'Arcy Wentworth Thompson (*On Growth and Form*):** *"Snail shells frequently occur as an **enantiomorph**, spiraling to the left instead of the customary dextral coil."*

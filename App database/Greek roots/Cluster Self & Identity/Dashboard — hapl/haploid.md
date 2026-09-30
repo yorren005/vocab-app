@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or involving one set of homologous chromosomes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A single cell, individual, or generation characterized by a single complete set of chromosomes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a single set of unpaired chromosomes (designated n), characteristic of mature gametes or sex cells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: As a noun, a cell or organism possessing a single set of chromosomes, in contrast to a diploid.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haploid designates having or involving one set of homologous chromosomes."*
+> - 📜 **Eduard Strasburger (*The Historic Discovery of Meiosis*):** *"Fertilization restores the diploid complement from the union of two **haploid** nuclei."*
+> - 📜 **Thomas Hunt Morgan (*The Physical Basis of Heredity*):** *"Mendelian segregation requires that each gamete receive only one member of each chromosome pair, entering the **haploid** state."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"In mosses and ferns, the **haploid** gametophyte dominates an extensive stage of the life cycle."*

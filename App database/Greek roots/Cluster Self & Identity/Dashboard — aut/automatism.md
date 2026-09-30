@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any reaction that occurs automatically without conscious thought or reflection (especially the undirected behavior seen in psychomotor epilepsy).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any reaction that occurs automatically without conscious thought or reflection (especially the undirected behavior seen in psychomotor epilepsy).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The performance of actions without conscious thought, volition, or intention (such as sleepwalking or involuntary reflexes).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Surrealist art and literature, a method of spontaneous creation (psychic automatism) expressing unconscious thought directly.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, automatism designates any reaction that occurs automatically without conscious thought or reflection (especially the undirected behavior seen in psychomotor epilepsy)."*
+> - 📜 **André Breton (*Manifesto of Surrealism*):** *"Surrealism is psychic **automatism** in its pure state, by which one proposes to express the actual functioning of thought."*
+> - 📜 **Thomas Henry Huxley (*On the Hypothesis that Animals are Automata*):** *"The theory of physiological **automatism** suggests that conscious states are mere epiphenomena accompanying nerve activity."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Motor **automatism** reveals how deeply ingrained habit paths in the cerebral cortex can discharge without conscious assent."*

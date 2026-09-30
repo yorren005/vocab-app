@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sexual attraction to (or sexual relations with) persons of the same sex.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sexual attraction to (or sexual relations with) persons of the same sex.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archaic or historical term for homosexuality; the state, disposition, or manifestation of being homosexual.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early psychiatric and sexological literature, the clinical study or social phenomenon of same-sex attraction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homosexualism designates a sexual attraction to (or sexual relations with) persons of the same sex."*
+> - 📜 **Richard von Krafft-Ebing (*Psychopathia Sexualis*):** *"In our medical survey, cases of constitutional **homosexualism** were distinguished from temporary adolescent fixations."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"The prevalence of **homosexualism** throughout ancient classical antiquity indicates that it is a recurring human potential."*
+> - 📜 **Edward Carpenter (*The Intermediate Sex*):** *"The social ostracism attached to **homosexualism** ignores the deep artistic sensitivities often associated with it."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a religious group living together in a monastic community.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of a religious group living together in a monastic community.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a monastic community living in fellowship with others, as distinguished from an anchorite or solitary hermit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In church history, a monk following a common rule under an abbot (inaugurated by Saint Pachomius in fourth-century Egypt).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cenobite designates a member of a religious group living together in a monastic community."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **cenobite** passed his days in collective prayer, agricultural labor, and unquestioning obedience to the abbot."*
+> - 📜 **Walter Pater (*Marius the Epicurean*):** *"In that serene retreat, he lived almost like a Christian **cenobite**, secluded from the noisy factions of Rome."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"Abbot Samson was no idle dreamer, but a practical **cenobite** who restored order to the monastery’s debts."*

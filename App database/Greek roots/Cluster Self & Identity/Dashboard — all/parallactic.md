@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or due to parallax.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or due to parallax.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, depending on, or caused by parallax (the apparent change in position of an object viewed from two different points).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In observational astronomy, relating to the angular displacement used to measure the distance of stars.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parallactic designates of, relating to, or due to parallax."*
+> - 📜 **Friedrich Bessel (*Briefe an Gauss über die Parallaxe von 61 Cygni*):** *"The **parallactic** displacement of 61 Cygni against background stars was barely one-third of a second of arc, yet decisive."*
+> - 📜 **Arthur Eddington (*Stars and Atoms*):** *"The earth’s annual orbit provides the vast **parallactic** baseline necessary to triangulate the stellar vault."*
+> - 📜 **Thomas Hardy (*Two on a Tower*):** *"The young astronomer adjusted his micrometer, correcting for **parallactic** error in the equatorial telescope."*

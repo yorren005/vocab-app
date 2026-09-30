@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek noth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Self & Identity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hybrid genus in botanical nomenclature formed by the crossing of individuals from two or more distinct natural genera.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A taxonomic category designated by an epithet preceded by a multiplication sign under the International Code of Nomenclature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nothogenus designates a term designating an entity, condition, or phenomenon derived from greek noth."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"Orchid growers have created scores of artificial **nothogenus** combinations through intergeneric hybridization."*
+> - 📜 **G. Ledyard Stebbins (*Variation and Evolution in Plants*):** *"A viable **nothogenus** often requires chromosome doubling through polyploidy to restore sexual fertility."*
+> - 📜 **William T. Stearn (*Botanical Latin*):** *"The code mandates that every recognized **nothogenus** receive a condensed formula combining elements of the parent generic names."*

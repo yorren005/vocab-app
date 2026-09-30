@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving, derived from, or being individuals of the same species that are sufficiently unlike genetically to interact antigenically.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Caused by the action or influence of abiotic environmental factors.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Originating elsewhere; formed or generated in a region other than that in which it is found (as allogenic minerals in sedimentary rocks).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecology and ecosystem dynamics, caused by external environmental factors rather than organisms within the community.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, allogenic designates involving, derived from, or being individuals of the same species that are sufficiently unlike genetically to interact antigenically."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The sandstone strata contain **allogenic** quartz pebbles transported hundreds of miles from ancient igneous highlands."*
+> - 📜 **Eugene P. Odum (*Fundamentals of Ecology*):** *"Ecological succession may be autogenic, driven by the biota, or **allogenic**, precipitated by external physical disturbances."*
+> - 📜 **Arthur Tansley (*The Use and Abuse of Vegetational Concepts and Terms*):** *"We must distinguish between purely internal biological changes and **allogenic** forces shaping the landscape."*

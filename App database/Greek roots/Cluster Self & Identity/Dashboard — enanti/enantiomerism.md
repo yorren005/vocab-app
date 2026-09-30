@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek enanti.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Self & Identity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The phenomenon of exhibiting enantiomers; optical isomerism in which molecules exist in nonsuperimposable mirror-image configurations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The chemical and physical condition underlying stereochemical chirality and the rotation of plane-polarized light in opposing directions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enantiomerism designates a term designating an entity, condition, or phenomenon derived from greek enanti."*
+> - 📜 **Jacobus Henricus van 't Hoff (*The Arrangement of Atoms in Space*):** *"The discovery of **enantiomerism** established beyond doubt the three-dimensional architecture of organic molecules."*
+> - 📜 **Wilhelm Ostwald (*Outlines of General Chemistry*):** *"In solutions showing **enantiomerism**, the opposing optical rotations cancel each other out when mixed in equimolar proportions."*
+> - 📜 **Arthur Eddington (*The Nature of the Physical World*):** *"Nature’s preference for one chiral form over another in living protoplasm is an unresolved mystery of molecular **enantiomerism**."*

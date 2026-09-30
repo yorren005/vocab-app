@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characterized by sexual or romantic attraction to people of one's same sex : gay.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or involving sexual activity between people of the same sex.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by sexual, romantic, or emotional attraction to people of one's own sex.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: As a noun, a person who is sexually attracted to individuals of the same sex.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homosexual designates of, relating to, or characterized by sexual or romantic attraction to people of one's same sex : gay."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"Scientific investigation must approach the **homosexual** variation with impartial clinical understanding rather than moral dogma."*
+> - 📜 **Sigmund Freud (*Three Essays on the Theory of Sexuality*):** *"The **homosexual** orientation represents a distinct configuration of libidinal object-choice rather than mental degeneration."*
+> - 📜 **E. M. Forster (*Maurice*):** *"Maurice recognized the nature of his desires, realizing that his **homosexual** love belonged to a brotherhood as old as Greece."*

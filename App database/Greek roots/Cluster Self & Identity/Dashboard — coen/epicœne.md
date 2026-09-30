@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek coen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Self & Identity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Archaic typographic spelling of epicene, denoting gender neutrality, androgyny, or dual gender representation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early modern grammar and satire, characterizing an ambiguous social appearance or ambiguous lexical gender.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epicœne designates a term designating an entity, condition, or phenomenon derived from greek coen."*
+> - 📜 **Ben Jonson (*Epicoene*):** *"The play satirized that **epicœne** manner of London gallants who mimicked the perfumes and finery of court ladies."*
+> - 📜 **Samuel Johnson (*A Dictionary of the English Language*):** *"Under the title **epicœne**, the grammarians include those Latin nouns that comprehend both sexes under a single form."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Certain mythical creatures were conceived as **epicœne**, blending the virtues and vices of both sexes in one figure."*

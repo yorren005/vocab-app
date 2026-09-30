@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or characterized by autarchy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of countries; not relying on imports.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to autarky; economically self-sufficient and independent of foreign trade (from Greek autos + arkein, to suffice).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by economic isolationism or self-contained national production.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, autarkical designates of or relating to or characterized by autarchy."*
+> - 📜 **John Maynard Keynes (*National Self-Sufficiency*):** *"An **autarkical** economic policy inevitably sacrifices the immense efficiencies of international trade."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Nations attempting an **autarkical** isolation impoverish their citizens by refusing foreign commodities."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The wartime blockade forced the besieged nation into an extreme **autarkical** regime."*

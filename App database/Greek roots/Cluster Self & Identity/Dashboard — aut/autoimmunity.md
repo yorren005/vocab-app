@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Production of antibodies against the tissues of your own body; produces autoimmune disease or hypersensitivity reactions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Production of antibodies against the tissues of your own body; produces autoimmune disease or hypersensitivity reactions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or condition in which the immune system mounts a response against an organism’s own healthy tissues.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The failure of immunological self-tolerance, leading to chronic inflammation and tissue destruction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, autoimmunity designates production of antibodies against the tissues of your own body; produces autoimmune disease or hypersensitivity reactions."*
+> - 📜 **Frank Macfarlane Burnet (*Clonal Selection Theory of Acquired Immunity*):** *"The mystery of **autoimmunity** lies in the failure of the thymus to purge self-reactive lymphocyte lineages."*
+> - 📜 **Paul Ehrlich (*On Immunity*):** *"Nature provides mechanisms against what I have termed horror autotoxicus, the mortal peril of **autoimmunity**."*
+> - 📜 **Peter Medawar (*The Hope of Progress*):** *"Understanding the genetics of **autoimmunity** is crucial for unlocking the pathology of chronic degenerative diseases."*

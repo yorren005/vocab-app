@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek coen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Self & Identity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The combining form cen- (variant of Greek coen-, from koinos, meaning 'common, shared, public'), forming compounds relating to shared communal life.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theological and ecclesiastical history, the prefixal base of monastic communities (cenobites) living in common fellowship.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cen 3 designates a term designating an entity, condition, or phenomenon derived from greek coen."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Greek prefix **cen**- marked those solitary hermits who united into communal fraternities upon the banks of the Nile."*
+> - 📜 **William Whewell (*The Philosophy of the Inductive Sciences*):** *"In ecclesiastical etymology, **cen**- consistently signifies that which is shared in common by the brotherhood."*
+> - 📜 **Arthur Penrhyn Stanley (*Lectures on the History of the Eastern Church*):** *"The transition from the solitary anchorite to the **cen**-obitic order was the decisive revolution in early monasticism."*

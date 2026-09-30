@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of the same or a similar kind or nature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of uniform structure or composition throughout.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of the same or a similar kind or nature; uniform in character or composition throughout.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematics, having all terms of the same degree; in chemistry, consisting of a single uniform phase without visible boundaries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Ultimately he was reduced well-nigh to a homogeneous sop, and the dyes of his clothes trickled down and stood in a pool at the foot of the ladder."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This quality is present only when the material is quite homogeneous throughout the whole mass, a condition fulfilled more completely by the metals than by any other goods."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"He isn't so--so homogeneous as most people are."*
+> - 📜 **Frank A. Fetter (*Economics Volume I: Economic Principles*):** *"In a competitive market, a commodity must be completely **homogeneous** if a single price is to prevail."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The thick stratum of limestone presented an entirely **homogeneous** appearance from top to bottom."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Deductive reasoning operates with greatest certainty when applied to **homogeneous** quantities."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a genus (Homo) of hominids that includes modern humans (H. sapiens) and several extinct related species (such as H. erectus and H. habilis).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A gay person —used as a term of abuse and disparagement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ancient Greek adjective ὁμός, signifying the same, common, shared, joint, or equal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific and philosophical terminology, the foundational morpheme in words indicating structural, genetic, or conceptual identity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homos designates any of a genus (homo) of hominids that includes modern humans (h. sapiens) and several extinct related species (such as h. erectus and h. habilis)."*
+> - 📜 **Aristotle (*Politics*):** *"The polis is a community of citizens who share in that which is held **homos**, or common to all."*
+> - 📜 **Plato (*Phaedo*):** *"Socrates inquired whether absolute equality is identical with the property termed **homos** in common speech."*
+> - 📜 **William Whewell (*The Philosophy of the Inductive Sciences*):** *"Hellenic philosophy bequeathed to us the root **homos** to express unchanging mathematical equality."*

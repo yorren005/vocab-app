@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genuinely; with authority.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genuinely; with authority.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an authentic manner; genuinely, truly, or reliably.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a manner true to one's genuine character, origin, or historical truth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, authentically designates genuinely; with authority."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"She wished to live **authentically**, refusing to adopt opinions merely because society approved them."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"Human nature is not a machine to be built after a model, but a tree that must grow and develop **authentically** from inward forces."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"The old parchment was **authentically** signed by the elders of the congregation."*

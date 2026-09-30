@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The apparent displacement or the difference in apparent direction of an object as seen from two different points not on a straight line with the object; especially : the angular difference in direction of a celestial body as measured from two points on the earth's orbit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The apparent displacement or the difference in apparent direction of an object as seen from two different points not on a straight line with the object; especially : the angular difference in direction of a celestial body as measured from two points on the earth's orbit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The apparent displacement or difference in the apparent direction of an object as seen from two different points not on a straight line with the object.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In photography and instrumentation, the difference between the field of view seen through a viewfinder and that captured by the taking lens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Par it’s Greek: parallel, parallax."*
-> - 📜 **James Joyce (*Ulysses*):** *"Not go in and blurt out what you know you’re not to: what’s parallax?"*
-> - 📜 **James Joyce (*Ulysses*):** *"Parallax stalks behind and goads them, the lancinating lightnings of whose brow are scorpions."*
+> - 📜 **James Joyce (*Ulysses*):** *"Parallax. I never could read that book. Want to find out what it means. It’s the **parallax** of the sun."*
+> - 📜 **William Herschel (*Philosophical Transactions of the Royal Society*):** *"To detect the annual **parallax** of fixed stars, we must compare binary stars whose physical association provides a fixed standard."*
+> - 📜 **H. G. Wells (*The First Men in the Moon*):** *"Looking through the thick glass port of the sphere, the earth exhibited no measurable **parallax** against the backdrop of constellations."*

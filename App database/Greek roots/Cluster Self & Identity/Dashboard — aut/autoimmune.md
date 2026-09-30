@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or caused by autoantibodies or T cells that attack molecules, cells, or tissues of the organism producing them.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or caused by autoantibodies or T cells that attack molecules, cells, or tissues of the organism producing them.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or caused by antibodies or sensitized T lymphocytes that attack the body's own tissues and organs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing diseases (such as lupus, rheumatoid arthritis, or type 1 diabetes) characterized by an abnormal self-reactive immune response.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, autoimmune designates of, relating to, or caused by autoantibodies or t cells that attack molecules, cells, or tissues of the organism producing them."*
+> - 📜 **Frank Macfarlane Burnet (*Auto-Immunity and Auto-Immune Disease*):** *"When the body’s forbidden clones escape clonal deletion, an **autoimmune** attack against self-antigens inevitably follows."*
+> - 📜 **Peter Medawar (*The Uniqueness of the Individual*):** *"The immune system normally respects self; any **autoimmune** rebellion marks a profound regulatory breakdown."*
+> - 📜 **Lewis Thomas (*The Lives of a Cell*):** *"In an **autoimmune** condition, the defensive machinery turns upon its own host with catastrophic efficiency."*

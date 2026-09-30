@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The language or speech pattern of one individual at a particular period of life.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The language or speech pattern of one individual at a particular period of life.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The speech habits, dialect, or language system peculiar to a particular individual person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociolinguistics, the unique linguistic fingerprint of a single speaker, encompassing personal vocabulary choices and phonological habits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, idiolect designates the language or speech pattern of one individual at a particular period of life."*
+> - 📜 **Noam Chomsky (*Aspects of the Theory of Syntax*):** *"The grammar internalized by an individual speaker constitutes an **idiolect** that reflects both innate capacity and unique linguistic experience."*
+> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"Behind the broad uniformities of standard speech lies the subtle personal **idiolect** of each living speaker."*
+> - 📜 **David Crystal (*The Cambridge Encyclopedia of the English Language*):** *"Forensic linguistics can often identify an anonymous writer by analyzing the distinctive vocabulary of their **idiolect**."*

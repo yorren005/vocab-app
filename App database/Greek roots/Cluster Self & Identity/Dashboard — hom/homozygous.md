@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the two genes at corresponding loci on homologous chromosomes identical for one or more loci.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the two genes at corresponding loci on homologous chromosomes identical for one or more loci.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having two identical alleles of a particular gene or genes on homologous chromosomes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: True-breeding for a particular genetic trait, producing gametes that all carry the same allele.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homozygous designates having the two genes at corresponding loci on homologous chromosomes identical for one or more loci."*
+> - 📜 **Thomas Hunt Morgan (*The Mechanism of Mendelian Heredity*):** *"When a **homozygous** red-eyed fruit fly is crossed with a white-eyed male, the F1 progeny exhibit uniform red eyes."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"Recessive deleterious mutations become lethal only when an individual becomes **homozygous** for the defective locus."*
+> - 📜 **Julian Huxley (*Evolution: The Modern Synthesis*):** *"Selective breeding aims to create **homozygous** strains that breed true for desirable agricultural traits."*

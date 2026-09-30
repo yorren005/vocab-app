@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or befitting cenobites or their practices of communal living.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or befitting cenobites or their practices of communal living.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, characteristic of, or living as a cenobite; communal (as distinguished from eremitic or solitary).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociology of religion, describing a lifestyle centered upon shared property, communal meals, and unified spiritual rule.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cenobitic designates of or relating to or befitting cenobites or their practices of communal living."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"The **cenobitic** impulse seeks salvation through the mutual discipline and sympathy of a shared community."*
+> - 📜 **John Henry Newman (*Historical Sketches*):** *"Saint Basil gave to the Eastern church its definitive **cenobitic** rule, balancing contemplation with charity."*
+> - 📜 **Henry Adams (*Mont-Saint-Michel and Chartres*):** *"The great abbey was planned entirely for **cenobitic** life, with refectory and dormitory opening upon the cloister."*

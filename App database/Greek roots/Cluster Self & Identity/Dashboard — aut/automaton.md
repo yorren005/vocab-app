@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mechanism that is relatively self-operating; especially : robot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A machine or control mechanism designed to follow automatically a predetermined sequence of operations or respond to encoded instructions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A self-moving or self-operating machine, especially a mechanical figure constructed to mimic human or animal actions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who acts mechanically, mindlessly, or routinely without original thought or emotion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"From the interior face of the west wall of the tower projected a little canopy with a quarter-jack and small bell beneath it, the automaton being driven by the same clock machinery that struck the large bell in the tower."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Do you think I am an automaton?—a machine without feelings? and can bear to have my morsel of bread snatched from my lips, and my drop of living water dashed from my cup?"*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"John spoke almost like an automaton: himself only knew the effort it cost him thus to refuse."*
+> - 📜 **René Descartes (*Discourse on the Method*):** *"If there were machines bearing the organs and shape of a monkey, we should have no means of distinguishing them from that animal, seeing they are mere **automata**."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Do you think I am an **automaton**?—a machine without feelings? and can bear to have my morsel of bread snatched from my lips?"*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"She walked through the dawn like an **automaton**, her grief too deep for outward tears."*

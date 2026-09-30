@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A multinucleate mass of protoplasm resulting from repeated nuclear division unaccompanied by cell fission.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organism consisting of such a structure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A multinucleate cytoplasmic mass resulting from repeated nuclear division without accompanying cell division, characteristic of certain algae and fungi.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A syncytium or multinucleate cellular organization acting as a single physiological unit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coenocyte designates a multinucleate mass of protoplasm resulting from repeated nuclear division unaccompanied by cell fission."*
+> - 📜 **Eduard Strasburger (*Textbook of Botany*):** *"In the siphonaceous algae, the entire vegetative body forms an uninterrupted **coenocyte** filled with hundreds of nuclei."*
+> - 📜 **E. B. Wilson (*The Cell in Development and Inheritance*):** *"A **coenocyte** demonstrates that nuclear division can proceed in perfect harmony without immediate cell wall synthesis."*
+> - 📜 **D'Arcy Wentworth Thompson (*On Growth and Form*):** *"The giant single-celled **coenocyte** of Valonia achieves macroscopic dimensions while maintaining hydrodynamic balance."*

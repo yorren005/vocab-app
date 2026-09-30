@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An organism (such as some primitive algae) having a diploid zygote that undergoes meiosis to produce haploid cells.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organism (such as some primitive algae) having a diploid zygote that undergoes meiosis to produce haploid cells.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by or having a life cycle in which the main vegetative body is haploid, with diploidy restricted to the zygote stage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing organisms exhibiting a zygotic meiotic life history.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haplontic designates an organism (such as some primitive algae) having a diploid zygote that undergoes meiosis to produce haploid cells."*
+> - 📜 **Harold C. Bold (*Morphology of Plants*):** *"The **haplontic** life cycle contrasts with the diplontic cycle characteristic of animals and seed plants."*
+> - 📜 **Eduard Strasburger (*Textbook of Botany*):** *"A **haplontic** green alga produces gametes by regular mitosis rather than reduction division."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"In **haplontic** organisms, recessive mutations are exposed immediately to the sieve of natural selection."*

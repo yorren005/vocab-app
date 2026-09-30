@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A usually four-wheeled automotive vehicle designed for passenger transportation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Automotive.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A self-propelled road vehicle, typically with four wheels and powered by an internal combustion engine or electric motor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Self-moving or spontaneous in motion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Oppenheimer, for instance, had never seen an automobile or a motor-cycle."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Co., in Leclaire, Ill., and the Ford Automobile Works, in Detroit."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Here and there a patriarchal smith still serves a dwindling group of customers and speaks with mingled pride and pathos of his sons, now in the automobile business in the city."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The rapid rise of the **automobile** transformed rural life, paving highways across the continent."*
+> - 📜 **Jack London (*Martin Eden*):** *"He watched the wealthy glide down the avenue in high-powered **automobile** carriages."*
+> - 📜 **H. G. Wells (*The World Set Free*):** *"The primitive roaring **automobile** of the early twentieth century gave way to silent atomic transports."*

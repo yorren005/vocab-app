@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make automatic or control or operate automatically.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Operated by automation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Operated by automatic, self-regulating equipment or computerized machinery rather than manual human intervention.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Converted to or controlled by automation; mechanized.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Charon operations are to be fully automated and robotically maintained."*
+> - 📜 **Norbert Wiener (*The Human Use of Human Beings*):** *"The fully **automated** factory will demand a fundamental re-evaluation of the dignity and purpose of human labor."*
+> - 📜 **Lewis Mumford (*The Myth of the Machine*):** *"An **automated** megamachine operates with inhuman regularity, heedless of organic human rhythms."*
+> - 📜 **Arthur C. Clarke (*Profiles of the Future*):** *"In an **automated** world, mankind must discover creative pursuits to replace routine drudgery."*

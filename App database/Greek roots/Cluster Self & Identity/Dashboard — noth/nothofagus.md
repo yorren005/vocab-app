@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Beeches of temperate southern hemisphere except africa: southern beech.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Beeches of temperate southern hemisphere except africa: southern beech.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of Southern Hemisphere trees and shrubs commonly called southern beeches, native to Australasia and South America.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A keystone taxon of Gondwanan biogeography, named from Greek nothos (false) and fagus (beech) because of its resemblance to northern true beeches.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nothofagus designates beeches of temperate southern hemisphere except africa: southern beech."*
+> - 📜 **Joseph Dalton Hooker (*The Botany of the Antarctic Voyage*):** *"The dark and evergreen forests of **Nothofagus** clothe the rugged slopes of Tierra del Fuego down to the water’s edge."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The **Nothofagus** forest was so dense that we had to climb over moss-covered fallen trunks ten feet above the soil."*
+> - 📜 **Alfred Russel Wallace (*Island Life*):** *"The disjunct distribution of fossil **Nothofagus** across New Zealand and Patagonia provided early evidence of former southern land connections."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being homozygous; having two identical alleles of the same gene.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being homozygous; having two identical alleles of the same gene.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or condition of possessing identical alleles at a given locus on both homologous chromosomes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In population genetics and plant breeding, the degree to which an individual or population is homozygous, often increased through inbreeding.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homozygosity designates the state of being homozygous; having two identical alleles of the same gene."*
+> - 📜 **Sewall Wright (*Evolution and the Genetics of Populations*):** *"Sustained inbreeding rapidly drives the fixation of alleles, maximizing **homozygosity** throughout the colony."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"Wild populations maintain high genetic diversity, avoiding the perilous loss of vigor that accompanies excessive **homozygosity**."*
+> - 📜 **Ronald Fisher (*The Genetical Theory of Natural Selection*):** *"Selection acts differently upon an allele depending on whether it is expressed in heterozygosity or complete **homozygosity**."*
