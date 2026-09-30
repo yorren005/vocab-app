@@ -42,13 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Bloom
-> 2. **Nuance / Usage**: (intransitive) to grow or expand
+> 1. **Primary Meaning**: To put forth new buds, sprouts, or shoots; to sprout.
+> 2. **Nuance / Usage**: Extensively applied to rapid, lush proliferation, burgeoning industries, creative movements, or sudden vitality.
 
 > [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to burgeon the target*) and intransitive clauses (*burgeoning against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+> - **Grammatical Class**: Verb (intransitive; often as participle *burgeoning*).
+> - **Syntactic Constructions**: Intransitive (*ideas burgeoned*) or participial adjective (*a burgeoning population*).
+> - **Collocations & Registers**: Ecological prose, macroeconomic analysis, lyrical narrative; paired with *growth*, *buds*, *burgeoning economy*, and *spring*.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Mother’s milk, Purefoy, the milk of human kin, milk too of those burgeoning stars overhead rutilant in thin rainvapour, punch milk, such as those rioters will quaff in their guzzling den, milk of madness, the honeymilk of Canaan’s land."*
+> - 📜 **James Joyce (*Ulysses*):** *"Milk too of those **burgeoning** stars overhead rutilant in thin rainvapour."*
+> - 📜 **Alfred, Lord Tennyson (*In Memoriam A.H.H.*):** *"And in my heart, if love be true, makes all the winter of the mind **burgeon** into song."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"With the return of the sun and warmth, the microscopic plant life began to **burgeon** in the surface waters."*

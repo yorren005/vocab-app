@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Byword
-> 2. **Nuance / Usage**: Speak of proverbially
+> 1. **Primary Meaning**: A short, pithy, popular saying that expresses an obvious truth, moral precept, or practical counsel.
+> 2. **Nuance / Usage**: In biblical and classical literary contexts, can denote a byword, an embodiment of folly, or a moral cautionary lesson (*becoming a proverb among nations*).
 
 > [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the proverb withstood the storm*), direct object (*cleaved the proverb*), or prepositional anchor (*amidst the proverb*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+> - **Grammatical Class**: Noun (count).
+> - **Syntactic Constructions**: Operates as a cultural maxim (*as the proverb says*) or a cautionary figure (*a byword and a proverb*).
+> - **Collocations & Registers**: Paired with folk wisdom, moral adages, ancient maxims, and biblical lore.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Have at you with a proverb:—Shall I set in my staff?"*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Ay, sir, but while the grass grows—the proverb is something musty."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"I will cap that proverb with “There is flattery in friendship."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Ay, sir, but while the grass grows—the **proverb** is something musty."*
+> - 📜 **Benjamin Franklin (*Poor Richard's Almanack*):** *"A penny saved is two pence clear, as the old **proverb** wisely teaches the frugal soul."*
+> - 📜 **Miguel de Cervantes (*Don Quixote*):** *"A **proverb** is a short sentence based on long experience."*

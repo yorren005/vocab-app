@@ -42,14 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: The grassy surface of land
-> 2. **Nuance / Usage**: Portion of ground covered with grass
+> 1. **Primary Meaning**: An expanse of short, turf-covered earth; the grassy surface of land.
+> 2. **Nuance / Usage**: Archaic and poetic; emphasizes the dense, green, unbroken carpet of sod and turf, especially in unblemished lawns or pastures.
 
 > [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the sward withstood the storm*), direct object (*cleaved the sward*), or prepositional anchor (*amidst the sward*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+> - **Grammatical Class**: Noun (mass & count).
+> - **Syntactic Constructions**: Nominal surface (*seated upon the green sward*).
+> - **Collocations & Registers**: Pastoral literature, medieval romance, landscape gardening; paired with *green*, *grassy*, *flowery*, and *turf*.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues Under the Sea*):** *"themselves down on the sward, close to their underground home."*
-> - 📜 **Royal Institution of Chartered Surveyors (*Professional Notes*):** *"... with soil of a similar character, several fields have been laid down and ploughed up again under the old plea that they will not sward."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues Under the Sea*):** *"They threw themselves down on the **sward**, close to their underground home."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The knights were marshalled upon the green **sward**, while the pavilions of the challengers shone brightly in the morning sun."*
+> - 📜 **Washington Irving (*The Sketch Book of Geoffrey Crayon, Gent.*):** *"Children were gambolling on the smooth velvet **sward** of the village bowling green."*

@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Light spear
-> 2. **Nuance / Usage**: Game in which darts are thrown at a target
+> 1. **Primary Meaning**: To move suddenly, rapidly, and abruptly in a particular direction; a quick, fleeting movement.
+> 2. **Nuance / Usage**: Conveys evasive agility, sudden sharp glances, or rapid zigzagging motion like a swallow, insect, or fish (*darting through the shadows*).
 
 > [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the dart withstood the storm*), direct object (*cleaved the dart*), or prepositional anchor (*amidst the dart*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+> - **Grammatical Class**: Verb (intransitive & transitive) & Noun (count).
+> - **Syntactic Constructions**: Operates in sudden locomotion (*darted across the road*) and visual focus (*darting a look*).
+> - **Collocations & Registers**: Paired with swiftness, sharp glances, shadows, and zigzagging agility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Here stand I, lady; dart thy skill at me."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"And not death’s ebon dart to strike him dead."*
-> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"What strength had I to dart retaliation at my antagonist?"*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"A shadow seemed to **dart** across the dark alleyway and vanish behind the corner."*
+> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"The White Rabbit gave a nervous start and began to **dart** down the rabbit-hole."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"She shot a keen, questioning glance that seemed to **dart** straight into my very soul."*

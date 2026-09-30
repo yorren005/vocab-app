@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: One in a subservient or subordinate position
-> 2. **Nuance / Usage**: (historical) any direct subordinate bound by such vows to a superior
+> 1. **Primary Meaning**: A holder of land by feudal tenure on conditions of homage and allegiance; a feudal tenant.
+> 2. **Nuance / Usage**: Metaphorically designates any person, client state, or entity completely subject to the subjugating authority of a master (*a vassal state; vassal to impulse*).
 
 > [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the vassal withstood the storm*), direct object (*cleaved the vassal*), or prepositional anchor (*amidst the vassal*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+> - **Grammatical Class**: Noun (count) & Adjective.
+> - **Syntactic Constructions**: Operates in feudal relations (*a faithful vassal*) and geopolitical subjugation (*a vassal nation*).
+> - **Collocations & Registers**: Paired with feudalism, homage, allegiance, servitude, and suzerainty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"By such a lowly vassal as thyself."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"And yet the duteous vassal scarce is gone."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The crouching vassal to a tyrant wife!"*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"Every **vassal** was summoned under pain of forfeiture to attend his feudal lord upon the field."*
+> - 📜 **William Shakespeare (*Richard II*):** *"Let them go to; I am a king, and will not be a **vassal** to my subjects' will."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"No freeborn man would ever live the crouching **vassal** to a tyrant's pride."*

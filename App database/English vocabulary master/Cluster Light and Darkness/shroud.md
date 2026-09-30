@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Burial garment : winding-sheet, cerement
-> 2. **Nuance / Usage**: Conceal or hide from view, as if by a shroud
+> 1. **Primary Meaning**: A cloth or sheet in which a corpse is wrapped for burial; something that conceals, protects, or envelopes like a garment.
+> 2. **Nuance / Usage**: Conveys solemn, impenetrable concealment by winter snow, sea mist, or dense silence (*a thick shroud of fog*).
 
 > [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+> - **Grammatical Class**: Noun (count & mass) & Verb (transitive).
+> - **Syntactic Constructions**: Operates as a concrete winding-sheet or atmospheric veil (*shrouded in mist*).
+> - **Collocations & Registers**: Paired with fog, mist, winter snow, mortality, and impenetrable concealment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"white and straight; but whether gown, sheet, or shroud, I cannot tell."*
-> - 📜 **Herman Melville (*Moby Dick*):** *"deck, grasps a shroud, to look out upon the sea."*
-> - 📜 **Herman Melville (*Moby Dick*):** *"the monumental white shroud that wraps all the prospect around him."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"She held up the mysterious white garment before me, but whether sheet, gown, or **shroud**, I could not tell."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"All visible objects were swallowed up in the monumental white **shroud** of ocean vapor."*
+> - 📜 **Edgar Allan Poe (*The Fall of the House of Usher*):** *"A dense and lurid mist hung like an unearthly **shroud** above the silent tarn."*

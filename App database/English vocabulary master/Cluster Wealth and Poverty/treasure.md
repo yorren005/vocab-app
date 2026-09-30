@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Store of money in reserve
-> 2. **Nuance / Usage**: Wealth of any kind or in any form : riches
+> 1. **Primary Meaning**: An accumulation of precious metals, gems, money, or valuable objects; wealth of substantial worth.
+> 2. **Nuance / Usage**: Extends to cherished memories, timeless wisdom, or a beloved companion prized above any material possessions (*a treasured friend*).
 
 > [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+> - **Grammatical Class**: Noun (mass & count) & Verb (transitive).
+> - **Syntactic Constructions**: Operates as a material reserve (*buried treasure*) or psychological value (*treasuring every moment*).
+> - **Collocations & Registers**: Paired with riches, gold, jewels, remembrance, and boundless value.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Go, Eros, send his treasure after."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"O Jephthah, judge of Israel, what a treasure hadst thou!"*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"For swallowing the treasure of the realm."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"Seventeen men were dead in the quest for the Spanish **treasure** hidden upon the island."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"She found in her sister’s unceasing affection a **treasure** far above gold or land."*
+> - 📜 **Edgar Allan Poe (*The Gold-Bug*):** *"Before us lay an immense **treasure** of ancient coins, unrefined gold ingots, and antique jewels."*

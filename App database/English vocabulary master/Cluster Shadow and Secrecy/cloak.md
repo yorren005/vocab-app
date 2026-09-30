@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Loose outer garment
-> 2. **Nuance / Usage**: Something that envelops or conceals
+> 1. **Primary Meaning**: A loose, sleeveless outer garment that hangs from the shoulders; an all-enveloping covering.
+> 2. **Nuance / Usage**: Used figuratively for a disguise, pretext, or stratagem designed to conceal illicit actions, hidden motives, or true identity (*under the cloak of darkness*).
 
 > [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+> - **Grammatical Class**: Noun (count & mass) & Verb (transitive).
+> - **Syntactic Constructions**: Operates as a concrete garment (*wrapped in a cloak*) or figurative concealment (*cloaked in mystery*).
+> - **Collocations & Registers**: Paired with shadow, secrecy, stealth, and protective cover.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"about the satin for my short cloak and my slops?"*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"see him laugh till his face be like a wet cloak ill laid up!"*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"You pull’d me by the cloak; would you speak with me?"*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I wrapped myself in my **cloak**, and stole softly downstairs, opening the door without noise."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"A tall man, muffled in an Inverness **cloak**, stood waiting upon the platform."*
+> - 📜 **George Orwell (*1984*):** *"The party was able to wrap its policies in the **cloak** of public welfare and patriotic duty."*

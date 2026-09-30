@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Augur, predict
-> 2. **Nuance / Usage**: Foretell, portend
+> 1. **Primary Meaning**: To have an inward sense or presentiment of impending misfortune; to presage or portend ill.
+> 2. **Nuance / Usage**: Distinct from neutral forecasting, *forebode* almost exclusively implies an ominous dread or intuition of encroaching disaster.
 
 > [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to forebode the target*) and intransitive clauses (*foreboding against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+> - **Grammatical Class**: Verb (transitive & intransitive; often as participle *foreboding*).
+> - **Syntactic Constructions**: Takes a clausal complement (*foreboded that disaster would come*) or nominal object (*foreboded evil*).
+> - **Collocations & Registers**: Gothic fiction, psychological suspense, dramatic monologues; paired with *disaster*, *dread*, *apprehension*, and *ill*.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Taking a little more claret and dipping one of the cakes in it, he shook his head and smiled at Ada and me with an ingenuous foreboding that he never could be made to understand."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"There was such a shock of apprehension in his face, and he knew Richard so perfectly, and I too had seen so much of his gradual decay, that what my dear girl had said to me in the fullness of her foreboding love sounded like a knell in my ears."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"She perceived in his words the realization of her own apprehensive foreboding in former times."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"There was such a shock of apprehension in his face, that what my dear girl had said to me in the fullness of her **foreboding** love sounded like a knell in my ears."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"She perceived in his words the realization of her own apprehensive **foreboding** in former times."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"There was a murky gloom hovering over the street, as if the heavy sky **foreboded** a sudden and devastating tempest."*

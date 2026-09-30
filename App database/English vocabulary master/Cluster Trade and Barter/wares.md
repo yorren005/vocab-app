@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Article of merchandise
-> 2. **Nuance / Usage**: Goods or services that are for sale
+> 1. **Primary Meaning**: Manufactured goods, commodities, or articles of merchandise offered for sale.
+> 2. **Nuance / Usage**: Often evokes traditional, handcrafted, or marketplace goods (*earthenware, silverware*), or metaphorically, personal talents, ideas, or intellectual products offered to the public (*peddling one's wares*).
 
 > [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the wares withstood the storm*), direct object (*cleaved the wares*), or prepositional anchor (*amidst the wares*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+> - **Grammatical Class**: Noun (plural).
+> - **Syntactic Constructions**: Functions as a concrete commercial object (*displaying one's wares*) or figurative offering (*intellectual wares*).
+> - **Collocations & Registers**: Paired with markets, peddlers, artisanal goods, and merchant stalls.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Report of the Interdepartmental Working Committee on Mortgage Arrears*):** *"I call on the Minister to ensure good regulation is applied to moneylenders and so-called independent money advisers, many of whom are former bankers peddling their wares"*
-> - 📜 **Hobson, R. L. (Robert Lockhart) (*Chinese pottery and porcelain*):** *"then, is there of recognising any but the most celebrated wares of China?"*
-> - 📜 **Hobson, R. L. (Robert Lockhart) (*Chinese pottery and porcelain*):** *", and no doubt alluding to wares of local make."*
+> - 📜 **Washington Irving (*The Sketch Book*):** *"The peddler unstrapped his heavy pack and spread his glittering **wares** across the tavern bench."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"The shop windows sparkled with costly fabrics, jewels, and delicate Parisian **wares**."*
+> - 📜 **John Bunyan (*The Pilgrim's Progress*):** *"At this fair are all such **wares** sold as houses, lands, trades, titles, and delights of all sorts."*

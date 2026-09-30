@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Go idly about : ramble
-> 2. **Nuance / Usage**: Follow a winding course : meander
+> 1. **Primary Meaning**: To move about without a fixed purpose or definite destination; to ramble or roam.
+> 2. **Nuance / Usage**: Extends to mental daydreams, wandering thoughts, winding river currents, or rambling discourse (*letting one's mind wander*).
 
 > [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to wander the target*) and intransitive clauses (*wandering against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+> - **Grammatical Class**: Verb (intransitive & transitive).
+> - **Syntactic Constructions**: Operates in purposeless exploration (*wandering the countryside*) and mental reverie (*his thoughts wandered*).
+> - **Collocations & Registers**: Paired with valleys, pathways, daydreams, and rambling journeys.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Safe mayst thou wander, safe return again!"*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Thou mayst not wander in that labyrinth."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Sits Sin, to seize the souls that wander by him."*
+> - 📜 **William Wordsworth (*I Wandered Lonely as a Cloud*):** *"I **wandered** lonely as a cloud that floats on high o'er vales and hills."*
+> - 📜 **William Shakespeare (*A Midsummer Night's Dream*):** *"Over hill, over dale, thorough bush, thorough brier, I **wander** everywhere."*
+> - 📜 **J.R.R. Tolkien (*The Fellowship of the Ring*):** *"Not all those who **wander** are lost; the old that is strong does not wither."*

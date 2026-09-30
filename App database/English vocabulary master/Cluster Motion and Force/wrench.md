@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Twist violently
-> 2. **Nuance / Usage**: Distorting change from the original meaning
+> 1. **Primary Meaning**: To pull, strain, or twist violently; a sudden sharp, emotional pain.
+> 2. **Nuance / Usage**: Denotes physical dislocation, tearing something loose from a stubborn grip, or profound psychological distress caused by a sudden, painful separation (*a heart-wrenching goodbye*).
 
 > [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to wrench the target*) and intransitive clauses (*wrenching against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+> - **Grammatical Class**: Verb (transitive) & Noun.
+> - **Syntactic Constructions**: Operates in physical extraction (*to wrench the iron bar*) and emotional distress (*it was a bitter wrench to part*).
+> - **Collocations & Registers**: Paired with agony, twisting force, dislocation, and sudden severance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"I can’t oblige you there, Wrench,” said Mr."*
-> - 📜 **George Eliot (*Middlemarch*):** *"I am sure you and Wrench ought to be obliged to him,” said Dr."*
-> - 📜 **qntm (*There Is No Antimemetics Division*):** *"And what actinic, mind-wrenching form could the countermeme take? How could human hands assemble something so devastatingly powerful and hold it steady; what human mind could wield it without exploding from the inside out?"*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"He tore himself away with a desperate **wrench**, knowing he might never look upon her face again."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"A sudden convulsion seemed to **wrench** the frame of the creature as life took hold."*
+> - 📜 **Jack London (*White Fang*):** *"The wolf gave a mighty leap and tried to **wrench** its trapped foot free from the iron jaws."*

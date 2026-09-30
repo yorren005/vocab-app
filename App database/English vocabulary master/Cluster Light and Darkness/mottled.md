@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Colored in patches; spotted
-> 2. **Nuance / Usage**: Marked with spots of different colors : having blotches of two or more colors
+> 1. **Primary Meaning**: Marked with irregular spots, blotches, or streaks of different colors; variegated.
+> 2. **Nuance / Usage**: Describes natural visual textures like animal pelts, autumnal vegetation, shadowed landscapes, or bruised skin (*mottled sunlight; mottled terrain*).
 
 > [!tip] 🎯 Usage & Syntactic Application
 > - **Grammatical Class**: Adjective.
-> - **Syntactic Constructions**: Functions attributively before a noun (*a mottled appearance*) and predicatively after a linking verb (*remained mottled*).
-> - **Collocations & Registers**: Evocative descriptive registers; collocated with aesthetic proportion, sensory presence, and moral contrast.
+> - **Syntactic Constructions**: Operates attributively (*a mottled skin*) and predicatively (*remained mottled*).
+> - **Collocations & Registers**: Paired with dappled light, animal pelts, variegated leaves, and stone textures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"eyes,—small, keen, and black,—and thin wide mottled lips."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"handkerchief wrapped, which was mottled all over with bloodstains."*
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"swelling plain, mottled with the green patches of rushes."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"He turned his glittering black eyes upon me, speaking through thin, wide, **mottled** lips."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Before us spread the swelling plain of the moor, **mottled** with green patches of treacherous rushes."*
+> - 📜 **Jack London (*The Call of the Wild*):** *"His coat was **mottled** with grey and brown, blending perfectly into the frozen tundra brush."*

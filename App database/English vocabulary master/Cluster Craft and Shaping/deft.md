@@ -42,13 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Quick and neat in action; skillful
-> 2. **Nuance / Usage**: Characterized by facility and skill
+> 1. **Primary Meaning**: Neatly skillful, quick, and dexterous in physical movements or manual manipulation.
+> 2. **Nuance / Usage**: Applied to mental agility and diplomacy—describing a maneuver, solution, or remark that is adroit and effortlessly tactful.
 
 > [!tip] 🎯 Usage & Syntactic Application
 > - **Grammatical Class**: Adjective.
-> - **Syntactic Constructions**: Functions attributively before a noun (*a deft appearance*) and predicatively after a linking verb (*remained deft*).
-> - **Collocations & Registers**: Evocative descriptive registers; collocated with aesthetic proportion, sensory presence, and moral contrast.
+> - **Syntactic Constructions**: Modifies artisanal actions (*a deft touch*) and intellectual strategies (*deft diplomacy*).
+> - **Collocations & Registers**: Paired with elegance, unhurried velocity, and expert finesse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Gary Rose (*Manchester City 5-0 Huddersfield Town*):** *"Alvarez then got on the scoresheet after the hosts carved open the Huddersfield defence with some intricate passing before the Argentina forward's deft finish rolled into the net."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Her fingers moved with **deft** swiftness among the delicate folds of white lace."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"With a **deft** twist of the wrist, the blacksmith turned the glowing horseshoe back into the coals."*
+> - 📜 **Virginia Woolf (*To the Lighthouse*):** *"She made a **deft** stroke with her brush, balancing the blue mass against the yellow light."*

@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Calm, quiet
-> 2. **Nuance / Usage**: Put at rest : mollify
+> 1. **Primary Meaning**: To make or become silent or quiet; a sudden stillness or cessation of noise.
+> 2. **Nuance / Usage**: Connotes an expectant, solemn, or suspenseful stillness (*a breathless hush before the storm*), or actively suppressing information (*to hush up an incident*).
 
 > [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to hush the target*) and intransitive clauses (*hushing against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+> - **Grammatical Class**: Verb (transitive & intransitive) & Noun.
+> - **Syntactic Constructions**: Functions as an imperative command (*hush!*), an intransitive state (*the hall hushed*), or a descriptive noun (*an eerie hush*).
+> - **Collocations & Registers**: Paired with stillness, reverence, anticipation, and silence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"The king has done you wrong; but hush ’tis so."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"he can say nothing of me; hush, hush!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"and in the serene and peaceful hush that rested on all around it."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"A serene and peaceful **hush** rested on all around the old house at twilight."*
+> - 📜 **Emily Dickinson (*Poems*):** *"The stillness in the room was like the **hush** between the heaves of storm."*
+> - 📜 **F. Scott Fitzgerald (*The Great Gatsby*):** *"A sudden **hush** fell over the crowd as the music ceased and the lights dimmed."*

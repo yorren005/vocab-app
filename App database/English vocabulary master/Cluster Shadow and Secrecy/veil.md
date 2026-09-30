@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Cover; disguise; a mask; a pretense
-> 2. **Nuance / Usage**: (figurative) anything that partially obscures a clear view
+> 1. **Primary Meaning**: A piece of fine fabric worn over the face or head for protection, modesty, or concealment; any obscuring curtain.
+> 2. **Nuance / Usage**: Figuratively, a barrier, disguise, or pretext that hides the full truth, emotional vulnerability, or spiritual mystery (*behind the veil of secrecy*).
 
 > [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+> - **Grammatical Class**: Noun (count & mass) & Verb (transitive).
+> - **Syntactic Constructions**: Functions as a concrete fabric screen or an abstract barrier (*to pierce the veil*).
+> - **Collocations & Registers**: Paired with mystery, grief, modesty, and atmospheric obscurity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Whose pitchy mantle over-veil’d the earth."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Throw over her the veil of infamy."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Young Lucius and others, and Lavinia with a veil over her face."*
+> - 📜 **Nathaniel Hawthorne (*The Minister's Black Veil*):** *"There was an hour to come when all of us shall cast aside our **veils**."*
+> - 📜 **Virginia Woolf (*To the Lighthouse*):** *"The sea was calm, and a thin gray **veil** of mist hung over the distant horizon."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"The moon had reached her summit in the heavens and began to descend; the clouds swept across it like a dark **veil**."*

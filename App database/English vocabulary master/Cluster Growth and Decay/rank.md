@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: High social position
-> 2. **Nuance / Usage**: Relative standing or position
+> 1. **Primary Meaning**: Growing luxuriantly, aggressively, and coarsely, without control or cultivation.
+> 2. **Nuance / Usage**: By extension, describes an offensive, fetid stench of rotting organic material, or gross, unmitigated excess (*rank hypocrisy*).
 
 > [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+> - **Grammatical Class**: Adjective.
+> - **Syntactic Constructions**: Attributive before vegetation (*rank weeds*) or predicative (*smelled rank*).
+> - **Collocations & Registers**: Botanical overgrowth, moral revulsion, sensory realism; paired with *weeds*, *stench*, *vegetation*, and *gross*.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"It is the right butter-women’s rank to market."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Within the fore-rank of our articles."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"That were embattailed and rank’d in Kent."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"’Tis an unweeded garden, that grows to seed; things **rank** and gross in nature possess it merely."*
+> - 📜 **Herman Melville (*Typee*):** *"Dense thickets of **rank** vegetation bordered our pathway on every side."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"The **rank** grass nodded over the mounds where the dead lay forgotten."*

@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Judgment
-> 2. **Nuance / Usage**: Destiny, especially terrible
+> 1. **Primary Meaning**: An inescapable adverse fate, ruin, destruction, or death.
+> 2. **Nuance / Usage**: Originating as an Anglo-Saxon judicial decree or judgment (*dōm*), it shifted toward an irrevocable, tragic, or apocalyptic final destination.
 
 > [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the doom withstood the storm*), direct object (*cleaved the doom*), or prepositional anchor (*amidst the doom*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+> - **Grammatical Class**: Noun (mass & count) and transitive verb.
+> - **Syntactic Constructions**: Functions as a fateful direct object (*sealed their doom*), grammatical subject (*doom awaited them*), or passive verb (*doomed to fail*).
+> - **Collocations & Registers**: Tragic mythic registers, solemn epic narrative; paired with *impending*, *inevitable*, *seal*, and *crack of doom*.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Thy end is truth’s and beauty’s doom and date."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"And live; if no, then thou art doom’d to die."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Expect your highness’ doom of life or death."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"What, will the line stretch out to the crack of **doom**?"*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"From that moment I declared everlasting war against the species, and, more than all, against him who had formed me, and sent me forth to this insupportable **doom**."*
+> - 📜 **Edgar Allan Poe (*The Fall of the House of Usher*):** *"An air of stern, deep, and irredeemable gloom hung over and pervaded all, sealing the **doom** of the ancient race."*

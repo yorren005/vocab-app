@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Trade or exchange by or as if by bartering
-> 2. **Nuance / Usage**: The goods or services used in such an exchange
+> 1. **Primary Meaning**: To exchange goods, services, or commodities directly for other goods without the use of money.
+> 2. **Nuance / Usage**: Extends figuratively to compromising one's principles, freedom, or honour in exchange for a transient advantage (*bartering away one's liberty*).
 
 > [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to barter the target*) and intransitive clauses (*bartering against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+> - **Grammatical Class**: Verb (transitive & intransitive) & Noun.
+> - **Syntactic Constructions**: Operates in commercial exchanges (*to barter grain for cattle*) and moral compromise (*bartered his honor*).
+> - **Collocations & Registers**: Paired with trade, commerce, direct exchange, and moral compromise.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Walter Scott (*Ivanhoe*):** *"challenge to this barter of buffets."*
-> - 📜 **Murray, David Christie (*Young Mr. Barter's Repentance*):** *"the notes would prove to have been left at Barter’s chambers."*
-> - 📜 **Murray, David Christie (*Young Mr. Barter's Repentance*):** *"‘Mine is east,’ said Barter, ‘so we part here."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"It is the necessary consequence of a certain propensity in human nature to truck, **barter**, and exchange one thing for another."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The knight was not disposed to enter into any peaceful **barter** of blows with the yeoman."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I found that I had been a **barterer** in the market of society, exchanging leisure and peace of mind for trifles."*

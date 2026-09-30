@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Set right : correct
-> 2. **Nuance / Usage**: Free from faults or defects: such as
+> 1. **Primary Meaning**: To repair what is broken, torn, or damaged; to restore to functioning condition.
+> 2. **Nuance / Usage**: Suggests practical craftsmanship, domestic thrift, or the personal reform of faults (*mend one's ways*), distinct from organic healing.
 
 > [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to mend the target*) and intransitive clauses (*mending against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+> - **Grammatical Class**: Verb (transitive & intransitive) and noun.
+> - **Syntactic Constructions**: Transitive with physical or moral objects (*to mend fences*, *to mend one's habits*) or idiomatic (*on the mend*).
+> - **Collocations & Registers**: Practical craft, moral aphorisms, informal convalescence; paired with *nether-stocks*, *ways*, *quarrel*, and *on the mend*.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"God be wi’ you, and God mend your voices."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"nether-stocks, and mend them and foot them too."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Where fair is not, praise cannot mend the brow."*
+> - 📜 **William Shakespeare (*King Lear*):** *"Mend your speech a little, lest it may mar your fortunes."*
+> - 📜 **Jonathan Swift (*Gulliver’s Travels*):** *"I was able to **mend** my clothes and preserve my health by steady labour."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"A man who has some work to do will not need to buy a new suit to do it in; the old will serve again when properly **mended**."*

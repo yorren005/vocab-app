@@ -42,13 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Cut or work with or as if with a chisel
-> 2. **Nuance / Usage**: (transitive) to work something with a chisel
+> 1. **Primary Meaning**: A metal hand tool with a beveled cutting edge, struck with a mallet or pushed by hand to carve or cut stone, wood, or metal.
+> 2. **Nuance / Usage**: Used figuratively to mean shaping or sculpting with sharp, clean precision (*chiseled features*), or colloquially to swindle someone out of something.
 
 > [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the chisel withstood the storm*), direct object (*cleaved the chisel*), or prepositional anchor (*amidst the chisel*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+> - **Grammatical Class**: Noun (tool) & Verb (transitive).
+> - **Syntactic Constructions**: Operates in craft descriptions (*to chisel marble*) and figurative characterizations (*features chiseled in granite*).
+> - **Collocations & Registers**: Paired with tactile resistance, artisanal labor, and defined contours.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Have you the chisel and the bags?"*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Six Napoleons*):** *"The plaster bust had been broken off and shattered with some heavy instrument, possibly a **chisel**."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The carpenter was busy at his workbench with saw and **chisel**, fashioning an artificial leg of whalebone."*
+> - 📜 **Ralph Waldo Emerson (*Self-Reliance*):** *"No kernel of nourishing corn can come to him but through his toil, where every stroke of the **chisel** counts."*

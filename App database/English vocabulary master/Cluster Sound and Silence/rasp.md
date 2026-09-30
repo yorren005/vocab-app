@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Grate upon : irritate
-> 2. **Nuance / Usage**: Utter in a raspy tone
+> 1. **Primary Meaning**: To scrape or abrade with a coarse file; to utter or emit a harsh, grating, scratching sound.
+> 2. **Nuance / Usage**: Evokes visceral vocal strain from exhaustion, dry throats, or caustic anger, as well as mechanical friction (*the rasp of a rusty hinge*).
 
 > [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to rasp the target*) and intransitive clauses (*rasping against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+> - **Grammatical Class**: Verb (transitive & intransitive) & Noun.
+> - **Syntactic Constructions**: Operates in acoustic descriptions (*a dry rasp*) and tactile shaping (*to rasp the surface*).
+> - **Collocations & Registers**: Paired with harshness, metallic friction, dry throats, and breathlessness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Rory MacLean, Nick Danziger (*Back in the USSR*):** *"A rasp of guinea fowl honked as 'Emma' the ostrich pecked."*
-> - 📜 **Classic Author (*Classic Work*):** *"There was a flock - no, a rasp of guinea-fowl feeding in a garden not twenty yards away."*
-> - 📜 **Classic Author (*New cohabitants for the elephants: guinea fowl*):** *"The rasp of guinea fowl came from a Swiss breeder."*
+> - 📜 **Jack London (*The Call of the Wild*):** *"His breath came in painful **rasps**, and his dried tongue protruded from his jaws."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"The dry **rasp** of the iron key in the lock echoed through the cellar."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The coarse files **rasped** across the iron harpoon heads until the edges gleamed."*

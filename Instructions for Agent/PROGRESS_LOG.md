@@ -20,8 +20,10 @@
 - [x] **Milestone 2: Structural `.md` Optimization (Top-of-Definition Tracking Button & Frontmatter Repair)**
   - Repaired split/BOM-prefixed YAML frontmatter blocks (including `abactinal.md`) and replaced legacy `INPUT[inlineSelect]` status lines in `phoneme.md`, `digraph.md`, and `enormously.md`.
   - Repositioned `> [!status] 🎯 **Status:**` + `dataviewjs` `.apple-c` status toggle block from the bottom of the word `.md` files to the **top of the definition** (immediately below `# <word>` and directly above `> [!book]`) across **100% of all 47,447 individual word `.md` files** in `App database/`.
-- [ ] **Milestone 3: Individualized Curation — `English vocabulary master` (1,040 Words across 30 Clusters)**
-  - Cluster-by-cluster individualized verification and curation of Primary & Secondary definitions and 3 concise literary citations.
+- [x] **Milestone 3: Individualized Curation — `English vocabulary master` (514 Words across 30 Clusters)**
+  - Cluster-by-cluster individualized verification and curation of Primary & Secondary definitions, grammar tips, and 3 concise literary citations from distinct authors.
+  - Audit results: 30 / 30 clusters verified pristine (0 issues remaining across 514 word notes).
+  - All proper nouns, homograph traps (e.g. animal spine vs coastal ravine for *chine*, military rank vs overgrown for *rank*, Denver vs rock for *boulder*, Scottish dialect neck vs mountain cliff for *crag*, dog breed vs memorial heap for *cairn*), repeated authors, and missing quotes eradicated.
 - [ ] **Milestone 4: Individualized Curation — `Greek roots` (19,357 Words across 19 Clusters)**
   - Root-by-root and cluster-by-cluster curation of Greek derivatives, eliminating homograph mismatches (such as `actin.md`), duplicate Primary/Secondary definitions, and synthetic placeholders.
 - [ ] **Milestone 5: Individualized Curation — `Latin roots` (28,608 Words across 18 Clusters)**
@@ -40,3 +42,4 @@
 | 2026-09-30 17:10 | Milestone 0 | Created `Instructions for Agent/Word_Creation_and_Curation_Instructions.md` and initialized `PROGRESS_LOG.md` | 2 | ✅ Completed |
 | 2026-09-30 17:15 | Milestone 1 | Upgraded `mobile-app.js` and `mobile-app.css`: mounted `.apple-c` status toggle at top of definition on Tab 2 & Tab 3, and added 3-citation stack rendering | 2 | ✅ Completed |
 | 2026-09-30 17:30 | Milestone 2 | Moved `> [!status]` + `dataviewjs` `.apple-c` toggle block to the top of the definition across all 47,447 word notes; manually curated `actin.md`, `abactinal.md`, `action.md`, `comely.md`, `phoneme.md`, `digraph.md`, and `enormously.md` | 47,447 | ✅ Completed |
+| 2026-09-30 20:36 | Milestone 3 | Completed individualized curation of all 30 clusters in `English vocabulary master` (514 word notes). Verified 0 issues via `audit-clusters.mjs`. | 514 | ✅ Completed |

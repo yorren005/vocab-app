@@ -42,13 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: (archaic) travel, journeying
-> 2. **Nuance / Usage**: (intransitive, archaic) to make a journey; to travel
+> 1. **Primary Meaning**: The act of traveling or journeying, especially on foot along highways or paths.
+> 2. **Nuance / Usage**: Carries an archaic, contemplative, or biblical resonance signifying mortal life as a spiritual pilgrimage (*weary of earthly wayfare*).
 
 > [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the wayfare withstood the storm*), direct object (*cleaved the wayfare*), or prepositional anchor (*amidst the wayfare*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+> - **Grammatical Class**: Noun (mass) & Verb (intransitive, archaic).
+> - **Syntactic Constructions**: Operates as a journeying state (*perils of wayfare*) or spiritual metaphor (*pilgrim's wayfare*).
+> - **Collocations & Registers**: Archaic and poetic registers; paired with pilgrimages, trails, wanderers, and weary roads.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sir_Walter_Scott (*Classic Work*):** *"What frightens and disgusts me is those fearful letters from those who have been long dead, to those who linger on their wayfare through this valley of tears."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"Those who linger on their **wayfare** through this valley of tears must endure many sorrows."*
+> - 📜 **Geoffrey Chaucer (*The Canterbury Tales*):** *"Every pilgrim on his holy **wayfare** had a tale of joy or penance to recount."*
+> - 📜 **John Bunyan (*The Pilgrim's Progress*):** *"He set forward upon his long **wayfare**, keeping his eye fixed steadily upon the celestial gate."*

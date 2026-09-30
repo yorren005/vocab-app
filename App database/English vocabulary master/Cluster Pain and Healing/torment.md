@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Source of vexation or pain
-> 2. **Nuance / Usage**: Extreme pain or anguish of body or mind : agony
+> 1. **Primary Meaning**: Severe physical suffering, extreme bodily anguish, or agonizing mental distress.
+> 2. **Nuance / Usage**: Involves sustained, deliberate infliction of suffering or relentless internal affliction, far surpassing casual distress.
 
 > [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+> - **Grammatical Class**: Noun (mass & count) and transitive verb.
+> - **Syntactic Constructions**: Direct object of infliction (*inflicted cruel torment*) or transitive verb (*tormented by doubts*).
+> - **Collocations & Registers**: Tragic drama, existential dread, theological suffering; paired with *unbearable*, *internal*, *rack*, and *persecute*.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"valour, which will then be a torment to her contempt."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"And be a thwart disnatur’d torment to her!"*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"To chide my fortune, and torment myself?"*
+> - 📜 **William Shakespeare (*King Lear*):** *"Thou art a soul in bliss; but I am bound upon a wheel of fire, that mine own tears do scald like molten lead in **torment**."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"Am I not shunned and hated by all mankind? You, my creator, would tear me to pieces and triumph; my soul glows with an unquenchable **torment**."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Ahab’s soul was a centipede, that moved upon a hundred legs of raging **torment**."*

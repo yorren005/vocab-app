@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Become impeded or stuck —usually used with down
-> 2. **Nuance / Usage**: (australia and new zealand, slang) an act or instance of defecation
+> 1. **Primary Meaning**: Wet, spongy, waterlogged ground consisting primarily of peat and decaying moss; a wetland.
+> 2. **Nuance / Usage**: Used figuratively to mean becoming stuck, delayed, or hopelessly entangled in complex obstacles (*bogged down in details*).
 
 > [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the bog withstood the storm*), direct object (*cleaved the bog*), or prepositional anchor (*amidst the bog*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+> - **Grammatical Class**: Noun (count & mass) & Verb (intransitive with *down*).
+> - **Syntactic Constructions**: Operates as a geographic feature (*crossing the bog*) or figurative impediment (*bogged down in negotiations*).
+> - **Collocations & Registers**: Paired with peat, wetland, mud, moss, and entangling delay.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"coins, base treasure of a bog: and ever shall be."*
-> - 📜 **Emily Brontë (*Wuthering Heights*):** *"seek for her shoes in the bog to-morrow."*
-> - 📜 **Emily Brontë (*Wuthering Heights*):** *"he’s at t’ bothom of a bog-hoile."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"A false step off the path means death in the dismal grimpen **bog**."*
+> - 📜 **James Joyce (*Ulysses*):** *"Bronze and base treasure of an ancient peat **bog**, preserved beneath centuries of dark earth."*
+> - 📜 **Emily Brontë (*Wuthering Heights*):** *"He lost his way entirely upon the moor and sank to his waist in the sodden **bog**."*

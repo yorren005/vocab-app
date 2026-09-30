@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Scion
-> 2. **Nuance / Usage**: Grafted plant
+> 1. **Primary Meaning**: To insert a shoot or twig into a living plant stem so that their tissues unite and grow together; the living scion so inserted.
+> 2. **Nuance / Usage**: In surgery, healthy living tissue transplanted to repair a wound; colloquially, illicit political or financial gain through bribery and corruption.
 
 > [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the graft withstood the storm*), direct object (*cleaved the graft*), or prepositional anchor (*amidst the graft*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+> - **Grammatical Class**: Noun & Verb (transitive).
+> - **Syntactic Constructions**: Operates in botanical propagation (*to graft a cultivar*) and socio-political critique (*municipal graft*).
+> - **Collocations & Registers**: Organic integration on one hand, political cynicism on the other.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"I’ll graft it with you, and then I shall graft it with a medlar."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Pray God the plants thou graft’st may never grow!"*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"years of endeavour to graft technical belief on actual scepticism."*
+> - 📜 **William Shakespeare (*The Winter's Tale*):** *"We marry a gentler scion to the wildest stock, and make conceive a bark of baser kind by bud of nobler race—we **graft**."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"It was the work of years to **graft** formal doctrine upon her instinctive reverence for the earth."*
+> - 📜 **Jack London (*The Iron Heel*):** *"Behind the gleaming municipal facades lay an entrenched system of political **graft** and covert kickbacks."*

@@ -42,14 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: (scotland, northern england) a ravine
+> 1. **Primary Meaning**: A steep-sided, rocky mountain ravine or wooded cleft containing a swift stream or waterfall.
+> 2. **Nuance / Usage**: Northern English and Cumbrian dialect spelling (also *gill*, from Old Norse *gil*); characteristic of the rugged Lake District landscape.
 
 > [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the ghyll withstood the storm*), direct object (*cleaved the ghyll*), or prepositional anchor (*amidst the ghyll*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+> - **Grammatical Class**: Noun (count).
+> - **Syntactic Constructions**: Locative focus (*scrambling up the steep ghyll*).
+> - **Collocations & Registers**: Romantic Lake poets, Cumbrian regional lore, hillwalking memoirs; paired with *roaring*, *rocky*, *stream*, and *waterfall*.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Wordsworth (*An Evening Walk*):** *"The roaring ghyll that foams between the steep and craggy rocks."*
-> - 📜 **Samuel Taylor Coleridge (*Letters and Notebooks*):** *"We climbed by the side of the loud ghyll, where the waters plunged into the stony basin."*
-> - 📜 **Beatrix Potter (*The Tale of Mrs. Tiggy-Winkle*):** *"She walked up the hill and along by the side of the ghyll where the ferns grew high."*
+> - 📜 **William Wordsworth (*An Evening Walk*):** *"The roaring **ghyll** that foams between the steep and craggy rocks."*
+> - 📜 **Samuel Taylor Coleridge (*Letters and Notebooks*):** *"We climbed by the side of the loud **ghyll**, where the waters plunged into the stony basin."*
+> - 📜 **Beatrix Potter (*The Tale of Mrs. Tiggy-Winkle*):** *"She walked up the hill and along by the side of the **ghyll** where the ferns grew high."*

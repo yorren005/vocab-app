@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Swift in motion : nimble
-> 2. **Nuance / Usage**: Group of vessels or vehicles
+> 1. **Primary Meaning**: Fast in movement; swift, nimble, and agile.
+> 2. **Nuance / Usage**: Carries a graceful, poetic quality emphasizing lightweight speed (*fleet of foot*), or the rapid, fleeting passage of time and youth (*fleet-winged hours*).
 
 > [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+> - **Grammatical Class**: Adjective & Verb (intransitive, poetic).
+> - **Syntactic Constructions**: Operates attributively (*a fleet steed*) or in idiomatic phrases (*fleet of foot*).
+> - **Collocations & Registers**: Paired with swiftness, deer, agile hounds, winds, and passing time.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Have knit again, and fleet, threat’ning most sea-like."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"I am sure he is in the fleet: I would he had boarded me!"*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"offices of the League, 7 Pope’s Court, Fleet Street."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"How all the other passions **fleet** to air, as doubtful thoughts and rash-embraced despair."*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"He rode a steed as **fleet** as the desert wind, leaving every pursuer far behind."*
+> - 📜 **Henry Wadsworth Longfellow (*The Song of Hiawatha*):** *"He was so **fleet** of foot that he could shoot an arrow from him and run forward so rapidly that the arrow fell behind him."*

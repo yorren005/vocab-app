@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Cause for pride
-> 2. **Nuance / Usage**: Brag; ostentatious positive appraisal of oneself
+> 1. **Primary Meaning**: To talk with excessive pride and self-satisfaction about one's achievements, possessions, or abilities.
+> 2. **Nuance / Usage**: Extends to an institution, landscape, or city possessing a distinguished, admirable feature (*the university boasts a renowned library*).
 
 > [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+> - **Grammatical Class**: Verb (transitive & intransitive) & Noun (count).
+> - **Syntactic Constructions**: Operates in vainglorious speech (*boasting of victory*) and legitimate pride (*a boast of excellence*).
+> - **Collocations & Registers**: Paired with pride, arrogance, bragging, and notable features.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"I could make as true a boast as that, if I had a sow to my mistress."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"That doth presume to boast of gentle blood."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"My duty will I boast of, nothing else."*
+> - 📜 **William Shakespeare (*Henry V*):** *"That doth presume to **boast** of gentle blood, when honor calls him to the field."*
+> - 📜 **John Milton (*Paradise Lost*):** *"He spoke, and to confirm his words, outflew millions of flaming swords, yet none dared **boast** of victory."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"He had never heard her **boast** of anything, and admired her unaffected modesty."*

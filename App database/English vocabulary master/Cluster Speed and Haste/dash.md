@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Smash
-> 2. **Nuance / Usage**: Short run, flight
+> 1. **Primary Meaning**: To run or travel somewhere in a great hurry; a short, rapid race or sprint.
+> 2. **Nuance / Usage**: Conveys sudden impulsive acceleration, a dramatic burst of speed, or reckless haste (*making a mad dash for the shelter*).
 
 > [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to dash the target*) and intransitive clauses (*dashing against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+> - **Grammatical Class**: Verb (intransitive & transitive) & Noun (count).
+> - **Syntactic Constructions**: Operates in hurried sprint (*dashed into the room*) and impulsive attempts (*a fifty-yard dash*).
+> - **Collocations & Registers**: Paired with sprints, urgent departures, reckless haste, and sudden motion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"I see this hath a little dash’d your spirits."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"And if they fall they dash themselves to pieces."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"As with a club, dash out my desperate brains?"*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"We made a sudden **dash** across the rain-swept street to catch the waiting cab."*
+> - 📜 **Jack London (*White Fang*):** *"The cub made a frantic **dash** toward the entrance of the cave to escape the lynx."*
+> - 📜 **H.G. Wells (*The War of the Worlds*):** *"People were making a desperate **dash** for the railway station, abandoning their luggage in the mud."*

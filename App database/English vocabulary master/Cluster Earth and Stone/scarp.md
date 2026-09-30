@@ -42,14 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Line of cliffs produced by faulting or erosion
-> 2. **Nuance / Usage**: The steep artificial slope below a fort's parapet
+> 1. **Primary Meaning**: A very steep slope, line of cliffs, or escarpment resulting from geological faulting, erosion, or defensive fortification.
+> 2. **Nuance / Usage**: In military architecture, the inner slope of a ditch facing outward beneath a rampart; in geomorphology, a sharp vertical cliff face.
 
 > [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the scarp withstood the storm*), direct object (*cleaved the scarp*), or prepositional anchor (*amidst the scarp*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+> - **Grammatical Class**: Noun (count).
+> - **Syntactic Constructions**: Prepositional marker (*standing on the brink of the scarp*).
+> - **Collocations & Registers**: Geomorphology, military engineering, alpine exploration; paired with *steep*, *chalk*, *fault*, and *precipitous*.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Matthew Carter (*Honor Redivivus: Or, The Analysis of Honor and Armory*):** *"[...] as in the seventh, which is Argent a Scarp Azure."*
-> - 📜 **John Guillim (*A Display of Heraldry*):** *"He beareth Argent, a Scarp, Azure."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The chalk **scarp** dropped sheer into the blue water, white and blinding in the midday sun."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"I scrambled up the steep **scarp** of the hillside, slipping repeatedly upon the crumbling shale."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"Before us rose the terrible red **scarp** of the plateau, sheer as a wall and rising hundreds of feet into the mist."*

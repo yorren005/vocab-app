@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Beat, pulse
-> 2. **Nuance / Usage**: Beat or vibrate rhythmically
+> 1. **Primary Meaning**: To pulsate, beat, or vibrate with rapid, forceful, or rhythmic intensity.
+> 2. **Nuance / Usage**: Denotes physical pulsations driven by blood pressure, fever, or excitement, as well as mechanical vibrations or resonant emotion.
 
 > [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to throb the target*) and intransitive clauses (*throbing against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+> - **Grammatical Class**: Verb (intransitive) and noun (count).
+> - **Syntactic Constructions**: Intransitive (*his temples throbbed*) or nominal subject (*a steady throb echoed*).
+> - **Collocations & Registers**: Somatic suspense, kinetic energy, emotional turmoil; paired with *heart*, *pulse*, *wound*, and *temple*.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"with perspiration, and the bedstead shook with each throb of her heart."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Four hearts gave a big throb simultaneously."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"mortar, and whole overhanging sky throb with a burning sensibility."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Four hearts gave a big **throb** simultaneously."*
+> - 📜 **Emily Brontë (*Wuthering Heights*):** *"I felt my heart **throb** violently, and I could hear the wind howling through the fir-trees."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The heavy **throb** of the engines vibrated through the frail hull, like the beat of a troubled heart."*

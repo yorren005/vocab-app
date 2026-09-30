@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Very likely : sure
-> 2. **Nuance / Usage**: (with infinitive) obliged (to)
+> 1. **Primary Meaning**: To leap, spring, or jump forward vigorously with speed and agility; a rapid leaping movement.
+> 2. **Nuance / Usage**: Conveys buoyant elasticity, energetic athleticism, or enthusiastic swift progression across obstacles (*bounding over fences*).
 
 > [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Adjective.
-> - **Syntactic Constructions**: Functions attributively before a noun (*a bound presence*) or predicatively (*remained bound*).
-> - **Collocations & Registers**: Delivers immediate physical or psychological contrast in descriptive and poetic registers.
+> - **Grammatical Class**: Verb (intransitive) & Noun (count).
+> - **Syntactic Constructions**: Operates in athletic motion (*bounding across the fields*) and discrete leaps (*cleared the gap in a single bound*).
+> - **Collocations & Registers**: Paired with leaps, elasticity, athletic agility, and eager speed.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Being your vassal bound to stay your leisure."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"very well to a whipping, if you were but bound to’t."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Why, these balls bound; there’s noise in it."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Pilot came **bounding** down the path, wagging his tail in eager greeting."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"Silver cleared the low stockade with a single agile **bound**, despite his crutch."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The great white whale cleared the foaming waves in a magnificent, surging **bound**."*

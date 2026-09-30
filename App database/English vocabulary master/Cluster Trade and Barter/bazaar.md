@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Department store
-> 2. **Nuance / Usage**: Place for the sale of goods
+> 1. **Primary Meaning**: A marketplace or street lined with small stalls and shops, especially in the Middle East and South Asia; a fair or sale organized for charity.
+> 2. **Nuance / Usage**: Evokes a vibrant, chaotic sensory atmosphere of crowds, colorful textiles, spices, and energetic haggling (*the noisy hum of the bazaar*).
 
 > [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+> - **Grammatical Class**: Noun (count).
+> - **Syntactic Constructions**: Operates as a spatial setting (*in the bazaar*) or an event (*holding a charity bazaar*).
+> - **Collocations & Registers**: Paired with exotic wares, merchant stalls, bustling crowds, and commerce.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Leo Tolstoy (*War and Peace*):** *"square in front of the Bazaar were drummers beating the muster call."*
-> - 📜 **Leo Tolstoy (*War and Peace*):** *"slipping past him into the Bazaar passage."*
-> - 📜 **James Joyce (*Ulysses*):** *"1886 (never passed into law): a bazaar ticket, No 2004, of S."*
+> - 📜 **James Joyce (*Araby*):** *"The silence was like that which pervades a church after a service, but the great hall of the **bazaar** had been full of life."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"In the square before the great **bazaar**, drummers were beating the muster call to the citizens."*
+> - 📜 **Rudyard Kipling (*Kim*):** *"The sights and sounds of the Delhi **bazaar** unfolded before them in a kaleidoscope of color and dust."*

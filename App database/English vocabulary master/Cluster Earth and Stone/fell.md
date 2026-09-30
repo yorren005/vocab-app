@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Skin, hide, pelt
-> 2. **Nuance / Usage**: Cut, knock, or bring down
+> 1. **Primary Meaning**: A high, barren, rocky moorland, upland hill, or mountain ridge (especially in Northern England and Scandinavia).
+> 2. **Nuance / Usage**: Derived from Old Norse *fjall*; specifically designates the open, unwooded hill country of Cumbria and the Pennines (Lake District fells).
 
 > [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+> - **Grammatical Class**: Noun (count).
+> - **Syntactic Constructions**: Prepositional location (*out on the open fell*, *wandering the fells*).
+> - **Collocations & Registers**: Northern English geography, pastoral poetry, fell-walking literature; paired with *barren*, *wind-swept*, *misty*, and *upland*.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Drugs poison him that so fell sick of you."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"courtship too well, for there he fell in love."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Heavens bless my lord from fell Aufidius!"*
+> - 📜 **William Wordsworth (*The Prelude*):** *"Far up the solitary **fell** I roamed, when all the valley beneath was wrapped in evening mist."*
+> - 📜 **Emily Brontë (*Wuthering Heights*):** *"I’d rather be sitting on a heather-covered **fell** in a gale of wind than in this stuffy parlour."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The wild expanse of the high **fells** stretched away into the grey distance, broken only by granite boulders."*

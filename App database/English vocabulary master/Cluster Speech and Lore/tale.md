@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Intentionally untrue report : falsehood
-> 2. **Nuance / Usage**: Usually imaginative narrative of an event : story
+> 1. **Primary Meaning**: A narrative of real or imaginary events; a story told or written for entertainment or instruction.
+> 2. **Nuance / Usage**: Carries an oral, folkloric atmosphere (*a fairy tale; traveler's tales*), or can denote a malicious rumor or gossiping report (*bearing tales*).
 
 > [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+> - **Grammatical Class**: Noun (count).
+> - **Syntactic Constructions**: Operates in storytelling (*telling a tale*) and narrative assessment (*thereby hangs a tale*).
+> - **Collocations & Registers**: Paired with storytelling, folklore, ancient legends, fireside yarns, and rumors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"He’s for a jig or a tale of bawdry, or he sleeps."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"), that melted at the sweet tale of the sun’s?"*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Mark now how a plain tale shall put you down."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"Life's but a walking shadow, a poor player... it is a **tale** told by an idiot, full of sound and fury, signifying nothing."*
+> - 📜 **Samuel Taylor Coleridge (*The Rime of the Ancient Mariner*):** *"By thy long grey beard and glittering eye, now wherefore stopp'st thou me? The Mariner hath his will, and tells his ghastly **tale**."*
+> - 📜 **Geoffrey Chaucer (*The Canterbury Tales*):** *"Whan that Aprille with his shoures soote... each traveler swore to tell a pleasant **tale** upon the road."*

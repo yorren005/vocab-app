@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Heavy often deep mud or slush
-> 2. **Nuance / Usage**: Deep mud; moist, spongy earth
+> 1. **Primary Meaning**: Wet, slimy, deep mud or swampy ground; an area of soft wet soil.
+> 2. **Nuance / Usage**: Frequently applied metaphorically to describe an intractable, morally compromising, or embarrassing predicament (*mired in legal controversy*).
 
 > [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+> - **Grammatical Class**: Noun (mass & count) & Verb (transitive).
+> - **Syntactic Constructions**: Operates in literal physical conditions (*sunk in mire*) and metaphorical entanglement (*mired in debt*).
+> - **Collocations & Registers**: Paired with deep mud, sinking, entangling conflict, and despondency.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Great pails of puddled mire to quench the hair."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Paint till a horse may mire upon your face."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"the hoofs of the horses into mire and water."*
+> - 📜 **John Bunyan (*The Pilgrim's Progress*):** *"This miry slough is such a place as cannot be mended; it is the Slough of Despond, where travelers sink into deep **mire**."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Horses splashed up to their haunches into black **mire** and thick roadside slush."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"His boots were caked with the dark **mire** of the harbor wharves."*

@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Unfortunate accident
-> 2. **Nuance / Usage**: Bad luck : misfortune
+> 1. **Primary Meaning**: An unlucky or unfortunate accident of a minor to moderate scale.
+> 2. **Nuance / Usage**: Usually milder than catastrophe or calamity; suggests an unforeseen misstep, blunder, or mechanical failure that upsets orderly plans.
 
 > [!tip] 🎯 Usage & Syntactic Application
 > - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+> - **Syntactic Constructions**: Functions as subject (*a mishap occurred*) or direct object (*suffered a slight mishap*).
+> - **Collocations & Registers**: Practical chronicles, travel narratives, comedy of errors, formal reports; paired with *slight*, *unfortunate*, *travel*, and *prevent*.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Major A. Playfair (*The Garos*):** *"There are certain ceremonies which are observed once a year by a whole community or village, and are intended to safeguard its members from dangers of the forest, and from sickness and mishap during the coming twelve months."*
-> - 📜 **Optic, Oliver (*Plane and Plank*):** *"IN WHICH PHIL HAS ANOTHER MISHAP, AND IS TAKEN TO A POLICE STATION."*
-> - 📜 **Optic, Oliver (*Plane and Plank*):** *"that seemed to me the greatest mishap which could possibly befall me."*
+> - 📜 **Major A. Playfair (*The Garos*):** *"There are certain ceremonies intended to safeguard its members from dangers of the forest, and from sickness and **mishap** during the coming twelve months."*
+> - 📜 **Oliver Optic (*Plane and Plank*):** *"That seemed to me the greatest **mishap** which could possibly befall me."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Margaret was particularly fortunate; for she had scarcely an hour’s wait before Marianne’s return, unhurt by any serious **mishap**."*

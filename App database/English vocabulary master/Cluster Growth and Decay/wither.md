@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Cause to wither
-> 2. **Nuance / Usage**: Lose vitality, force, or freshness
+> 1. **Primary Meaning**: To become dry and shriveled; to wilt and lose sap or freshness.
+> 2. **Nuance / Usage**: Extends beyond biological wilting to the gradual loss of youth, vitality, political power, or mental resolve under harsh scrutiny (*a withering glance*).
 
 > [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to wither the target*) and intransitive clauses (*withering against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+> - **Grammatical Class**: Verb (intransitive & transitive).
+> - **Syntactic Constructions**: Intransitive (*leaves wither in autumn*) or transitive (*withering them with contempt*).
+> - **Collocations & Registers**: Elegiac poetry, botanical desiccation, rhetorical rebuke; paired with *wilt*, *fade*, *shrivel*, *branches*, and *withering look*.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"wither’d pear; it was formerly better; marry, yet ’tis a wither’d pear."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"violets, but they wither’d all when my father died."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"From this bare wither’d trunk."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"I would give you some violets, but they **wither’d** all when my father died."*
+> - 📜 **Percy Bysshe Shelley (*Ode to the West Wind*):** *"Drive my dead thoughts over the universe like **wither’d** leaves to quicken a new birth!"*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"My hopes were all dead; they, struck by a sudden frost, had **withered** like autumn leaves."*

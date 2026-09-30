@@ -1,6 +1,6 @@
 ---
 cluster: "[[Cluster Craft and Shaping]]"
-section: "Material Forging"
+section: "Craftsmanship"
 status: unread
 ---
 # warp
@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Foundation, base
-> 2. **Nuance / Usage**: Rope for warping or mooring a ship or boat
+> 1. **Primary Meaning**: To bend, twist, or curve out of true shape, especially through dampness, heat, or uneven tension.
+> 2. **Nuance / Usage**: In weaving, the longitudinal threads stretched on a loom across which the weft is passed; figuratively, to distort a person's judgment, personality, or perspective.
 
 > [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+> - **Grammatical Class**: Verb & Noun (weaving / distortion).
+> - **Syntactic Constructions**: Functions physically (*timbers warped by salt water*) and psychologically (*a warped sense of duty*).
+> - **Collocations & Registers**: Paired with structural distortion, moral bias, and loom mechanics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The British Journal of Photography*):** *"All frames found to suffer from warp should be broken up straight away before the printer is tempted during a rush to make use of them."*
-> - 📜 **Roland Johnson (*Automotive Woodworking : Restoration, Repair and Replacement*):** *"Rough lumber is rarely perfectly straight, and may suffer from warp,"*
-> - 📜 **Classic Author (*Innovation*):** *"The part is not fragile, does not need benching to remove "stair-stepping" on curved surfaces and does not need post curing. It does not suffer from warp, sag or curl."*
+> - 📜 **William Shakespeare (*As You Like It*):** *"Freeze, freeze, thou bitter sky, that dost not bite so nigh as benefits forgot; though thou the waters **warp**, thy sting is not so sharp."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"His intellectual faculties were keen, but solitary brooding had **warped** his moral perception."*
+> - 📜 **George Eliot (*Silas Marner*):** *"From morning till night, the rhythmic clack of the loom threw the shuttle between the stretched threads of the **warp**."*

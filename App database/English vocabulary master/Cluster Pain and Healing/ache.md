@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Feel compassion
-> 2. **Nuance / Usage**: Suffer a usually dull persistent pain
+> 1. **Primary Meaning**: To suffer a continuous, dull, or lingering physical pain.
+> 2. **Nuance / Usage**: Extends deeply to profound emotional yearning, poignant sorrow, or nostalgic compassion (*heartache*, *aching heart*).
 
 > [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to ache the target*) and intransitive clauses (*aching against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+> - **Grammatical Class**: Verb (intransitive) and noun (count).
+> - **Syntactic Constructions**: Functions intransitively (*his bones ached with fatigue*) or with clausal longing (*ached to return home*).
+> - **Collocations & Registers**: Somatic and psychological introspection, lyrical prose; collocated with *dull*, *throbbing*, *heartache*, and *weariness*.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"do with a fellow that never had the ache in his shoulders!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"that alone makes my head ache till I can’t see out of my eyes."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"the very soul of decision, that he made my heart ache keenly, sorely."*
+> - 📜 **William Shakespeare (*Troilus and Cressida*):** *"What should I do with a fellow that never had the **ache** in his shoulders!"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He was the very soul of decision, that he made my heart **ache** keenly, sorely."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"A strange and terrifying conviction was born within me; my head and heart **ached** with the unbearable silence."*

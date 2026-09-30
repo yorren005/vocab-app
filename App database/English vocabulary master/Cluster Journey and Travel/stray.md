@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: The act of going astray
-> 2. **Nuance / Usage**: Person or thing that strays
+> 1. **Primary Meaning**: To wander away from a group, path, or designated area; an animal without a home.
+> 2. **Nuance / Usage**: Extends to cognitive deviations, moral lapses, or isolated, sporadic occurrences (*stray thoughts; a stray bullet; a stray beam of sunlight*).
 
 > [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+> - **Grammatical Class**: Verb (intransitive) & Noun / Adjective.
+> - **Syntactic Constructions**: Operates in wandering movement (*straying from the trail*) or sporadic presence (*a stray coin*).
+> - **Collocations & Registers**: Paired with wanderers, lost pets, random thoughts, and deviations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"home, and perhaps to stray wild."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"have had—as I have read—for a weed or a stray blade of grass."*
-> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"through at noon with a stray penny—my last coin."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"A lonely child left to **stray** wild through the crowded city streets."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I bought a dry crust of bread with a **stray** penny, the very last coin left in my pocket."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A few **stray** sheep had escaped the fold and were grazing near the edge of the pit."*

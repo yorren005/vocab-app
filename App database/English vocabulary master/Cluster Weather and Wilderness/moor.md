@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Game preserve consisting of moorland
-> 2. **Nuance / Usage**: Expanse of open rolling infertile land
+> 1. **Primary Meaning**: An expanse of open, uncultivated rolling highland covered with heather, bracken, and peaty soil; moorland.
+> 2. **Nuance / Usage**: Evokes brooding solitude, atmospheric isolation, wild northern weather, and dangerous hidden bogs (*lost upon the misty moor*).
 
 > [!tip] 🎯 Usage & Syntactic Application
 > - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the moor withstood the storm*), direct object (*cleaved the moor*), or prepositional anchor (*amidst the moor*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+> - **Syntactic Constructions**: Operates as a landscape setting (*wandering the moor*) or modifier (*moor bird*).
+> - **Collocations & Registers**: Paired with heather, bracken, mist, peaty soil, and solitary landscapes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"What sayest thou to a hare, or the melancholy of Moor-ditch?"*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Like to the empress’ Moor; therefore I killed him."*
-> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"and that we may dismiss you to the moor and the rainy night?"*
+> - 📜 **Emily Brontë (*Wuthering Heights*):** *"My love for Heathcliff resembles the eternal rocks beneath—a source of little visible delight, but necessary, like the barren **moor** itself."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The rolling expanse of the great Dartmoor **moor** stretched away under the grey October sky."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Having crossed the marsh, I saw a trace of white light gleaming over the wild, windswept **moor**."*

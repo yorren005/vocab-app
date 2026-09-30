@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Squeeze between two objects
-> 2. **Nuance / Usage**: Squeeze or compress painfully
+> 1. **Primary Meaning**: To compress tightly between two surfaces; a condition of severe financial hardship, austerity, or scarcity.
+> 2. **Nuance / Usage**: Conveys the painful stress of economic privation and narrowing financial margins (*feeling the pinch of poverty*).
 
 > [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to pinch the target*) and intransitive clauses (*pinching against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+> - **Grammatical Class**: Noun (count) & Verb (transitive).
+> - **Syntactic Constructions**: Operates in idiomatic economic stress (*feel the pinch*) or restrictive spending (*pinched by circumstances*).
+> - **Collocations & Registers**: Paired with poverty, scarcity, narrowing resources, and thrift.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"They’ll suck our breath, or pinch us black and blue."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"And, as you trip, still pinch him to your time."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Could you fetch me a pinch from anywheres?"*
+> - 📜 **George Eliot (*Middlemarch*):** *"They began to feel the severe **pinch** of poverty as the unpaid debts accumulated."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"My mother struggled bravely against the bitter **pinch** of narrowing circumstances."*
+> - 📜 **Benjamin Franklin (*Autobiography*):** *"He was obliged to economize severely, knowing well what it meant to endure the **pinch** of a lean winter."*

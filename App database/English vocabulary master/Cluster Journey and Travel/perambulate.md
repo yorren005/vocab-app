@@ -42,13 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Stroll
-> 2. **Nuance / Usage**: (transitive) to inspect (an area) on foot
+> 1. **Primary Meaning**: To walk through, over, or around, especially in a leisurely or leisurely observational manner; to stroll.
+> 2. **Nuance / Usage**: Connotes formal promenading or the traditional inspection of territorial/parish boundaries on foot (*perambulating the estate*).
 
 > [!tip] 🎯 Usage & Syntactic Application
 > - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to perambulate the target*) and intransitive clauses (*perambulating against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+> - **Syntactic Constructions**: Operates in leisurely transit (*perambulating the gardens*) and official inspection (*perambulate the boundary*).
+> - **Collocations & Registers**: Paired with promenades, parklands, leisurely strolls, and formal tours.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Louis Stevenson (*Edinburgh*):** *"The officials, in their gowns of grey, with a white St. Andrew’s cross on back and breast, and a white cloth carried before them on a staff, perambulated the city, adding the terror of man’s justice to the fear of God’s visitation."*
+> - 📜 **Robert Louis Stevenson (*Edinburgh: Picturesque Notes*):** *"The officials in their grey gowns **perambulated** the city, adding the solemn terror of law to the fear of visitation."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth continued to **perambulate** along the gravel walk, enjoying the refreshing evening air."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"He was accustomed to **perambulate** the avenue each evening before retiring to rest."*

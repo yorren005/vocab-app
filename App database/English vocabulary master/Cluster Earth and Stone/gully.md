@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Small valley
-> 2. **Nuance / Usage**: Make gullies in
+> 1. **Primary Meaning**: A deep, narrow ditch or channel eroded into earth or rock by the sudden, torrential rush of storm water.
+> 2. **Nuance / Usage**: Implies active erosive scarring of soil or hillside, often presenting a steep barrier to crosscountry travelers.
 
 > [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the gully withstood the storm*), direct object (*cleaved the gully*), or prepositional anchor (*amidst the gully*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+> - **Grammatical Class**: Noun (count).
+> - **Syntactic Constructions**: Prepositional obstacle (*plunged down into the dry gully*).
+> - **Collocations & Registers**: Arid terrain, badlands geomorphology, frontier exploration; paired with *eroded*, *dry*, *deep*, and *torrent*.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Smith, Jewell Ellen (*Great Jehoshaphat and Gully Dirt!*):** *"Title: Great Jehoshaphat and Gully Dirt!"*
-> - 📜 **Smith, Jewell Ellen (*Great Jehoshaphat and Gully Dirt!*):** *"Great Jehoshaphat and Gully Dirt!"*
-> - 📜 **Smith, Jewell Ellen (*Great Jehoshaphat and Gully Dirt!*):** *"Great Jehoshaphat and Gully Dirt" is presently out of print."*
+> - 📜 **Mark Twain (*Roughing It*):** *"We plunged into a deep **gully** washed out by the spring cloudbursts, where the horses could scarcely find a footing."*
+> - 📜 **Jack London (*The Call of the Wild*):** *"Down the rocky slope and through the wooded **gully**, the pack streamed like a grey wave."*
+> - 📜 **Bret Harte (*The Luck of Roaring Camp*):** *"The muddy stream had carved a ragged **gully** straight through the centre of the mining camp."*

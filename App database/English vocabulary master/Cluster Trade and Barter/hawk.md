@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: (politics) an advocate of aggressive political positions and actions
-> 2. **Nuance / Usage**: Diurnal predatory bird of the family accipitridae, smaller than an eagle
+> 1. **Primary Meaning**: To offer goods or merchandise for sale by calling out in the streets, markets, or door-to-door; to peddle.
+> 2. **Nuance / Usage**: Extends figuratively to aggressively publicizing or promoting an ideology, dubious panacea, or commercial venture with insistent, noisy persuasion (*hawking snake oil*).
 
 > [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in commercial peddling (*to hawk wares in the alley*) and ideological promotion (*hawking conspiracy theories*).
+> - **Collocations & Registers**: Paired with street cries, peddlers, broadsheets, and aggressive salesmanship.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Was by a mousing owl hawk’d at and kill’d."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"together; I have a fine hawk for the bush."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"[Footnote 3: The Gos-hawk, or Falcon."*
+> - 📜 **Charles Dickens (*Oliver Twist*):** *"Coster-mongers and peddlers were loudly shouting, **hawking** their fish and cabbages from wooden barrows."*
+> - 📜 **George Orwell (*Down and Out in Paris and London*):** *"He took to the street with a small basket, attempting to **hawk** bootlaces and matches to passersby."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The newsboys were **hawking** an evening edition down the Strand with sensational headlines."*

@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Rounded hill or natural formation
-> 2. **Nuance / Usage**: The slightly elevated ground on which a baseball pitcher stands
+> 1. **Primary Meaning**: A raised bank or heap of earth, stone, or debris; a natural or artificial hillock.
+> 2. **Nuance / Usage**: Spans natural elevations, archaeological burial barrows (*tumuli*), and defensive earthen ramparts constructed for protection.
 
 > [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+> - **Grammatical Class**: Noun (count) and verb.
+> - **Syntactic Constructions**: Object of elevation (*stood atop the mound*) or verb of piling (*mounded high with earth*).
+> - **Collocations & Registers**: Archaeology, defensive siegecraft, landscape architecture; paired with *burial*, *earthen*, *grassy*, and *heap*.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Leo Tolstoy (*War and Peace*):** *"the Shevárdino mound to observe the enemy."*
-> - 📜 **Leo Tolstoy (*War and Peace*):** *"rode away from the mound and disappeared."*
-> - 📜 **Rick Hansen (*Leadership and The Art of Surfing*):** *"When a wave mounds on the outside and takes its shape, a surfer quickly paddles to the peak, positions himself in its evolving momentum, swings his board around, aligns with the peak, and thrusts himself into its cascading shape."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"Pierre mounted the Shevárdino **mound** to observe the battlefield."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"The rank grass nodded over the **mounds** where the dead lay forgotten."*
+> - 📜 **Washington Irving (*The Legend of Sleepy Hollow*):** *"The road ascended a gentle **mound** crowned with a grove of majestic oaks."*

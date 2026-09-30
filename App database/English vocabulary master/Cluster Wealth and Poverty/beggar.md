@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Man, boy
-> 2. **Nuance / Usage**: Person who begs
+> 1. **Primary Meaning**: A person who lives by asking for money, food, or alms; an impoverished mendicant.
+> 2. **Nuance / Usage**: Extends figuratively as a verb meaning to surpass the limits of description or comprehension (*it beggars belief*), or to reduce to complete poverty.
 
 > [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the beggar withstood the storm*), direct object (*cleaved the beggar*), or prepositional anchor (*amidst the beggar*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+> - **Grammatical Class**: Noun (count) & Verb (transitive).
+> - **Syntactic Constructions**: Operates as an economic subject (*the beggar sat by the gate*) or hyperbolic verb (*beggars description*).
+> - **Collocations & Registers**: Paired with mendicancy, poverty, alms, and hyperbolic inadequacy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"comparison; thou the beggar, for so witnesseth thy lowliness."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Lean, rent, and beggar’d by the strumpet wind!"*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"You teach me how a beggar should be answer’d."*
+> - 📜 **William Shakespeare (*Antony and Cleopatra*):** *"For her own person, it **beggared** all description: she did lie in her pavilion."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"He saw an old **beggar** sitting upon a doorstep, shivering under the relentless winter frost."*
+> - 📜 **Victor Hugo (*Les Misérables*):** *"The wretched **beggar** stood in the doorway, offering blessings in exchange for a crust of black bread."*

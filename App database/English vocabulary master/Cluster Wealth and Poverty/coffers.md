@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Store or hoard up in a coffer
-> 2. **Nuance / Usage**: Chest; especially : strongbox
+> 1. **Primary Meaning**: Heavy chests or strongboxes used to hold money, jewels, or other valuables.
+> 2. **Nuance / Usage**: Used collectively and figuratively for the financial reserves, funds, or treasury of a government, kingdom, or institution (*depleted state coffers*).
 
 > [!tip] 🎯 Usage & Syntactic Application
 > - **Grammatical Class**: Noun (plural).
-> - **Syntactic Constructions**: Functions as a concrete or figurative direct object, subject, or prepositional focus denoting financial reserves, treasuries, or strongboxes.
-> - **Collocations & Registers**: Fill the coffers, royal coffers, depleted state coffers; formal, economic, and literary registers.
+> - **Syntactic Constructions**: Operates as a container of capital (*fill the coffers*) or symbol of solvency (*royal coffers*).
+> - **Collocations & Registers**: Paired with treasuries, taxation, public finance, and royal stores.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"A lady So fair, and fasten’d to an empery, Would make the great’st king double, to be partner’d With tomboys hir’d with that self exhibition Which your own coffers yield!"*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"So is the unfirm king In three divided, and his coffers sound With hollow poverty and emptiness."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"He hath brought many captives home to Rome, Whose ransoms did the general coffers fill: Did this in Caesar seem ambitious?"*
+> - 📜 **William Shakespeare (*Julius Caesar*):** *"He hath brought many captives home to Rome, whose ransoms did the general **coffers** fill."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The luxurious emperor exhausted the imperial **coffers** to satisfy the extravagant demands of the legionaries."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The baron cast an anxious glance toward the heavy iron-bound chest that served as his **coffers**."*

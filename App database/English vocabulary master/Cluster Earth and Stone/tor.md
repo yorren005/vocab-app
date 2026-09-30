@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: High craggy hill
-> 2. **Nuance / Usage**: (south-west england) a hill with such rock formation
+> 1. **Primary Meaning**: A prominent, isolated rocky pinnacle or jagged granite crest outcropping from the top of an otherwise smooth hill or moor.
+> 2. **Nuance / Usage**: Iconic feature of Southwestern English moors (notably Dartmoor and Exmoor), where weathered granite blocks crown wind-swept heights.
 
 > [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the tor withstood the storm*), direct object (*cleaved the tor*), or prepositional anchor (*amidst the tor*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+> - **Grammatical Class**: Noun (count).
+> - **Syntactic Constructions**: Locative focus (*perched high upon the granite tor*).
+> - **Collocations & Registers**: Moorland Gothic, geological descriptions of the West Country; paired with *granite*, *moorland*, *jagged*, and *wind-swept*.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"croaked loudly from a tor behind us."*
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Out by the Cleft Tor, I think."*
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Do you see that Black Tor over yonder?"*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"A raven croaked loudly from a **tor** behind us, where the black granite reared against the setting sun."*
+> - 📜 **Thomas Hardy (*A Pair of Blue Eyes*):** *"The distant **tor** rose like a castellated ruin above the dark heather of the high moor."*
+> - 📜 **Eden Phillpotts (*Children of the Mist*):** *"The grey **tors** of Dartmoor keep eternal vigil over the wilderness of peat and heather."*

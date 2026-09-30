@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Knell
-> 2. **Nuance / Usage**: Small round hill : mound
+> 1. **Primary Meaning**: A small, rounded hill, natural mound, or gentle grassy elevation.
+> 2. **Nuance / Usage**: Distinct from a towering peak or jagged crag; evokes modest pastoral scale, providing a scenic viewpoint or tranquil resting place.
 
 > [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the knoll withstood the storm*), direct object (*cleaved the knoll*), or prepositional anchor (*amidst the knoll*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+> - **Grammatical Class**: Noun (count).
+> - **Syntactic Constructions**: Nominal viewpoint (*from the summit of the knoll*).
+> - **Collocations & Registers**: Pastoral landscape, military observation, parkland design; paired with *grassy*, *green*, *gentle*, and *overlooking*.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch Book*):** *"beyond swells the green knoll on which stands the whitewashed church."*
-> - 📜 **Leo Tolstoy (*War and Peace*):** *"Two officers were standing on the knoll, directing the men."*
-> - 📜 **Leo Tolstoy (*War and Peace*):** *"hundred paces in front of the knoll and below it."*
+> - 📜 **Washington Irving (*The Sketch Book of Geoffrey Crayon, Gent.*):** *"Beyond swells the green **knoll** on which stands the whitewashed church."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"Two officers were standing on the **knoll**, directing the battery through the smoke."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Gabriel stood upon the grassy **knoll**, surveying the flock scattered across the lower slope."*

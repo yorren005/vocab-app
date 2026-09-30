@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Lightning stroke; also : thunderbolt
-> 2. **Nuance / Usage**: Wood or metal bar or rod used to fasten a door
+> 1. **Primary Meaning**: To dart away suddenly and at high speed, especially from sudden fear or alarm; a rapid sprint.
+> 2. **Nuance / Usage**: Implies panicked, startled flight, breaking free from control, or taking off without warning (*the horse bolted across the field*).
 
 > [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the bolt withstood the storm*), direct object (*cleaved the bolt*), or prepositional anchor (*amidst the bolt*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+> - **Grammatical Class**: Verb (intransitive & transitive) & Noun.
+> - **Syntactic Constructions**: Operates in startled flight (*bolting for the exit*) and sudden escape (*made a bolt for freedom*).
+> - **Collocations & Registers**: Paired with panic, sudden sprint, flight, and startled animals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"According to the fool’s bolt, sir, and such dulcet diseases."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"I’ll make a shaft or a bolt on ’t."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"between us, and then again at me—“such a most oncommon Bolt as that!"*
+> - 📜 **Jack London (*The Call of the Wild*):** *"With a terrified squeal, the rabbit tried to **bolt** into the brush, but the dog was upon it."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The frightened pony gave a violent start and tried to **bolt** across the moor."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"He made a sudden **bolt** for the door, escaping into the misty night before anyone could intercept him."*

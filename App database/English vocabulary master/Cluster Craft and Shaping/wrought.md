@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Processed for use : manufactured
-> 2. **Nuance / Usage**: Elaborately embellished : ornamented
+> 1. **Primary Meaning**: Fashioned, formed, or shaped through diligent craftsmanship (the archaic past participle of *work*), especially of metals shaped by hammering (*wrought iron*).
+> 2. **Nuance / Usage**: Highly ornamented or intricately constructed; also used of emotional agitation or extreme excitement (*overwrought*).
 
 > [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Adjective.
-> - **Syntactic Constructions**: Functions attributively before a noun (*a wrought presence*) or predicatively (*remained wrought*).
-> - **Collocations & Registers**: Delivers immediate physical or psychological contrast in descriptive and poetic registers.
+> - **Grammatical Class**: Adjective (participial).
+> - **Syntactic Constructions**: Operates in material descriptions (*wrought gates*) and psychological conditions (*wrought to fever pitch*).
+> - **Collocations & Registers**: Paired with artisanal precision, intense emotional gravity, and classical resonance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Hath the late overthrow wrought this offence?"*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"And those thy fears might have wrought fears in me."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Great business must be wrought ere noon."*
+> - 📜 **Samuel F. B. Morse (*First Telegraph Message*):** *"What hath God **wrought**!"*
+> - 📜 **John Keats (*Ode on a Grecian Urn*):** *"O Attic shape! Fair attitude! with brede of marble men and maidens **wrought**."*
+> - 📜 **William Shakespeare (*Othello*):** *"One not easily jealous, but being **wrought**, perplexed in the extreme."*

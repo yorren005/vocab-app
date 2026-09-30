@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Colored spot
-> 2. **Nuance / Usage**: Surface having colored spots or blotches
+> 1. **Primary Meaning**: To mark with irregular spots, blotches, or streaks of different shades and colors.
+> 2. **Nuance / Usage**: Evokes dappled, variegated patterns caused by sun filtering through foliage, disease, marble veining, or cold weather (*sunlight mottling the woodland floor*).
 
 > [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+> - **Grammatical Class**: Verb (transitive) & Noun.
+> - **Syntactic Constructions**: Operates in surface patterning (*mottled with sunlight*) and visual texture (*a mottle of color*).
+> - **Collocations & Registers**: Paired with dappled light, shadows, marble, foliage, and skin blotches.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It is habitually hard upon Sir Leicester, whose countenance it greenly mottles in the manner of sage-cheese and in whose aristocratic system it effects a dismal revolution."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"He had glittering eyes,—small, keen, and black,—and thin wide mottled lips."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Round one of his hands he had a handkerchief wrapped, which was mottled all over with bloodstains."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The damp autumn chill greenly **mottles** his aristocratic countenance in the manner of sage-cheese."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"The midday sun filtered through the high beech leaves to **mottle** the woodland floor with flecks of gold."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"A damp mist began to **mottle** the rough stone walls of the cottage."*

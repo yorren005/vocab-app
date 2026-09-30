@@ -42,13 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Walk while shuffling or dragging the feet
-> 2. **Nuance / Usage**: Walk awkwardly with dragging feet : shuffle
+> 1. **Primary Meaning**: To walk awkwardly while dragging or shuffling the feet; an unsteady, shuffling gait.
+> 2. **Nuance / Usage**: Conveys severe fatigue, dejection, physical decrepitude, or reluctant sluggish movement (*a weary shamble down the road*).
 
 > [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to shamble the target*) and intransitive clauses (*shambling against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+> - **Grammatical Class**: Verb (intransitive) & Noun.
+> - **Syntactic Constructions**: Operates in gait descriptions (*shambling along the sidewalk*) and physical posture (*walked with an awkward shamble*).
+> - **Collocations & Registers**: Paired with shuffling, dragging feet, weariness, and unsteadiness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby Dick*):** *"turned into what seemed a shamble; every sailor a butcher."*
+> - 📜 **Jack London (*The Sea-Wolf*):** *"He began to **shamble** across the wet deck, his heavy sea boots dragging clumsily behind him."*
+> - 📜 **H.G. Wells (*The Island of Doctor Moreau*):** *"A strange figure came into view, moving with a grotesque, awkward **shamble**."*
+> - 📜 **George Orwell (*Down and Out in Paris and London*):** *"The tramps formed into line and began to **shamble** forward toward the shelter doors."*

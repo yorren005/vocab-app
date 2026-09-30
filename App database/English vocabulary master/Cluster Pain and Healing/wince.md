@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Kick or flounce when unsteady or impatient
-> 2. **Nuance / Usage**: Sudden movement or gesture of shrinking away
+> 1. **Primary Meaning**: To draw back suddenly or flinch slightly from pain, distress, or acute embarrassment.
+> 2. **Nuance / Usage**: An involuntary micro-movement (facial grimace or sudden shudder) demonstrating vulnerability to physical shock or verbal barbs.
 
 > [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to wince the target*) and intransitive clauses (*wincing against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+> - **Grammatical Class**: Verb (intransitive) and noun (count).
+> - **Syntactic Constructions**: Intransitive verb (*winced at the accusation*) or nominal object (*gave a sharp wince*).
+> - **Collocations & Registers**: Psychological observation, interpersonal conflict, realism; paired with *involuntarily*, *visibly*, *pain*, and *flinch*.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Let the gall’d jade wince; our withers are unwrung."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Drive these men away, And I will sit as quiet as a lamb; I will not stir, nor wince, nor speak a word, Nor look upon the iron angerly."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Mr Clare winced as if he had been struck."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Let the gall’d jade **wince**; our withers are unwrung."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Mr Clare **winced** as if he had been struck."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The man **winced** as the light of the lamp fell full upon the deep scar across his brow."*

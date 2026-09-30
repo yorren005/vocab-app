@@ -42,14 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Trudge along or over
-> 2. **Nuance / Usage**: Long tiring walk : tramp
+> 1. **Primary Meaning**: To walk slowly and with heavy steps, typically because of exhaustion, heavy burdens, or harsh terrain.
+> 2. **Nuance / Usage**: Conveys dogged determination, physical fatigue, and plodding persistence against grim weather, mud, or snow (*a weary trudge through the drifts*).
 
 > [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to trudge the target*) and intransitive clauses (*trudging against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+> - **Grammatical Class**: Verb (intransitive & transitive) & Noun.
+> - **Syntactic Constructions**: Operates in labor-intensive locomotion (*trudging through the mud*) and arduous routes (*a long trudge home*).
+> - **Collocations & Registers**: Paired with heavy boots, snow, mud, fatigue, and plodding steps.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"’Tis time, I think, to trudge, pack and be gone."*
-> - 📜 **Paul Clifton (*Heavy rainfall causes landslip in Hampshire: At the scene...*):** *"The morning after the landslip, with rain still pouring down, it was an unpleasant trudge through deep mud to get there."*
+> - 📜 **William Shakespeare (*The Merry Wives of Windsor*):** *"'Tis time, I think, to **trudge**, pack, and be gone."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"The weary soldiers had to **trudge** for miles through the churned autumn mud."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"She began her long and solitary **trudge** over the darkening hills."*

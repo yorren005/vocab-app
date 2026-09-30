@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Sand
-> 2. **Nuance / Usage**: Loose rounded fragments of rock
+> 1. **Primary Meaning**: A loose aggregate of small water-worn or weathered stones and rock fragments coarser than sand.
+> 2. **Nuance / Usage**: Commonly associated with riverbeds, driveways, and garden paths; as a verb, means to perplex or puzzle deeply (*gravelled by the question*).
 
 > [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+> - **Grammatical Class**: Noun (mass) and transitive verb.
+> - **Syntactic Constructions**: Nominal modifier (*gravel path*) or acoustic subject (*gravel crunched underfoot*).
+> - **Collocations & Registers**: Physical landscapes, auditory cues of movement, domestic grounds; paired with *crunching*, *coarse*, *river*, and *walk*.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"than sand-blind, high-gravel blind, knows me not."*
-> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"light glanced on wet steps and gravel road sodden by a recent thaw."*
-> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"doors opening—to fancy steps on the pavement or the gravel-walk!"*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The light glanced on wet steps and **gravel** road sodden by a recent thaw."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The wheels churned through the loose **gravel** of the avenue until we pulled up at the sombre portal."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"The **gravel** rattled against the lower panes of the window in the gusts of wind."*

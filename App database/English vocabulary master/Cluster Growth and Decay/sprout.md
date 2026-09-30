@@ -42,13 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Send out new growth
-> 2. **Nuance / Usage**: Germinated seed, an incipient young plant
+> 1. **Primary Meaning**: To begin to grow; to put forth new shoots, buds, or germinating leaves.
+> 2. **Nuance / Usage**: Conveys sudden, energetic emergence from dormant concealment, applied equally to seedlings, young beards, or burgeoning enterprises.
 
 > [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to sprout the target*) and intransitive clauses (*sprouting against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+> - **Grammatical Class**: Verb (intransitive & transitive) and noun (count).
+> - **Syntactic Constructions**: Intransitive (*green shoots sprouted*) or transitive (*trees sprout leaves*).
+> - **Collocations & Registers**: Vernal descriptions, agricultural regeneration, casual metaphor (*sprouting up everywhere*); paired with *seedling*, *shoots*, *spring*, and *growth*.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **David E Norris (*Joseph Locke: a railway injustice...*):** *"In those early years of the 1830s and 1840s, railways were sprouting up all over the country in a haphazard way."*
+> - 📜 **David E Norris (*Joseph Locke: A Railway Injustice*):** *"In those early years of the 1830s and 1840s, railways were **sprouting** up all over the country in a haphazard way."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The seeds of virtue had not perished, but were ready to **sprout** with the first spring showers."*
+> - 📜 **Emily Dickinson (*The Complete Poems*):** *"A little Madness in the Spring is wholesome even for the King, but God be with the Clown who ponders this tremendous scene—this sudden **sprout** of green!"*

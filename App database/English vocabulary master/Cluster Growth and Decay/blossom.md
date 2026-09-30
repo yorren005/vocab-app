@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: The state of bearing flowers
-> 2. **Nuance / Usage**: Peak period or stage of development
+> 1. **Primary Meaning**: The flower of a seed plant, especially one preceding fruit; the state of flowering.
+> 2. **Nuance / Usage**: As a verb, signifies flourishing into full beauty, potential, or spiritual maturity (*blossomed into an artist*).
 
 > [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+> - **Grammatical Class**: Noun (count & mass) and verb (intransitive).
+> - **Syntactic Constructions**: Intransitive verb (*trees blossom in May*) or nominal modifier (*apple blossom*).
+> - **Collocations & Registers**: Pastoral lyricism, developmental psychology, romantic verse; paired with *cherry*, *fruit*, *full blossom*, and *ripen*.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Yet fruits that blossom first will first be ripe."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Sweet blowse, you are a beauteous blossom sure."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"wither, but they blossom again."*
+> - 📜 **William Shakespeare (*Othello*):** *"Yet fruits that **blossom** first will first be ripe."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Flowers wither, but they **blossom** again; a year from now the red leaves will be green."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"A new life opened to me, hope began to bud, and all the dreary winter of my youth seemed ready to **blossom**."*

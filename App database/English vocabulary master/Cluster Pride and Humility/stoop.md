@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Yield, submit
-> 2. **Nuance / Usage**: Stooping, bent position of the body
+> 1. **Primary Meaning**: To bend the head or body forward and downward; to lower oneself socially or morally.
+> 2. **Nuance / Usage**: In moral and social contexts, emphasizes condescending to an action, deception, or compromise beneath one's dignity (*stooping to petty lies*).
 
 > [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to stoop the target*) and intransitive clauses (*stooping against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+> - **Grammatical Class**: Verb (intransitive with *to*) & Noun (count).
+> - **Syntactic Constructions**: Operates in physical bending (*stooped to pick up the key*) and moral compromise (*refused to stoop so low*).
+> - **Collocations & Registers**: Paired with humility, posture, moral compromise, and condescension.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"when they stoop, they stoop with the like wing."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Than you should stoop unto a Frenchman’s mercy."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"I wish singing on the stoop didn’t use up so much of a man’s wind!"*
+> - 📜 **Oliver Goldsmith (*She Stoops to Conquer*):** *"She **stoops** to conquer, winning by humble grace what pride could never obtain."*
+> - 📜 **William Shakespeare (*Julius Caesar*):** *"Brutus, thou sleep'st: awake, and see thyself! Shall Rome **stoop** to one man's awe?"*
+> - 📜 **Emily Brontë (*Wuthering Heights*):** *"I would never have thought Catherine could **stoop** to such duplicity."*

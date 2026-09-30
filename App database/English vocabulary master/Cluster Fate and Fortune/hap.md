@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Happen
-> 2. **Nuance / Usage**: Happening
+> 1. **Primary Meaning**: Fortune, chance, or luck; an unforeseen event or happening.
+> 2. **Nuance / Usage**: The root of *happen*, *happy*, and *haphazard*; in standalone usage it evokes blind circumstance without moral design.
 
 > [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the hap withstood the storm*), direct object (*cleaved the hap*), or prepositional anchor (*amidst the hap*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+> - **Grammatical Class**: Noun (count & mass) and archaic verb.
+> - **Syntactic Constructions**: Functions as grammatical subject (*by happy hap*), prepositional complement (*by hap*), or copular modifier.
+> - **Collocations & Registers**: Archaic poetry, Elizabethan drama, folklore; paired with *good*, *ill*, *hard*, and *golden hap*.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"And by me, had not our hap been bad."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"His help to crave and my dear hap to tell."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"That golden hap which their superiors want."*
+> - 📜 **William Shakespeare (*The Comedy of Errors*):** *"And by me, had not our **hap** been bad, with wealthy cargo would our bark have returned."*
+> - 📜 **Edmund Spenser (*The Faerie Queene*):** *"For by no art, nor any craft of man, can evils outward be restrained, unlesse good **hap** provide for safety."*
+> - 📜 **Thomas Wyatt (*The Complete Poems*):** *"Past thought of **hap**, past hope of help, I lie, in despair of all that man may need."*

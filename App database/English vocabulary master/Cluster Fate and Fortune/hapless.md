@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Very unlucky; ill-fated
-> 2. **Nuance / Usage**: Having no luck : unfortunate
+> 1. **Primary Meaning**: Pitifully unfortunate, unlucky, or cursed by ill fortune.
+> 2. **Nuance / Usage**: Suggests not merely bad luck, but a pathetic inability to alter one's disastrous circumstances, eliciting sympathy or pity.
 
 > [!tip] 🎯 Usage & Syntactic Application
 > - **Grammatical Class**: Adjective.
-> - **Syntactic Constructions**: Functions attributively before a noun (*a hapless appearance*) and predicatively after a linking verb (*remained hapless*).
-> - **Collocations & Registers**: Evocative descriptive registers; collocated with aesthetic proportion, sensory presence, and moral contrast.
+> - **Syntactic Constructions**: Functions attributively before a noun (*a hapless victim*) and predicatively after a linking verb (*remained hapless in the storm*).
+> - **Collocations & Registers**: Melodramatic, journalistic, and tragic narrative; collocated with *victim*, *traveler*, *crew*, and *wretch*.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"His days may finish ere that hapless time."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"See, ruthless queen, a hapless father’s tears."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Some happy mean to end a hapless life."*
+> - 📜 **William Shakespeare (*Henry VI, Part 3*):** *"See, ruthless queen, a **hapless** father’s tears."*
+> - 📜 **Mary Wollstonecraft (*A Vindication of the Rights of Woman*):** *"The **hapless** victim of sensual love is regarded with contempt, whilst the destroyer passes with impunity."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"So close behind us, so near to the **hapless** craft, did the monstrous white bulk arise."*

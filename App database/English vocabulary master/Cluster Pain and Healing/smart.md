@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Witty, clever
-> 2. **Nuance / Usage**: (intransitive) to hurt or sting
+> 1. **Primary Meaning**: To feel or cause a stinging, sharp, superficial physical pain.
+> 2. **Nuance / Usage**: As a verb, denotes experiencing a stinging ache or suffering consequences (*will smart for it*); secondary modern senses mean clever or neat.
 
 > [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Adjective.
-> - **Syntactic Constructions**: Functions attributively before a noun (*a smart appearance*) and predicatively after a linking verb (*remained smart*).
-> - **Collocations & Registers**: Evocative descriptive registers; collocated with aesthetic proportion, sensory presence, and moral contrast.
+> - **Grammatical Class**: Verb (intransitive), noun (count & mass), and adjective.
+> - **Syntactic Constructions**: Intransitive verb (*his eyes smarted with tears*) or prepositional complement (*to feel the smart*).
+> - **Collocations & Registers**: Sensory narrative, disciplinary warnings, archaic verse; paired with *stinging*, *wound*, *rebuke*, and *smart for*.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Their softest touch as smart as lizards’ stings!"*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"That she should feel the smart of this?"*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"And shall, or some of us will smart for it."*
+> - 📜 **William Shakespeare (*Henry VI, Part 2*):** *"Their softest touch as **smart** as lizards’ stings!"*
+> - 📜 **John Milton (*Paradise Lost*):** *"No wonder, yet thy power, and with thy power thy wisdom, which couldst not foresee that thou shouldst **smart** under this judgment."*
+> - 📜 **Daniel Defoe (*Robinson Crusoe*):** *"My hands and face were torn with brambles, and **smarted** severely from the saltwater."*

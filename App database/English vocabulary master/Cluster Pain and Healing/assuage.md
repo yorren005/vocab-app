@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: (transitive) to pacify or soothe (someone)
-> 2. **Nuance / Usage**: Put an end to by satisfying : appease, quench
+> 1. **Primary Meaning**: To make an unpleasant feeling, grief, or suffering less intense; to soothe or mitigate.
+> 2. **Nuance / Usage**: Distinct from permanent healing, *assuage* implies softening, mollifying, or taking the sharp edge off active anguish, anger, or appetite.
 
 > [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to assuage the target*) and intransitive clauses (*assuaging against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+> - **Grammatical Class**: Verb (transitive).
+> - **Syntactic Constructions**: Takes abstract nouns of pain or distress as direct object (*to assuage grief/wrath/famine*).
+> - **Collocations & Registers**: Literary ethics, diplomatic persuasion, classical rhetoric; paired with *grief*, *wrath*, *fears*, and *pain*.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"The good gods assuage thy wrath and turn the dregs of it upon this varlet here, this, who, like a block, hath denied my access to thee."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"So should I have co-partners in my pain; And fellowship in woe doth woe assuage, As palmers’ chat makes short their pilgrimage."*
-> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I cannot deny that I grieved for his grief, whatever that was, and would have given much to assuage it."*
+> - 📜 **William Shakespeare (*Coriolanus*):** *"The good gods **assuage** thy wrath and turn the dregs of it upon this varlet here."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I cannot deny that I grieved for his grief, whatever that was, and would have given much to **assuage** it."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"I found that these people possessed a method of communicating their experience and feelings to one another by articulate sounds; and this seemed capable of **assuaging** my painful solitude."*

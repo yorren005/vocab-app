@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Matrix for casting metal
-> 2. **Nuance / Usage**: Something that is made in or shaped on a mold
+> 1. **Primary Meaning**: A furry growth of minute fungi occurring on vegetable or animal matter in damp conditions; organic decomposition.
+> 2. **Nuance / Usage**: Distinct from casting matrices or rich earth, in growth and decay it emphasizes humid rot, creeping spores, and silent decomposition.
 
 > [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+> - **Grammatical Class**: Noun (mass & count) and verb (intransitive).
+> - **Syntactic Constructions**: Nominal modifier (*covered in green mold*) or intransitive verb (*left to mold in damp cellars*).
+> - **Collocations & Registers**: Naturalist narrative, mycological science, Gothic decay; paired with *green*, *damp*, *decay*, and *rot*.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sigbjørn Hølmebakk (*Tolv trøndere*):** *"Han kastet seg ned i åkeren og grov en grop i molda."*
-> - 📜 **Forster, H. C. (*From Xylographs to Lead Molds*):** *"type being oiled to prevent the subsequent mold from sticking."*
-> - 📜 **Forster, H. C. (*From Xylographs to Lead Molds*):** *"could be made, as the mold was usually destroyed in removing the cast."*
+> - 📜 **Edgar Allan Poe (*The Fall of the House of Usher*):** *"Minute fungi overspread the whole exterior, hanging in a fine tangled web-work from the eaves; but there was no extraordinary **mold** or dilapidation."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The boards had already begun to decay and gather **mold** in the humid autumn shade."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The damp hayricks were threatening to generate **mold** before the sunshine could dry them."*

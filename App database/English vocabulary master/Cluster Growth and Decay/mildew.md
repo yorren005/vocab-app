@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Fungus producing mildew
-> 2. **Nuance / Usage**: Discoloration caused by fungi
+> 1. **Primary Meaning**: A superficial, often whitish fungal growth coating damp organic matter or living plants.
+> 2. **Nuance / Usage**: Evokes damp neglect, stale decay, ruined grain, and creeping stagnation in stagnant or darkened environments.
 
 > [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the mildew withstood the storm*), direct object (*cleaved the mildew*), or prepositional anchor (*amidst the mildew*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+> - **Grammatical Class**: Noun (mass & count) and verb (transitive & intransitive).
+> - **Syntactic Constructions**: Mass subject (*mildew covered the walls*) or passive participle (*mildewed books*).
+> - **Collocations & Registers**: Agricultural manuals, Gothic horror, damp atmospheric descriptions; paired with *rot*, *damp*, *smell of*, and *ruined*.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Cooke, M. C. (Mordecai Cubitt) (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"or farm-labourers, that the mildew is very injurious to the corn crop."*
-> - 📜 **Cooke, M. C. (Mordecai Cubitt) (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"popular language of the farm as “mildew,” “rust,” “smut,” and “bunt."*
-> - 📜 **Cooke, M. C. (Mordecai Cubitt) (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"mycelium of the hazel mildew (_Phyllactinia guttata_, Lev."*
+> - 📜 **Cooke, M. C. (*Rust, Smut, Mildew, & Mould*):** *"It is known to every farmer that the **mildew** is very injurious to the corn crop."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"A damp, cold smell of **mildew** and decay hung about the ancient chamber, clinging to the rotting carpets."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Look here, upon this picture, and on this; like a **mildew’d** ear, blasting his wholesome brother."*

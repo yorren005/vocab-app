@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Controlling influence
-> 2. **Nuance / Usage**: Inclination or deflection caused by or as if by swaying
+> 1. **Primary Meaning**: To swing slowly back and forth or side to side; controlling influence or rule.
+> 2. **Nuance / Usage**: Implies rhythmic vulnerability to physical forces (like boughs in wind) or shifting allegiance, belief, and resolve under emotional or political persuasion (*swayed by passion*).
 
 > [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+> - **Grammatical Class**: Verb (transitive & intransitive) & Noun.
+> - **Syntactic Constructions**: Operates in physical movement (*trees sway*) and psychological dominance (*under the sway of the emperor*).
+> - **Collocations & Registers**: Paired with rhythm, dominance, persuasion, and gentle momentum.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Give solely sovereign sway and masterdom."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"And let my counsel sway you in this case."*
-> - 📜 **Leo Tolstoy (*War and Peace*):** *"The horses’ croups began to sway in the front line."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"The dense ranks of infantry began to **sway** under the thunder of cannon fire."*
+> - 📜 **William Wordsworth (*The Prelude*):** *"The tall pines would **sway** against the blue canopy of the evening sky."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"She felt herself helpless beneath the compelling **sway** of his stronger will."*

@@ -42,13 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Cover, smear, or fill with loam
-> 2. **Nuance / Usage**: Coarse molding sand used in founding
+> 1. **Primary Meaning**: A rich, fertile soil composed of a well-balanced mixture of sand, silt, clay, and decaying organic matter.
+> 2. **Nuance / Usage**: The quintessential agricultural ideal for crop cultivation; figuratively denotes primal earth or the mortal dust from which life is molded.
 
 > [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the loam withstood the storm*), direct object (*cleaved the loam*), or prepositional anchor (*amidst the loam*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+> - **Grammatical Class**: Noun (mass).
+> - **Syntactic Constructions**: Material noun (*spade dug deep into dark loam*) or metaphorical complement (*mortal loam*).
+> - **Collocations & Registers**: Agrarian prose, botanical treatises, existential poetry; paired with *rich*, *dark*, *fertile*, and *clay*.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Men are but gilded loam or painted clay."*
+> - 📜 **William Shakespeare (*Richard II*):** *"Men are but gilded **loam** or painted clay."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I turned up the rich, dark **loam** with my hoe, breathing the sweet smell of the reviving earth."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The heavy black **loam** of the valley clung to their boots as they walked between the furrows."*

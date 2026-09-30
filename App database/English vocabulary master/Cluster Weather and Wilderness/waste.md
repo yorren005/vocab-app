@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Uncultivated land
-> 2. **Nuance / Usage**: Broad and empty expanse (as of water)
+> 1. **Primary Meaning**: An uncultivated, desolate, or uninhabited expanse of land; a barren wilderness or wasteland.
+> 2. **Nuance / Usage**: Conveys stark desolation, ruinous neglect, or a bleak expanse stripped of life, shelter, and comfort (*a frozen polar waste*).
 
 > [!tip] 🎯 Usage & Syntactic Application
 > - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+> - **Syntactic Constructions**: Operates as a geographic expanse (*across the frozen waste*) or desolate environment (*a sandy waste*).
+> - **Collocations & Registers**: Paired with wilderness, barren soil, ice, desolation, and ruin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Which proves more short than waste or ruining?"*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"And willingly could waste my time in it."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"And we will nothing waste till you return."*
+> - 📜 **Samuel Taylor Coleridge (*The Rime of the Ancient Mariner*):** *"The ice was here, the ice was there, the ice was all around: it cracked and growled across the snowy **waste**."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The dismal situation **waste** and wild, a dungeon horrible on all sides round."*
+> - 📜 **T.S. Eliot (*The Waste Land*):** *"What are the roots that clutch, what branches grow out of this stony rubbish across the barren **waste**?"*

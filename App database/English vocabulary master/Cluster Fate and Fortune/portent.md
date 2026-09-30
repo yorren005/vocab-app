@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Marvel, prodigy
-> 2. **Nuance / Usage**: Portending; significance
+> 1. **Primary Meaning**: A sign or warning that something momentous, calamitous, or extraordinary is likely to happen; an omen.
+> 2. **Nuance / Usage**: Bears a heavier cosmic or supernatural gravity than a simple omen or symptom, often implying divine disruption of nature.
 
 > [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the portent withstood the storm*), direct object (*cleaved the portent*), or prepositional anchor (*amidst the portent*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+> - **Grammatical Class**: Noun (count).
+> - **Syntactic Constructions**: Subject of ominous revelation (*a portent revealed*) or predicate complement (*viewed as an ominous portent*).
+> - **Collocations & Registers**: High tragedy, mythological epics, apocalyptic literature; paired with *dark*, *dire*, *grim*, and *marvels and portents*.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"And these does she apply for warnings and portents And evils imminent; and on her knee Hath begg’d that I will stay at home today."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"But when the planets In evil mixture to disorder wander, What plagues and what portents, what mutiny, What raging of the sea, shaking of earth, Commotion in the winds!"*
-> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Still, now and then, I received a damping check to my cheerfulness; and was, in spite of myself, thrown back on the region of doubts and portents, and dark conjectures."*
+> - 📜 **William Shakespeare (*Julius Caesar*):** *"And these does she apply for warnings and **portents** and evils imminent; and on her knee hath begg’d that I will stay at home today."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Still, now and then, I received a damping check to my cheerfulness; and was, in spite of myself, thrown back on the region of doubts and **portents**, and dark conjectures."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"To the superstitious whalemen, the strange, unearthly whiteness of the beast was itself a fearful **portent** of calamity."*

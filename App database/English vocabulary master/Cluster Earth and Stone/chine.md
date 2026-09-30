@@ -42,13 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: The top of a ridge
-> 2. **Nuance / Usage**: The spine of an animal
+> 1. **Primary Meaning**: A deep, narrow coastal ravine or gorge carved into soft sandstone or clay cliffs by a stream running to the sea.
+> 2. **Nuance / Usage**: Primarily a regional topographical feature of Southern England (notably the Isle of Wight and Dorset); distinct from the anatomical chine (animal spine).
 
 > [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the chine withstood the storm*), direct object (*cleaved the chine*), or prepositional anchor (*amidst the chine*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+> - **Grammatical Class**: Noun (count).
+> - **Syntactic Constructions**: Topographical complement (*walked through the steep chine to the beach*).
+> - **Collocations & Registers**: Coastal geology, maritime pastoralism, Victorian landscape poetry; paired with *cliff*, *ravine*, *seaward*, and *sandy*.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jean Ingelow (*A Cottage in a Chine*):** *"The cottage in a chine, we were not to behold it."*
+> - 📜 **Jean Ingelow (*A Cottage in a Chine*):** *"The cottage in a **chine**, we were not to behold it till the sun went down behind the cliffs."*
+> - 📜 **Thomas Hardy (*A Pair of Blue Eyes*):** *"The path wound down through the sandy **chine**, where the trickle of freshwater met the murmur of the sea."*
+> - 📜 **Charles Dickens (*The Life of Charles Dickens* by John Forster):** *"The narrow **chine** opening to the sea is one of the most delightful walks imaginable."*

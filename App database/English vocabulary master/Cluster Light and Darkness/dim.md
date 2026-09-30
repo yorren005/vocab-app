@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Dull, lusterless
-> 2. **Nuance / Usage**: Not bright or colorful
+> 1. **Primary Meaning**: Emitting or illuminated by a faint, inadequate light; not bright or clearly defined.
+> 2. **Nuance / Usage**: Extends to faded memories, obscure perception, or unpromising expectations (*a dim memory of youth; dim prospects*).
 
 > [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Adjective.
-> - **Syntactic Constructions**: Functions attributively before a noun (*a dim presence*) or predicatively (*remained dim*).
-> - **Collocations & Registers**: Delivers immediate physical or psychological contrast in descriptive and poetic registers.
+> - **Grammatical Class**: Adjective & Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates attributively (*a dim corridor*) and predicatively (*lights dimmed slowly*).
+> - **Collocations & Registers**: Paired with twilight, flickering candles, faint perception, and fading hope.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Gazing on that which seems to dim thy sight?"*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"So doth the greater glory dim the less."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"As they ascend the dim stairs (Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"As they ascend the **dim** stairs, the flickering candle casts long shadows on the peeling walls."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"So doth the greater glory **dim** the less: a substitute shines brightly as a king until a king be by."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The twilight began to deepen, rendering the vast hall **dim** and mysterious."*

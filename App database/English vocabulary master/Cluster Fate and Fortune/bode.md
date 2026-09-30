@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Omen; a foreshadowing
-> 2. **Nuance / Usage**: Announce beforehand : foretell
+> 1. **Primary Meaning**: To foreshadow or serve as an omen of a future event; to augur or portend.
+> 2. **Nuance / Usage**: Most commonly collocated with adverbs like *well* or *ill* to evaluate whether oncoming signs promise success or disaster.
 
 > [!tip] 🎯 Usage & Syntactic Application
 > - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to bode the target*) and intransitive clauses (*boding against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+> - **Syntactic Constructions**: Functions transitively with an outcome noun (*bode disaster*) or intransitively followed by an adverb (*bodes well/ill*).
+> - **Collocations & Registers**: Ominous literary narratives, meteorology, political prognostication; paired with *ill*, *well*, *no good*, and *disaster*.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"This was my dream; what it doth bode, God knows."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"raven; I would bode, I would bode."*
-> - 📜 **Elizabeth Birkmaier (*Poseidon’s Paradise: The Romance of Atlantis*):** *"It bodeth evil for Atlantis that I come back with my spirit sore to find Oltis stepping into the place of high priest."*
+> - 📜 **William Shakespeare (*Henry VI, Part 3*):** *"This was my dream; what it doth **bode**, God knows."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"A wild sight it was, that seemed to **bode** the coming of some desperate disaster."*
+> - 📜 **Elizabeth Birkmaier (*Poseidon’s Paradise: The Romance of Atlantis*):** *"It **bodeth** evil for Atlantis that I come back with my spirit sore to find Oltis stepping into the place of high priest."*

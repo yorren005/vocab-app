@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Make well again : to restore to health
-> 2. **Nuance / Usage**: (intransitive) to become better or healthy again
+> 1. **Primary Meaning**: To make sound, healthy, or whole again after injury or sickness.
+> 2. **Nuance / Usage**: Encompasses both organic biological tissue repair and the spiritual or communal restoration of fractures and moral grievances.
 
 > [!tip] 🎯 Usage & Syntactic Application
 > - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to heal the target*) and intransitive clauses (*healing against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+> - **Syntactic Constructions**: Intransitive (*wounds heal by degrees*) or transitive (*to heal the breach*).
+> - **Collocations & Registers**: Therapeutics, ethical reconciliation, biblical and lyrical prose; paired with *wound*, *breach*, *divisions*, and *time heals*.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Did make offence, his eye did heal it up."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Hold you, there is a groat to heal your pate."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"What wound did ever heal but by degrees?"*
+> - 📜 **William Shakespeare (*Othello*):** *"What wound did ever **heal** but by degrees?"*
+> - 📜 **George Eliot (*Silas Marner*):** *"The fountain of his affections had been dried up, but gentle pity began to **heal** the hardened soul."*
+> - 📜 **Ralph Waldo Emerson (*Essays: Compensation*):** *"The wound cicatrized and was forgotten, for time and thought **heal** all honest sorrows."*

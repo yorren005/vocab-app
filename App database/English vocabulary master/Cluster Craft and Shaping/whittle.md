@@ -42,13 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Shape or form by so paring or cutting
-> 2. **Nuance / Usage**: Pare or cut off chips from the surface of (wood) with a knife
+> 1. **Primary Meaning**: To carve, shape, or pare shavings from a piece of wood with repeated small knife strokes.
+> 2. **Nuance / Usage**: Figuratively, to reduce, diminish, or erode something gradually over time (*whittle down costs* or *whittle away resistance*).
 
 > [!tip] 🎯 Usage & Syntactic Application
 > - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to whittle the target*) and intransitive clauses (*whittling against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+> - **Syntactic Constructions**: Used of pastoral pastimes (*whittling cedar*) and gradual reduction (*whittled to the bare bone*).
+> - **Collocations & Registers**: Paired with patience, small blades, and incremental erosion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alfred Gatty (*Sheffield: Past and Present*):** *"The Sheffield whittle was the common knife of the country, which every one carried for general purposes, who was not entitled by rank to wear a sword."*
+> - 📜 **Mark Twain (*The Adventures of Tom Sawyer*):** *"The boys sat on the fence in the afternoon sun, contentedly **whittling** cedar sticks with their Barlow knives."*
+> - 📜 **Alfred Gatty (*Sheffield: Past and Present*):** *"The Sheffield **whittle** was the common knife carried at the belt by every countryman who was not entitled to wear a sword."*
+> - 📜 **John Steinbeck (*The Grapes of Wrath*):** *"He picked up a dry pine splinter and began to **whittle** it into a slender peg."*

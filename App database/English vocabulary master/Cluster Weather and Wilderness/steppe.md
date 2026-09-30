@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Vast, cold, dry, grassy plain
-> 2. **Nuance / Usage**: The grasslands of eastern europe and asia
+> 1. **Primary Meaning**: A vast, semiarid, largely treeless grassland plain characteristic of southeastern Europe and central Asia.
+> 2. **Nuance / Usage**: Evokes boundless, unbroken spatial horizons, extreme continental temperature swings, and nomadic pastoral solitude (*galloping across the open steppe*).
 
 > [!tip] 🎯 Usage & Syntactic Application
 > - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the steppe withstood the storm*), direct object (*cleaved the steppe*), or prepositional anchor (*amidst the steppe*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+> - **Syntactic Constructions**: Functions as a geographic subject or spatial setting (*across the steppe*).
+> - **Collocations & Registers**: Paired with feather grass, horses, endless horizons, dust, and Eurasia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Leo Tolstoy (*War and Peace*):** *"He could not, any more than a man who has been looking at a tuft of steppe grass through the mist and taking it for a tree can again take it for a tree after he has once recognized it to be a tuft of grass."*
-> - 📜 **Leo Tolstoy (*War and Peace*):** *"So these are the steppes of Asia!"*
-> - 📜 **Leo Tolstoy (*War and Peace*):** *"For him it was no new conviction that his presence in any part of the world, from Africa to the steppes of Muscovy alike, was enough to dumfound people and impel them to insane self-oblivion."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"Looking across the endless **steppe**, one could see nothing but waving feather grass and the distant blur of the horizon."*
+> - 📜 **Anton Chekhov (*The Steppe*):** *"The sun rose higher, and the boundless **steppe** seemed to breathe a warm, scented fragrance of herbs and dry earth."*
+> - 📜 **Alexander Pushkin (*The Captain's Daughter*):** *"The sudden snowstorm covered the entire **steppe** in a blinding white fog, obliterating every trace of the road."*

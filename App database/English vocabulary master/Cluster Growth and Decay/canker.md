@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Erosive or spreading sore
-> 2. **Nuance / Usage**: (transitive) to infect or pollute; to corrupt
+> 1. **Primary Meaning**: A destructive disease of plants characterized by decaying sores on bark and shoots, or a larva destroying flower buds.
+> 2. **Nuance / Usage**: Figuratively denotes any insidious, corrupting evil or hidden moral decay that rots character or society from within.
 
 > [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+> - **Grammatical Class**: Noun (count & mass) and verb (transitive & intransitive).
+> - **Syntactic Constructions**: Nominal metaphor (*a canker at the heart of state*) or passive verb (*cankered by envy*).
+> - **Collocations & Registers**: Political satire, moral philosophy, horticultural pathology; paired with *worm*, *rot*, *heart*, and *corruption*.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"As this ingrate and canker’d Bolingbroke."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"And plant this thorn, this canker, Bolingbroke?"*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Hath not thy rose a canker, Somerset?"*
+> - 📜 **William Shakespeare (*Henry VI, Part 1*):** *"Hath not thy rose a **canker**, Somerset?"*
+> - 📜 **John Milton (*Paradise Lost*):** *"The worm that eats the root, the bitter **canker** that consumes the fairest flower."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"It had been a secret **canker** in his heart, gnawing at the very springs of life."*

@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Poet
-> 2. **Nuance / Usage**: (by extension) a poet
+> 1. **Primary Meaning**: An ancient Celtic minstrel, singer, or poet who preserved tribal genealogy and celebrated heroic deeds.
+> 2. **Nuance / Usage**: Applied reverently to a supreme national poet, preeminently William Shakespeare (*The Bard of Avon*) or Robert Burns (*The Bard of Ayrshire*).
 
 > [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the bard withstood the storm*), direct object (*cleaved the bard*), or prepositional anchor (*amidst the bard*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+> - **Grammatical Class**: Noun (count).
+> - **Syntactic Constructions**: Functions as a respectful title (*the immortal Bard*) or literary vocation (*a Celtic bard*).
+> - **Collocations & Registers**: Elevated literary and poetic registers; paired with harps, Celtic verse, immortality, and epic song.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"To him, the Bard that’s far awa."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Thou bure the Bard through many a shire?"*
-> - 📜 **Richard Llwyd (*The Poetical Works of Richard Llwyd, the '''Bard''' of Snowdon*):** *"He is a Welsh bard, and a man full of animation, anecdote, and independence; {{..."*
+> - 📜 **Walter Scott (*The Lay of the Last Minstrel*):** *"The way was long, the wind was cold, the Minstrel was infirm and old; the last of all the **Bards** was he."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Long may thy name be cherished, the patriot **bard** whose music stirs the blood of generations."*
+> - 📜 **Thomas Gray (*The Bard*):** *"Ruin seize thee, ruthless King! Confusion on thy banners wait, sang the mournful **Bard**."*

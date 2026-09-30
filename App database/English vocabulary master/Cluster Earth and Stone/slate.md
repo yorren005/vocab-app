@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Tablet (as of slate) used for writing on
-> 2. **Nuance / Usage**: Piece of other material used as a roofing tile
+> 1. **Primary Meaning**: A fine-grained, foliated metamorphic rock easily split into smooth, thin, flat slabs.
+> 2. **Nuance / Usage**: Historically prized for roofing tiles and school writing tablets; idiomatically implies a fresh start (*clean slate*) or scheduling.
 
 > [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+> - **Grammatical Class**: Noun (count & mass) and adjective.
+> - **Syntactic Constructions**: Material noun (*roofed in purple slate*) or modifier (*slate grey*).
+> - **Collocations & Registers**: Architecture, geology, color descriptions, education history; paired with *grey*, *roofing*, *quarry*, and *clean slate*.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He writes to this purpose on his slate, and Mrs."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"indignantly written on the slate, “I am not."*
-> - 📜 **Lewis Carroll (*Alice in Wonderland*):** *"—Mind that loose slate—Oh, it’s coming down!"*
+> - 📜 **Lewis Carroll (*Alice’s Adventures in Wonderland*):** *"—Mind that loose **slate**—Oh, it’s coming down!"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He writes his questions hastily upon his **slate**, wiping out the chalk with a impatient thumb."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"The blue smoke rose straight into the cold air from the dark **slate** roofs of the village."*

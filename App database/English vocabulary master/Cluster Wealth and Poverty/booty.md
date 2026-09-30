@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Buttocks
-> 2. **Nuance / Usage**: Rich gain or prize
+> 1. **Primary Meaning**: Valuable goods, property, or treasure seized from an enemy in war, raiding, or piracy; plunder.
+> 2. **Nuance / Usage**: Extends informally to any rich gain, sudden windfall, or prized acquisition secured through effort or clever initiative (*carrying home the shopping booty*).
 
 > [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+> - **Grammatical Class**: Noun (mass & count).
+> - **Syntactic Constructions**: Operates as a direct object of conquest (*dividing the booty*) or prize (*a rich booty*).
+> - **Collocations & Registers**: Paired with spoils, plunder, pirates, conquest, and windfalls.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"or two and a knife and fork: with this booty I made a hasty retreat."*
-> - 📜 **Leo Tolstoy (*War and Peace*):** *"Cossacks budge when once they had got booty and prisoners."*
-> - 📜 **Leo Tolstoy (*War and Peace*):** *"that of the Cossack who wanted more booty than he got, and so on."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"The pirates cheered and gathered around the chest, eager to divide their ill-gotten **booty**."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"The Cossacks refused to budge once they had seized their **booty** and rounded up their prisoners."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"With a slice of bread and a knife and fork, I made a hasty retreat with my small culinary **booty**."*

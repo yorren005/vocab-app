@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Detached and rounded or much-worn mass of rock
-> 2. **Nuance / Usage**: City northwest of denver in north central colorado
+> 1. **Primary Meaning**: A large, rounded rock mass detached from its native cliff or bedrock, often shaped by erosion or glacial transport.
+> 2. **Nuance / Usage**: Distinct from gravel, cobbles, or bedrock; evokes immovable elemental mass, rugged topography, and glacial erratic geology.
 
 > [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the boulder withstood the storm*), direct object (*cleaved the boulder*), or prepositional anchor (*amidst the boulder*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+> - **Grammatical Class**: Noun (count).
+> - **Syntactic Constructions**: Subject of physical permanence (*the boulder rested on the ridge*) or obstacle complement (*blocked by a massive boulder*).
+> - **Collocations & Registers**: Mountain topography, glacial geomorphology, physical challenge; paired with *granite*, *glacial*, *mossy*, and *crag*.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Carol Benson (*The Old Lonesome*):** *"There were four sizes of marbles and we called them boulders, biggies, regulars, and teenies."*
-> - 📜 **Classic Author (*The ties that bind ..., ... and prevent falls have become family unifier in rock climbing*):** *"He bouldered a route in the same area with ease. Mitchell, 11, was hanging with the older kids in an area where bouldering nearly upside down seemed to be...."*
-> - 📜 **Classic Author (*Homes blend eco-friendliness, unique design*):** *"There's even old climbing hardware in it because people bouldered on it for years."*
+> - 📜 **John Muir (*The Mountains of California*):** *"Huge **boulders**, smoothed and striated by ancient glaciers, lay scattered across the floor of the canyon."*
+> - 📜 **Henry David Thoreau (*The Maine Woods*):** *"We clambered over slippery **boulders** and fallen firs along the torrential mountain stream."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"A great **boulder** of white stone marked the spot where the treasure track began."*

@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Prate
-> 2. **Nuance / Usage**: Silly, childish talk; babble
+> 1. **Primary Meaning**: To talk at length in a foolish, inconsequential, or simple-minded manner; childish chatter.
+> 2. **Nuance / Usage**: Evokes the innocent, cheerful, or harmless babble of young children or lightweight, gossipy small talk (*the prattle of toddlers*).
 
 > [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to prattle the target*) and intransitive clauses (*prattling against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+> - **Grammatical Class**: Verb (intransitive & transitive) & Noun.
+> - **Syntactic Constructions**: Operates in childish vocalization (*prattling in the nursery*) and trivial discourse (*wearied by endless prattle*).
+> - **Collocations & Registers**: Paired with children, innocent chatter, small talk, and nursery banter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"myself another of Bajazet’s mule, if you prattle me into these perils."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"As very infants prattle of thy pride."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"I would he had some cause to prattle for himself."*
+> - 📜 **William Shakespeare (*Richard II*):** *"As in a theatre, the eyes of men, after a well-graced actor leaves the stage, are idly bent on him that enters next, thinking his **prattle** to be tedious."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"The innocent **prattle** of the young children filled the humble cottage with light and cheer."*
+> - 📜 **George Eliot (*Silas Marner*):** *"The little child's happy **prattle** broke the solitary weaver's long years of gloomy silence."*

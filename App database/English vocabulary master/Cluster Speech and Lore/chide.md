@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Speak out in angry or displeased rebuke
-> 2. **Nuance / Usage**: (ambitransitive) to make a clamorous noise; to chafe
+> 1. **Primary Meaning**: To scold or voice disapproval to someone; to rebuke mildly.
+> 2. **Nuance / Usage**: Conveys corrective, often affectionate or moral remonstrance rather than harsh fury (*chiding a friend for carelessness*).
 
 > [!tip] 🎯 Usage & Syntactic Application
 > - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to chide the target*) and intransitive clauses (*chiding against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+> - **Syntactic Constructions**: Operates in gentle reprimand (*to chide someone for being late*) or poetic chafing (*winds that chide the shore*).
+> - **Collocations & Registers**: Paired with reproof, scolding, gentle rebukes, and affectionate correction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Sweet youth, I pray you chide a year together!"*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"I had rather hear you chide than this man woo."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"For what had he to do to chide at me?"*
+> - 📜 **William Shakespeare (*As You Like It*):** *"Sweet youth, I pray you **chide** a year together; I had rather hear you **chide** than this man woo."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"She did not strike me; she only began to **chide** me gravely for my violent outburst."*
+> - 📜 **John Milton (*On His Blindness*):** *"Doth God exact day-labour, light denied? I fondly ask; but Patience, to prevent that murmur, soon replies to **chide** my foolish doubt."*

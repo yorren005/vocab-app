@@ -42,14 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Leather
-> 2. **Nuance / Usage**: Grassland, pasture
+> 1. **Primary Meaning**: An open, grassy field, meadow, or expanse of pasture land.
+> 2. **Nuance / Usage**: A poetic and pastoral staple in English literature, evoking peaceful twilight landscapes, grazing cattle, and unplowed grassland.
 
 > [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the lea withstood the storm*), direct object (*cleaved the lea*), or prepositional anchor (*amidst the lea*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+> - **Grammatical Class**: Noun (count, often singular).
+> - **Syntactic Constructions**: Locative prepositional phrase (*across the lea*, *o'er the lea*).
+> - **Collocations & Registers**: Elegiac verse, pastoral poetry, rustic folklore; paired with *flowery*, *green*, *grazing*, and *twilight*.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"little burgh whither I was bound, than of the charms of lea and water."*
-> - 📜 **Thomas Gray (*Elegy Written in a Country Churchyard*):** *"The curfew tolls the knell of parting day,<br>The lowing herd wind slowly o'er the lea,<br>The plowman homeward plods his weary way,<br>And leaves the world to darkness and to me."*
+> - 📜 **Thomas Gray (*Elegy Written in a Country Churchyard*):** *"The lowing herd wind slowly o’er the **lea**, the plowman homeward plods his weary way."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I thought less of the little burgh whither I was bound, than of the charms of **lea** and water."*
+> - 📜 **Alfred, Lord Tennyson (*The Princess*):** *"Blow, bugle, blow, set the wild echoes flying, and answer, echoes, answer, dying, dying, dying, o’er field and **lea**."*

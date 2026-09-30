@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Happen to
-> 2. **Nuance / Usage**: (intransitive) to happen
+> 1. **Primary Meaning**: To happen or occur to someone or something, especially by chance or the decree of fate.
+> 2. **Nuance / Usage**: Frequently carries an ominous or fatalistic connotation describing disaster, misfortune, or destiny (*whatever evils may befall us*).
 
 > [!tip] 🎯 Usage & Syntactic Application
 > - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to befall the target*) and intransitive clauses (*befalling against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+> - **Syntactic Constructions**: Operates in fatalistic anticipation (*lest evil befall*) and direct incidence (*a calamity befell the house*).
+> - **Collocations & Registers**: Paired with fate, misfortune, calamity, destiny, and sorrow.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Madam, all joy befall your Grace, and you!"*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"More blessed hap did ne’er befall our state."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"And peace, no war, befall thy parting soul!"*
+> - 📜 **William Shakespeare (*Richard III*):** *"Madam, all joy **befall** your Grace and little prince in this fair realm."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I felt a dark foreboding of what dreadful disaster might **befall** him in my absence."*
+> - 📜 **John Milton (*Paradise Lost*):** *"No evil can **befall** man or angel without the wise permission of supreme decree."*

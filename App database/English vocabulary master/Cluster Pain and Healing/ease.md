@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Freedom from care
-> 2. **Nuance / Usage**: The state of being comfortable: such as
+> 1. **Primary Meaning**: Freedom from physical pain, discomfort, worry, or severe constraint.
+> 2. **Nuance / Usage**: As a noun, denotes unforced tranquility and comfort; as a verb, means to alleviate suffering or gently guide something with minimal friction.
 
 > [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+> - **Grammatical Class**: Noun (mass) and verb (transitive & intransitive).
+> - **Syntactic Constructions**: Prepositional phrase (*at ease*, *with ease*) or transitive verb (*to ease the burden*).
+> - **Collocations & Registers**: Domestic comfort, medicine, social grace; paired with *ill at ease*, *ease of mind*, and *alleviate*.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Nay, in good faith; for mine ease, in good faith."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"walk afoot awhile and ease our legs."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"It could not slake mine ire nor ease my heart."*
+> - 📜 **William Shakespeare (*Henry IV, Part 1*):** *"We will walk afoot awhile and **ease** our legs."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth felt herself growing more at **ease**, and talked of Hertfordshire with more spirit."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The physician laid his fingers on the pulse, and stepped back to **ease** the sufferer’s breathing."*

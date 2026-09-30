@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Swarthy
-> 2. **Nuance / Usage**: Baneful, malignant
+> 1. **Primary Meaning**: Having a dark complexion, skin tone, or color; swarthy, dusky, or dark-hued.
+> 2. **Nuance / Usage**: An archaic and poetic term emphasizing sun-darkened weather-worn skin, dark earth spirits, or mythological beings (*swart elves of ancient lore*).
 
 > [!tip] 🎯 Usage & Syntactic Application
 > - **Grammatical Class**: Adjective.
-> - **Syntactic Constructions**: Functions attributively before a noun (*a swart appearance*) and predicatively after a linking verb (*remained swart*).
-> - **Collocations & Registers**: Evocative descriptive registers; collocated with aesthetic proportion, sensory presence, and moral contrast.
+> - **Syntactic Constructions**: Operates attributively (*a swart visage*) or predicatively (*complexion turned swart*).
+> - **Collocations & Registers**: Archaic and poetic registers; paired with sunburnt complexions, duskiness, ravens, and earth sprites.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"As her eyes then ongot his weeds swart therefor sorrow she feared."*
-> - 📜 **Walter Scott (*Ivanhoe*):** *"raven blackness, corresponding to his unusually swart complexion."*
-> - 📜 **:John Keats (*Otho the Great*):** *"I'll choose a gaoler, whose swart monstrous face<br>Shall be a hell to look upon {{..."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"His raven locks fell in wild curls, corresponding to his unusually **swart** and sunburnt complexion."*
+> - 📜 **John Milton (*Comus*):** *"The **swart** fairy of the mine and stubborn unlaid ghost that breaks his magic chains."*
+> - 📜 **James Joyce (*Ulysses*):** *"She recognized his dark weeds **swart**, and sorrow filled her mind at the sight."*

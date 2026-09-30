@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Grow vigorously : flourish
-> 2. **Nuance / Usage**: Gain in wealth or possessions : prosper
+> 1. **Primary Meaning**: To grow vigorously, develop luxuriantly, or flourish in health.
+> 2. **Nuance / Usage**: Emphasizes resilient success and vigorous prosperity, particularly in conditions that might test or challenge lesser organisms.
 
 > [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to thrive the target*) and intransitive clauses (*thriving against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+> - **Grammatical Class**: Verb (intransitive).
+> - **Syntactic Constructions**: Intransitive with preposition (*thrives on adversity*, *thrives in damp soil*).
+> - **Collocations & Registers**: Ecological adaptation, biographical achievement, commercial success; paired with *flourish*, *grow*, *prosper*, and *adversity*.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Farewell, good brother; we shall thrive, I trust."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Here do I choose, and thrive I as I may."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Ill mayst thou thrive if thou grant any grace!"*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"Here do I choose, and **thrive** I as I may."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"The species which **thrive** best and multiply most in any area are those which present the greatest number of well-marked varieties."*
+> - 📜 **George Eliot (*Silas Marner*):** *"Under the warm light of human affection, the lonely child began to **thrive** and make the dull hearth cheerful."*

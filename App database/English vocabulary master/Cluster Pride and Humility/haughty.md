@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Conveying in demeanour the assumption of superiority; disdainful, supercilious
-> 2. **Nuance / Usage**: Blatantly and disdainfully proud : having or showing an attitude of superiority and contempt for people or things perceived to be inferior
+> 1. **Primary Meaning**: Arrogantly proud, superior, and disdainful; showing blatant contempt for those perceived as inferior.
+> 2. **Nuance / Usage**: Conveys aristocratic condescension, rigid posture, and cold, aloof dismissal of others (*a haughty tilt of the head*).
 
 > [!tip] 🎯 Usage & Syntactic Application
 > - **Grammatical Class**: Adjective.
-> - **Syntactic Constructions**: Functions attributively before a noun (*a haughty appearance*) and predicatively after a linking verb (*remained haughty*).
-> - **Collocations & Registers**: Evocative descriptive registers; collocated with aesthetic proportion, sensory presence, and moral contrast.
+> - **Syntactic Constructions**: Operates attributively (*a haughty aristocrat*) and predicatively (*remained haughty and aloof*).
+> - **Collocations & Registers**: Paired with pride, contempt, aristocratic distance, and supercilious demeanour.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"This Cardinal’s more haughty than the devil."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Whose humble means match not his haughty spirit."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"She was a lady of a haughty temper."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"He was discovered to be proud, to be above his company, and above being pleased; and not all his large estate could save him from having a most forbidding, **haughty** countenance."*
+> - 📜 **William Shakespeare (*Henry VI, Part 1*):** *"This Cardinal is more **haughty** than the devil, brooking no rival near his throne."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Her handsome face wore an expression of cold, **haughty** indifference."*

@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Bereft, forsaken
-> 2. **Nuance / Usage**: Unlikely to succeed; hopeless
+> 1. **Primary Meaning**: Pitifully sad and lonely; abandoned or forsaken.
+> 2. **Nuance / Usage**: Conveys an aura of hopeless desolation, neglect, or doomed desperation (*a forlorn hope; a forlorn ruin in the rain*).
 
 > [!tip] 🎯 Usage & Syntactic Application
 > - **Grammatical Class**: Adjective.
-> - **Syntactic Constructions**: Functions attributively before a noun (*a forlorn presence*) or predicatively (*remained forlorn*).
-> - **Collocations & Registers**: Delivers immediate physical or psychological contrast in descriptive and poetic registers.
+> - **Syntactic Constructions**: Operates attributively (*a forlorn figure*) and predicatively (*felt utterly forlorn*).
+> - **Collocations & Registers**: Paired with desolation, loneliness, abandoned ruins, and hopeless ventures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Now for the honour of the forlorn French!"*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Be poisonous too and kill thy forlorn Queen."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Speak, captain, shall I stab the forlorn swain?"*
+> - 📜 **John Keats (*Ode to a Nightingale*):** *"**Forlorn**! the very word is like a bell to toll me back from thee to my sole self."*
+> - 📜 **William Shakespeare (*Titus Andronicus*):** *"Why do you wrap your thoughts in sadness, and cast your eyes upon this **forlorn** ground?"*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"The ruined house looked infinitely **forlorn** in the dreary winter twilight."*

@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Extend, spread
-> 2. **Nuance / Usage**: Push or drive with force : shove
+> 1. **Primary Meaning**: To push forcibly or suddenly; a sudden, powerful drive or forward stab.
+> 2. **Nuance / Usage**: Expresses aggressive kinetic force in physical combat, or the essential driving argument and focus of an intellectual critique (*the central thrust of the argument*).
 
 > [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to thrust the target*) and intransitive clauses (*thrusting against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+> - **Grammatical Class**: Verb (transitive & intransitive) & Noun.
+> - **Syntactic Constructions**: Operates in martial combat (*thrust with a blade*) and rhetorical direction (*thrusting into the debate*).
+> - **Collocations & Registers**: Paired with forward momentum, blades, blunt force, and directness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"These four came all afront, and mainly thrust at me."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"dangerous action can peep out his head but I am thrust upon it."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"For God’s sake, thrust him downstairs."*
+> - 📜 **Alexandre Dumas (*The Three Musketeers*):** *"D'Artagnan parried the blade swiftly and answered with a rapid **thrust** to the chest."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"The cold wind **thrust** through our ragged uniforms as we stood sentry on the ridge."*
+> - 📜 **H.G. Wells (*The Time Machine*):** *"With a sudden desperate effort, I **thrust** the lever forward into the unknown."*

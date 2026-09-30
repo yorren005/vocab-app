@@ -1,6 +1,6 @@
 ---
 cluster: "[[Cluster Craft and Shaping]]"
-section: "Material Forging"
+section: "Craftsmanship"
 status: unread
 ---
 # temper
@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: State of mind; mood
-> 2. **Nuance / Usage**: Tendency to become angry
+> 1. **Primary Meaning**: To improve the hardness, elasticity, and toughness of metal by reheating and controlled cooling.
+> 2. **Nuance / Usage**: A person's characteristic state of mind or emotional disposition; as a verb, to moderate, soften, or restrain something harsh (*temper justice with mercy*).
 
 > [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the temper withstood the storm*), direct object (*cleaved the temper*), or prepositional anchor (*amidst the temper*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+> - **Grammatical Class**: Noun (disposition) & Verb (transitive).
+> - **Syntactic Constructions**: Operates in moral/legal moderation (*tempering sternness*) and psychological portraiture (*a fiery temper*).
+> - **Collocations & Registers**: Paired with fortitude, balanced judgment, and metallurgical resilience.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"But not every man patient after the noble temper of your lordship."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"It is a poison temper’d by himself."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"When you are better temper’d to attend."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"Earthly power doth then show likest God's when mercy seasons and **tempers** justice."*
+> - 📜 **John Milton (*Paradise Lost*):** *"With radiant light he armed his shield, of celestial **temper** and unyielding strength."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"His pride did not escape her, nor his reserved and unbending **temper**."*

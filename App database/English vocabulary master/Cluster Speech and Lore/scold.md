@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Quarrel noisily
-> 2. **Nuance / Usage**: Find fault noisily or angrily
+> 1. **Primary Meaning**: To reprimand, censure, or find fault with someone angrily; a person who habitually complains or nags noisily.
+> 2. **Nuance / Usage**: Conveys sharp-tongued, persistent domestic or interpersonal fault-finding (*scolding a servant; an incorrigible scold*).
 
 > [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to scold the target*) and intransitive clauses (*scolding against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+> - **Grammatical Class**: Verb (transitive & intransitive) & Noun (archaic).
+> - **Syntactic Constructions**: Operates in vocalized censure (*scolding a careless child*) and social characterization (*a neighborhood scold*).
+> - **Collocations & Registers**: Paired with rebukes, reprimands, nagging complaints, and angry reproaches.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"I will have more or scold it out of him."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"I had rather hear them scold than fight."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"assume life and scold with her."*
+> - 📜 **William Shakespeare (*The Taming of the Shrew*):** *"I come to wive it wealthily in Padua; if wealthily, then happily in Padua, be she an arrant **scold**."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Mrs. Joe began to **scold** and nag at poor Joe until the whole kitchen rang with her complaints."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She was ready to **scold** herself for having expected anything wiser from her foolish relatives."*

@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Make sounds as though babbling
-> 2. **Nuance / Usage**: Talk enthusiastically or excessively
+> 1. **Primary Meaning**: To talk rapidly and continuously in an excited, foolish, or incoherent way; the low, murmuring sound of flowing water.
+> 2. **Nuance / Usage**: Conveys senseless chatter, feverish delirium, or the soothing acoustic murmur of a shallow stream over stones (*the gentle babble of a brook*).
 
 > [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to babble the target*) and intransitive clauses (*babbling against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+> - **Grammatical Class**: Verb (intransitive & transitive) & Noun.
+> - **Syntactic Constructions**: Operates in speech descriptions (*babbling of youth*) and hydraulic acoustics (*the brook babbled*).
+> - **Collocations & Registers**: Paired with brooks, murmurs, childish chatter, and feverish delirium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*Henry V*):** *"I knew there was but one way; for his nose was as sharp as a pen, and 'a babbled of green fields."*
-> - 📜 **William Shakespeare (*Much Ado About Nothing*):** *"You shall also make no noise in the streets: for, for the watch to babble and to talk is most tolerable and not to be endured."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"She talked so little, and the other maids talked so much, that the babble did not strike him as possessing a new note."*
+> - 📜 **William Shakespeare (*Henry V*):** *"I knew there was but one way; for his nose was as sharp as a pen, and 'a **babbled** of green fields."*
+> - 📜 **Alfred Lord Tennyson (*The Brook*):** *"I chatter over stony ways, in little sharps and trebles, I bubble into eddying bays, I **babble** on the pebbles."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"She spoke so little, while the other dairymaids indulged in constant **babble**, that her silence seemed eloquent."*

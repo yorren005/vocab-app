@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Happen especially as if by fate
-> 2. **Nuance / Usage**: Happen to : befall —used chiefly in the phrase woe betide
+> 1. **Primary Meaning**: To happen or befall; to come to pass, especially as an outcome of destiny or fate.
+> 2. **Nuance / Usage**: Frequently used in traditional warnings and oaths (chiefly *woe betide*), predicting misfortune upon anyone who transgresses.
 
 > [!tip] 🎯 Usage & Syntactic Application
 > - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to betide the target*) and intransitive clauses (*betiding against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+> - **Syntactic Constructions**: Chiefly intransitive in optative subjunctive formulas (*woe betide him*) or transitive (*whatever betides us*).
+> - **Collocations & Registers**: Archaic, poetic, and solemn cautionary speech; paired with fateful eventualities and traditional imprecations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"If he were dead, what would betide on me?"*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Now help, or woe betide thee evermore!"*
-> - 📜 **Washington Irving (*The Sketch Book*):** *"midst of its web; and when these clouds broke, woe betide the valleys!"*
+> - 📜 **William Shakespeare (*Richard III*):** *"If he were dead, what would **betide** on me?"*
+> - 📜 **Sir Walter Scott (*The Lady of the Lake*):** *"Woe worth the chase, woe **betide** the day, that cost thy life, my gallant grey!"*
+> - 📜 **Washington Irving (*The Sketch Book of Geoffrey Crayon, Gent.*):** *"When these clouds broke, woe **betide** the valleys!"*

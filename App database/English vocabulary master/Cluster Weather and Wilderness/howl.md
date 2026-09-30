@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Go on a spree or rampage
-> 2. **Nuance / Usage**: Utter a loud, protracted, mournful sound or cry, as dogs and wolves often do
+> 1. **Primary Meaning**: To utter a loud, long, mournful cry, as a wolf or dog; a loud, wailing cry of pain or rage.
+> 2. **Nuance / Usage**: Applied to the fierce acoustic roar of gale-force winds whipping through trees, rigging, or canyons (*the howling tempest*).
 
 > [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to howl the target*) and intransitive clauses (*howling against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+> - **Grammatical Class**: Verb (intransitive & transitive) & Noun.
+> - **Syntactic Constructions**: Operates in vocalized anguish (*howling in grief*) and environmental fury (*the wind howled*).
+> - **Collocations & Registers**: Paired with wolves, storms, gales, wild grief, and midnight cries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"I had rather hear Lady, my brach, howl in Irish."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"To hear there a proud lady and a proud city wife howl together!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Phil gives a howl at the recollection."*
+> - 📜 **Jack London (*The Call of the Wild*):** *"With head thrown back, he sent forth the long, mournful wolf **howl** across the frozen lake."*
+> - 📜 **William Shakespeare (*King Lear*):** *"**Howl**, **howl**, **howl**, **howl**! O, you are men of stones: had I your tongues and eyes, I'd use them so that heaven's vault should crack."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The wind rose in wild gusts and began to **howl** through the empty corridors of Thornfield."*

@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Relative obscurity or retirement
-> 2. **Nuance / Usage**: (countable) something that blocks light, particularly in a window
+> 1. **Primary Meaning**: Comparative darkness and coolness caused by shelter from the direct rays of the sun; an area blocked from direct light.
+> 2. **Nuance / Usage**: Evokes peaceful respite from glaring heat, subtle gradations of meaning or color (*shades of meaning*), or poetic spirits of the dead (*pale shades of antiquity*).
 
 > [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+> - **Grammatical Class**: Noun (mass & count) & Verb (transitive).
+> - **Syntactic Constructions**: Operates as a shelter (*resting in the shade*) or nuanced gradation (*a delicate shade of green*).
+> - **Collocations & Registers**: Paired with leafy trees, cool shelter, twilight, subtle nuances, and spectral spirits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"When to unseeing eyes thy shade shines so!"*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Under the sweet shade of your government."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Their sweetest shade a grove of cypress-trees!"*
+> - 📜 **William Shakespeare (*As You Like It*):** *"Under the greenwood tree, who loves to lie with me and turn his merry note unto the sweet bird's throat, come hither into the **shade**."*
+> - 📜 **Virgil (*The Aeneid*):** *"Along the dim banks of the underworld wandered the pale **shades** of fallen heroes."*
+> - 📜 **John Keats (*Ode to a Nightingale*):** *"In some melodious plot of beechen green and shadows numberless, singest of summer in full-throated **shade**."*

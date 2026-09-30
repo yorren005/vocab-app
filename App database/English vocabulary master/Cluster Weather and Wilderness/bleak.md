@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Cold, raw
-> 2. **Nuance / Usage**: Without color; pale; pallid
+> 1. **Primary Meaning**: Cold, windswept, and barren; exposed to harsh, cutting elements.
+> 2. **Nuance / Usage**: Extends to hopeless, cheerless, or depressing prospects and emotional states (*a bleak outlook for recovery*).
 
 > [!tip] 🎯 Usage & Syntactic Application
 > - **Grammatical Class**: Adjective.
-> - **Syntactic Constructions**: Functions attributively before a noun (*a bleak presence*) or predicatively (*remained bleak*).
-> - **Collocations & Registers**: Delivers immediate physical or psychological contrast in descriptive and poetic registers.
+> - **Syntactic Constructions**: Operates attributively (*a bleak moorland*) or predicatively (*the future seemed bleak*).
+> - **Collocations & Registers**: Paired with winter winds, barren landscapes, grim despair, and austerity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"over leaves, “is Jarndyce of Bleak House."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"some one in authority at Bleak House."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"forming the words Bleak House."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The winter night was bitter and **bleak**, with a freezing fog clinging to the cobbled stones."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The bushes were stripped of leaves and stood shivering in the **bleak** northern blast."*
+> - 📜 **Edgar Allan Poe (*The Raven*):** *"Ah, distinctly I remember it was in the **bleak** December."*

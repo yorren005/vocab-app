@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Neck, throat
-> 2. **Nuance / Usage**: Steep rugged rock or cliff
+> 1. **Primary Meaning**: A steep, rugged, and precipitously jagged mass of protruding rock or cliff.
+> 2. **Nuance / Usage**: Evokes dangerous, sheer verticality, inaccessible aeries, and wild mountain terrain (distinct from rounded boulders or smooth slabs).
 
 > [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the crag withstood the storm*), direct object (*cleaved the crag*), or prepositional anchor (*amidst the crag*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+> - **Grammatical Class**: Noun (count).
+> - **Syntactic Constructions**: Locative prepositional phrase (*clinging to the crag*) or grammatical subject (*the crag loomed over the valley*).
+> - **Collocations & Registers**: Romantic sublime, highland topography, raptor aeries; paired with *jagged*, *steep*, *mountain*, and *precipitous*.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Heugh, a hollow or pit; a crag, a steep bank."*
-> - 📜 **Allen, Grant (*Michael's Crag*):** *"That's Michael's Crag," he said, laconically."*
-> - 📜 **Allen, Grant (*Michael's Crag*):** *"the airy summit of some tall jagged crag or rock-bound precipice."*
+> - 📜 **Alfred, Lord Tennyson (*The Eagle*):** *"He clasps the **crag** with crooked hands; close to the sun in lonely lands, ring’d with the azure world, he stands."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Yon wild mossy mountains sae lofty and wide, that nurse in their bosom the **crags** of the Clyde."*
+> - 📜 **Walter Scott (*The Lady of the Lake*):** *"The western waves of ebbing day roll’d o’er the glen their level ray; each purpling peak, each flinty **crag**, was bathing in the crest of lag."*

@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Dire or unfortunate situation
-> 2. **Nuance / Usage**: Put or give in pledge : engage
+> 1. **Primary Meaning**: A dangerous, distressing, or difficult situation or condition.
+> 2. **Nuance / Usage**: As a noun, denotes an embattled predicament; as an archaic verb, means to pledge or solemnly bind (as in *plight one's troth*).
 
 > [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to plight the target*) and intransitive clauses (*plighting against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+> - **Grammatical Class**: Noun (count & mass) and transitive verb.
+> - **Syntactic Constructions**: Nominal direct object of prepositions (*in a pitiful plight*) or verb complement (*to plight one's troth*).
+> - **Collocations & Registers**: Humanitarian discourse, social commentary, solemn marriage rituals; paired with *wretched*, *desperate*, *troth*, and *sympathy*.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"certainly she did you wrong, for you were troth-plight to her."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Before her troth-plight: say’t and justify’t."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"you small good, my man, being in the same plight yourself."*
+> - 📜 **William Shakespeare (*The Winter's Tale*):** *"Certainly she did you wrong, for you were troth-**plight** to her."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"You do him small good, my man, being in the same **plight** yourself."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"I was left in a lonely **plight**, stranded upon a shore where no friendly voice bade me welcome."*

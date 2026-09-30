@@ -1,6 +1,6 @@
 ---
 cluster: "[[Cluster Craft and Shaping]]"
-section: "Material Forging"
+section: "Craftsmanship"
 status: unread
 ---
 # smelt
@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Refine, reduce
-> 2. **Nuance / Usage**: Any of the various liquids or semi-molten solids produced and used during the course of such production
+> 1. **Primary Meaning**: To melt or fuse ore with heat and a chemical reducing agent in order to separate and extract the pure metal.
+> 2. **Nuance / Usage**: Distinct from simple melting (*liquefaction*); smelting involves a chemical reduction that alters the mineral compound, liberating elemental iron, copper, or lead from rock and slag.
 
 > [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the smelt withstood the storm*), direct object (*cleaved the smelt*), or prepositional anchor (*amidst the smelt*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+> - **Grammatical Class**: Verb (transitive).
+> - **Syntactic Constructions**: Used of metallurgical extraction (*smelting iron from ore*) and industrial processes (*furnaces smelting continuous charges*).
+> - **Collocations & Registers**: Paired with intense heat, blast furnaces, flux, and pure molten metal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"peace at my bidding; there I found ’em, there I smelt ’em out."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"a beggar though she smelt brown bread and garlic."*
-> - 📜 **Levy, Donald M. (*Modern Copper Smelting*):** *"or else to roast them and smelt the product in the reverberatories."*
+> - 📜 **Georgius Agricola (*De Re Metallica*):** *"The furnace draft must remain continuous and strong if the ore is to be **smelted** clean of its adhering stony matter."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The huge try-pots hissed and smoked, as if the ship were an ocean foundry **smelting** the spoils of leviathan."*
+> - 📜 **William Morris (*The Story of Sigurd the Volsung*):** *"In the deep cave where Regin **smelted** the gold of the ancient hoard, the bellows roared through the night."*

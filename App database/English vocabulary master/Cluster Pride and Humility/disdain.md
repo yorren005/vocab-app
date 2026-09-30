@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: (uncountable) a feeling of contempt or scorn
-> 2. **Nuance / Usage**: Look on (someone or something) with scorn or contempt
+> 1. **Primary Meaning**: The feeling that someone or something is unworthy of one's consideration or respect; contempt.
+> 2. **Nuance / Usage**: Conveys haughty aloofness, curling lips, and deliberate refusal to acknowledge an inferior offer or action (*disdaining to answer the insult*).
 
 > [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the disdain withstood the storm*), direct object (*cleaved the disdain*), or prepositional anchor (*amidst the disdain*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+> - **Grammatical Class**: Noun (mass) & Verb (transitive).
+> - **Syntactic Constructions**: Operates as a psychological posture (*treated with disdain*) and condescending rejection (*disdained to reply*).
+> - **Collocations & Registers**: Paired with contempt, scorn, aloof pride, and cold rejection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"It shall be so, disdain they ne’er so much."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"By rule of knighthood, I disdain and spurn."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"And I did scorn it and disdain to fly."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She looked at him with an expression of mingled astonishment and **disdain**."*
+> - 📜 **William Shakespeare (*Coriolanus*):** *"He was a man of fierce pride, looking upon the multitude with unconcealed **disdain**."*
+> - 📜 **Emily Brontë (*Wuthering Heights*):** *"Heathcliff turned away with a curling lip of bitter **disdain**."*

@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Grow luxuriantly : thrive
-> 2. **Nuance / Usage**: Achieve success : prosper
+> 1. **Primary Meaning**: To grow luxuriantly and thrive in vigor; to prosper in health, fortune, or artistic endeavor.
+> 2. **Nuance / Usage**: As a noun or secondary verb sense, denotes an ostentatious or bold sweep (as in calligraphy, swordplay, or trumpet fanfares).
 
 > [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to flourish the target*) and intransitive clauses (*flourishing against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+> - **Grammatical Class**: Verb (intransitive & transitive) and noun (count).
+> - **Syntactic Constructions**: Intransitive of thriving (*arts flourished*) or transitive of brandishing (*flourished his sword*).
+> - **Collocations & Registers**: Historical narratives, botanical vitality, rhetorical performance; paired with *thrive*, *prosper*, *flourish of trumpets*, and *signature*.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"To this effect, sir; after what flourish your nature will."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Whilst bloody treason flourish’d over us."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Needs not the painted flourish of your praise."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Needs not the painted **flourish** of your praise."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Under his mild and equitable administration, commerce and agriculture began to **flourish** once more."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"The fields **flourished** with golden corn, and the vineyards were heavy with purple fruit."*

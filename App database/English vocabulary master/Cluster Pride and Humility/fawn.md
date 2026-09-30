@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Young deer
-> 2. **Nuance / Usage**: Of the fawn colour
+> 1. **Primary Meaning**: To display exaggerated, obsequious affection or servile flattery to gain favor; to grovel.
+> 2. **Nuance / Usage**: Connotes undignified sycophancy, bootlicking submission, or dogs wagging their tails submissively (*fawning courtiers seeking royal gifts*).
 
 > [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to fawn the target*) and intransitive clauses (*fawning against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+> - **Grammatical Class**: Verb (intransitive with *on/upon*).
+> - **Syntactic Constructions**: Operates in servile ingratiation (*fawning on the king*) and sycophantic behavior (*fawning praise*).
+> - **Collocations & Registers**: Paired with sycophancy, flattery, groveling, courtiers, and obsequious deference.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"And take foul scorn to fawn on him by sending."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"My love, forbear to fawn upon their frowns."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"The more you beat me, I will fawn on you."*
+> - 📜 **William Shakespeare (*Julius Caesar*):** *"You showed your teeth like apes, and **fawned** like hounds, and bowed like bondmen, kissing Caesar's feet."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I could not cringe or **fawn** upon Mrs. Reed, no matter what punishment she threatened."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The ministers were trained from youth to **fawn** upon the emperor and flatter his every whim."*

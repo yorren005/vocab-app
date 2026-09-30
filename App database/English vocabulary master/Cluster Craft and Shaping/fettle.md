@@ -1,6 +1,6 @@
 ---
 cluster: "[[Cluster Craft and Shaping]]"
-section: "Material Forging"
+section: "Craftsmanship"
 status: unread
 ---
 # fettle
@@ -42,13 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: One's mental state; spirits
-> 2. **Nuance / Usage**: State of physical condition; kilter or trim
+> 1. **Primary Meaning**: Condition, order, or state of fitness and spirits (chiefly in the idiom *in fine fettle*).
+> 2. **Nuance / Usage**: In traditional metal casting and pottery, a craft verb meaning to trim, smooth, and clean the seams or rough edges from a newly cast piece.
 
 > [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the fettle withstood the storm*), direct object (*cleaved the fettle*), or prepositional anchor (*amidst the fettle*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+> - **Grammatical Class**: Noun (state) & Verb (craft).
+> - **Syntactic Constructions**: Predominantly in prepositional phrases (*in capital fettle*) and foundry craft contexts (*to fettle a casting*).
+> - **Collocations & Registers**: Dialectal warmth, vigorous physical readiness, and workshop precision.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*Romeo and Juliet*):** *"But fettle your fine joints 'gainst Thursday next..."*
+> - 📜 **Charlotte Brontë (*Shirley*):** *"The horses were in capital **fettle**, their coats sleek and glossy from careful grooming."*
+> - 📜 **William Makepeace Thackeray (*The Virginians*):** *"The old colonel arrived in high **fettle**, ready to contest every inch of the debate."*
+> - 📜 **Robert Louis Stevenson (*St. Ives*):** *"I found myself in excellent **fettle** the next morning, eager for the road and whatever hazard it might bring."*

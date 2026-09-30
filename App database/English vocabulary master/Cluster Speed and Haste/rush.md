@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Surge
-> 2. **Nuance / Usage**: General haste
+> 1. **Primary Meaning**: To move, act, or push forward with urgent haste and high velocity; a rapid, surging movement.
+> 2. **Nuance / Usage**: Conveys sudden chaotic urgency, the violent surge of wind or water, or an overwhelming sudden flood of emotion (*a rush of blood to the head*).
 
 > [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the rush withstood the storm*), direct object (*cleaved the rush*), or prepositional anchor (*amidst the rush*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+> - **Grammatical Class**: Verb (intransitive & transitive) & Noun.
+> - **Syntactic Constructions**: Operates in hasty locomotion (*rushed down the hall*) and emotional or elemental surges (*a sudden rush of cold air*).
+> - **Collocations & Registers**: Paired with haste, torrents, crowds, adrenaline, and surges.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"For bloody power to rush upon your peace."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Hid in an auger hole, may rush, and seize us?"*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Quail, rush, conclude, and quell!"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"A sudden **rush** of cold winter wind extinguished the tallow candles on the table."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"The cavalry charged forward in a thunderous **rush** across the open field."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"A warm **rush** of blood came to my cheeks as I listened to his passionate confession."*

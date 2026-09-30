@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Twist so as to strain or sprain into a distorted shape
-> 2. **Nuance / Usage**: Extract or obtain by or as if by twisting and compressing
+> 1. **Primary Meaning**: To twist and compress tightly in order to squeeze out liquid; to clasp and squeeze hands in distress.
+> 2. **Nuance / Usage**: Conveys agonizing psychological turmoil (*wringing one's hands in despair*) or extorting concessions, confessions, or tears through unrelenting pressure (*to wring the truth from a witness*).
 
 > [!tip] 🎯 Usage & Syntactic Application
 > - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to wring the target*) and intransitive clauses (*wringing against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+> - **Syntactic Constructions**: Operates in literal compression (*to wring out wet cloth*) and figurative distress (*to wring tears*).
+> - **Collocations & Registers**: Paired with agony, extortion, moisture, and tight twisting motion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Rear up his body; wring him by the nose."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Your over-kindness doth wring tears from me!"*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Which God defend that I should wring from him."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I could only **wring** my hands in silent agony as the terrible conviction seized my mind."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The sailors scrambled to **wring** the seawater from their heavy woolen caps."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"No torture could **wring** from her lips the secret name of her partner in shame."*

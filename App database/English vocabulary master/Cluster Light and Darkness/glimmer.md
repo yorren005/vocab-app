@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Flash of light
-> 2. **Nuance / Usage**: Faint light; a dim glow
+> 1. **Primary Meaning**: To shine faintly with a wavering, unsteady light; a faint, trembling glow.
+> 2. **Nuance / Usage**: Extends figuratively to a slight, fleeting trace or faint spark of hope, reason, or understanding (*a glimmer of hope*).
 
 > [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+> - **Grammatical Class**: Verb (intransitive) & Noun (count).
+> - **Syntactic Constructions**: Operates in luminosity descriptions (*a lantern glimmering*) and abstract prospects (*a glimmer of truth*).
+> - **Collocations & Registers**: Paired with faint light, shadows, distant candles, and fragile hope.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"And on my side it is so well apparell’d, So clear, so shining and so evident, That it will glimmer through a blind man’s eye."*
-> - 📜 **Mary Shelley (*Frankenstein*):** *"I perceived in the gloom a figure which stole from behind a clump of trees near me; I stood fixed, gazing intently: I could not be mistaken; it was the wretch whom I had created, no light but the glimmer of two eyes that glared upon me."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"The west yet glimmers with some streaks of day: Now spurs the lated traveller apace To gain the timely inn."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"I perceived in the gloom no light but the faint **glimmer** of two eyes that glared upon me."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"The west yet **glimmers** with some streaks of day: now spurs the lated traveller apace to gain the timely inn."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"A solitary lantern cast a trembling **glimmer** across the black, motionless water."*

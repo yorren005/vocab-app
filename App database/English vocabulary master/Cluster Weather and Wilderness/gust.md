@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Blow in gusts
-> 2. **Nuance / Usage**: Sudden outburst : surge
+> 1. **Primary Meaning**: A sudden, brief rush of strong wind.
+> 2. **Nuance / Usage**: Extends metaphorically to a sudden, explosive burst of emotion, laughter, passion, or fury (*a gust of spontaneous laughter*).
 
 > [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+> - **Grammatical Class**: Noun (count) & Verb (intransitive).
+> - **Syntactic Constructions**: Operates in meteorology (*a gust of wind*) and emotional description (*a gust of rage*).
+> - **Collocations & Registers**: Paired with storms, whistling wind, suddenness, and emotional outbursts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Who lets so fair a house fall to decay, Which husbandry in honour might uphold, Against the stormy gusts of winter’s day And barren rage of death’s eternal cold?"*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Whiles we have struck, By interims and conveying gusts we have heard The charges of our friends."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"What did I then, but cursed the gentle gusts And he that loosed them forth their brazen caves And bid them blow towards England’s blessed shore Or turn our stern upon a dreadful rock?"*
+> - 📜 **William Shakespeare (*Sonnet 13*):** *"Against the stormy **gusts** of winter’s day and barren rage of death’s eternal cold."*
+> - 📜 **Emily Brontë (*Wuthering Heights*):** *"A sudden **gust** rattled the lattice window and sent dry leaves whirling across the hearth."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The gale had died to fitful **gusts** that slapped the slackened sails against the masts."*

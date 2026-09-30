@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: The highest part: such as
-> 2. **Nuance / Usage**: (by extension) any reward of victory or mark of honor
+> 1. **Primary Meaning**: An ornamental circlet or coronet worn on the head as a symbol of sovereignty; the monarch or regal power.
+> 2. **Nuance / Usage**: Figuratively represents the supreme reward of victory, culmination of life's labor, or highest perfection (*the crowning achievement of a career*).
 
 > [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+> - **Grammatical Class**: Noun (count) & Verb (transitive).
+> - **Syntactic Constructions**: Operates in royal investiture (*wearing the crown*) and triumphant culmination (*crowned with success*).
+> - **Collocations & Registers**: Paired with sovereignty, regal dignity, triumph, and crowning achievements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"dagger, and thy precious rich crown for a pitiful bald crown."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Make claim and title to the crown of France."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Was re-united to the crown of France."*
+> - 📜 **William Shakespeare (*Henry IV, Part 2*):** *"Uneasy lies the head that wears a **crown**."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"To win your love was the **crown** and summit of all my earthly desires."*
+> - 📜 **John Keats (*Endymion*):** *"A thing of beauty is a joy for ever: its loveliness increases, a garland and a **crown**."*

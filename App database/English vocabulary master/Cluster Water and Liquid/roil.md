@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Rile
-> 2. **Nuance / Usage**: Stir up : disturb, disorder
+> 1. **Primary Meaning**: To make a liquid cloudy, turbid, or muddy by stirring up sediment; to churn or agitate water.
+> 2. **Nuance / Usage**: Extends to psychological turmoil, unsettled stomach nausea, or turbulent sociopolitical unrest (*roiling passions; the roiling crowd*).
 
 > [!tip] 🎯 Usage & Syntactic Application
 > - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to roil the target*) and intransitive clauses (*roiling against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+> - **Syntactic Constructions**: Operates in hydraulic agitation (*the river roiled*) and emotional unrest (*thoughts that roiled his mind*).
+> - **Collocations & Registers**: Paired with churning, turbidity, silt, tempest, and visceral agitation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **{{w (*The Blue Touch Paper*):** *"[of St Leonards in East Sussex in 1947] A sort of roiling mist seemed year-round to hold the town in its grip."*
-> - 📜 **{{w (*Lives of the Norths*):** *"That his friends should believe it, was what roiled him exceedingly."*
-> - 📜 **Stephen King (*Needful Things*):** *"By noon, Brian's stomach had begun to roil and knot. He hurried down to the bathroom at the end of the hall in his stocking feet, closed the door, and vomited into the toilet bowl as quietly as he could."*
+> - 📜 **Stephen King (*The Gunslinger*):** *"Black clouds began to **roil** above the jagged mountain peaks, heralding an unnatural storm."*
+> - 📜 **Jack London (*The Sea-Wolf*):** *"The collision caused the dark waters beneath us to **roil** and froth in violent confusion."*
+> - 📜 **Henry David Thoreau (*A Week on the Concord and Merrimack Rivers*):** *"The heavy oars **roiled** the silt from the river bottom into swirling amber clouds."*

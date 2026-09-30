@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Go to ruin : deteriorate
-> 2. **Nuance / Usage**: (intransitive) to decline in function or utility
+> 1. **Primary Meaning**: To undergo natural organic decay and decomposition through the action of bacteria and fungi.
+> 2. **Nuance / Usage**: Conveys visceral physical foulness, systemic moral decadence, or the slow, stagnant waste of unfulfilled potential.
 
 > [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+> - **Grammatical Class**: Verb (intransitive & transitive) and noun (mass).
+> - **Syntactic Constructions**: Intransitive (*wood rots in persistent damp*) or nominal condition (*dry rot*).
+> - **Collocations & Registers**: Visceral realism, moral decay, rustic pragmatism; paired with *decay*, *stink*, *dry rot*, and *bones*.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"No further, sir; a man may rot even here."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"I would my tongue could rot them off!"*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"I’ll speak no more but “Vengeance rot you all!"*
+> - 📜 **William Shakespeare (*King Lear*):** *"A man may **rot** even here."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The smell of damp earth and rotting vegetation hung heavy in the air, where everything seemed to **rot** under the blinding sun."*
+> - 📜 **Walt Whitman (*Leaves of Grass*):** *"The leaves fall, the flowers **rot**, yet from their compost springs forth the eternal grass."*

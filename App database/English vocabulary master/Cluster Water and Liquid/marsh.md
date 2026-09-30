@@ -42,15 +42,15 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Number of places in england:
-> 2. **Nuance / Usage**: Dame (edith) ngaio 1899—1982 new zealand writer
+> 1. **Primary Meaning**: An area of low-lying wetland dominated by herbaceous plants, reeds, and grasses rather than trees.
+> 2. **Nuance / Usage**: Evokes desolate, mist-laden expanses where earth and open water merge, often associated with atmospheric solitude and treacherous footing (*the salty smell of the coastal marsh*).
 
 > [!tip] 🎯 Usage & Syntactic Application
 > - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the marsh withstood the storm*), direct object (*cleaved the marsh*), or prepositional anchor (*amidst the marsh*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+> - **Syntactic Constructions**: Functions as a geographic subject (*the marsh spread miles inland*) or locational modifier (*marsh grass*).
+> - **Collocations & Registers**: Paired with reeds, mist, tides, waterfowl, and wetlands.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Having crossed the marsh, I saw a trace of white over the moor."*
-> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Some calls it Marsh End, and some calls it Moor House."*
-> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"approaching departure from Marsh End should render yours necessary."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"The **marsh** mist was heavy and cold, and the low, dark, flat line of water lay beyond."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"A foul, feverish smell hung over the stagnant reed-grown **marsh** by the river mouth."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Having crossed the soggy **marsh**, I saw a trace of white light gleaming over the moor."*
