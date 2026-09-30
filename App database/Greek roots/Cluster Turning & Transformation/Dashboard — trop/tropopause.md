@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The region at the top of the troposphere; also : a comparable layer of a celestial body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The region at the top of the troposphere; also : a comparable layer of a celestial body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The boundary zone in the Earth's atmosphere separating the troposphere below from the stratosphere above, characterized by a sudden change in lapse rate where temperature ceases to decrease with altitude.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The dynamic atmospheric ceiling that constrains convective weather systems, thunderstorm updrafts, and planetary tropospheric circulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tropopause designates the region at the top of the troposphere; also : a comparable layer of a celestial body."*
+> - 📜 **Léon Teisserenc de Bort (*Comptes Rendus de l'Académie des Sciences*):** *"Above the convective lower layer lies the **tropopause**, where the thermal lapse rate stabilizes abruptly."*
+> - 📜 **Napier Shaw (*Manual of Meteorology*):** *"The height of the **tropopause** varies from some seventeen kilometres at the equator to barely nine kilometres over the polar regions."*
+> - 📜 **Carl-Gustaf Rossby (*Journal of Meteorology*):** *"Intense jet streams tend to meander in the immediate vicinity of breaks in the **tropopause**, driving planetary weather patterns."*

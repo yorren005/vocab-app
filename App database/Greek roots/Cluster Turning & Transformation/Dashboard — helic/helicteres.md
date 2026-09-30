@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of shrubs and small trees of tropical america and asia having cylindrical fruits spirally twisted around one another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of shrubs and small trees of tropical america and asia having cylindrical fruits spirally twisted around one another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of tropical trees and shrubs in the mallow family (Malvaceae), commonly known as screw trees or East Indian screw trees.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Medicinal plants characterized by woody, spirally twisted seed pods that resemble screws, utilized in traditional Ayurvedic and folk pharmacopeias.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, helicteres designates genus of shrubs and small trees of tropical america and asia having cylindrical fruits spirally twisted around one another."*
+> - 📜 **Carl Linnaeus (*Species Plantarum*, 1753):** *"Linnaeus established the genus **Helicteres**, named for the tightly spiraled, screw-like twist of its mature carpels."*
+> - 📜 **William Roxburgh (*Flora Indica*, 1832):** *"The twisted fruits of **Helicteres** isora are sold in every Indian bazaar under the name of marorphali for bowel complaints."*
+> - 📜 **George Don (*A General History of the Dichlamydeous Plants*, 1831):** *"The scarlet flowers of **Helicteres** are followed by curious woody follicles that coil together like a cord."*

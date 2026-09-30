@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A stabilizing device (as for a ship or airplane) that consists of a continuously driven gyro spinning about a vertical axis and pivoted so that its axis of spin may be tipped fore-and-aft in the vertical plane and that serves to oppose sideways motion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stabilizing device (as for a ship or airplane) that consists of a continuously driven gyro spinning about a vertical axis and pivoted so that its axis of spin may be tipped fore-and-aft in the vertical plane and that serves to oppose sideways motion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A device designed by Lord Kelvin consisting of a heavy flywheel enclosed within a rigid solid case, used to demonstrate the dynamical stability and inertia of rotating bodies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument in classical physics demonstrating gyroscopic forces without displaying the spinning rotor directly to the observer.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gyrostat designates a stabilizing device (as for a ship or airplane) that consists of a continuously driven gyro spinning about a vertical axis and pivoted so that its axis of spin may be tipped fore-and-aft in the vertical plane and that serves to oppose sideways motion."*
+> - 📜 **Lord Kelvin and Peter Guthrie Tait (*Treatise on Natural Philosophy*, 1867):** *"A **gyrostat** consists essentially of a flywheel mounted inside a rigid brass case, behaving like a quasi-elastic solid when rotated."*
+> - 📜 **James Clerk Maxwell (*Scientific Papers*, 1890):** *"Lord Kelvin's ingenious **gyrostat** illustrates how concealed internal rotation imparts macroscopic rigidity to mechanical systems."*
+> - 📜 **Horace Lamb (*Higher Mechanics*, 1920):** *"The equations of motion for a suspended **gyrostat** reveal extraordinary stability against small external disturbances."*

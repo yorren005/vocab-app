@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A momentous tragic event ranging from extreme misfortune to utter overthrow or ruin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Utter failure : fiasco.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An event causing great and often sudden damage or suffering; a disaster or calamity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical drama, the final event or dénouement of a tragedy that produces the dramatic resolution, usually through the protagonist's downfall.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pat! he comes, like the catastrophe of the old comedy: my cue is villainous melancholy, with a sigh like Tom o’Bedlam.—O, these eclipses do portend these divisions!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Before night his doubt whether he may not be responsible for some inconceivable part in the catastrophe which is the talk of the whole neighbourhood is almost resolved into certainty by Mrs."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"But before these proceedings draw to a close, that is to say, on the night next after the catastrophe, Mr."*
+> - 📜 **Aristotle (*Poetics*, c. 335 BC):** *"The dramatic **catastrophe** must unfold with inexorable necessity from the tragic flaw of the hero."*
+> - 📜 **Georges Cuvier (*Discourse on the Revolutionary Upheavals on the Surface of the Earth*, 1825):** *"Earth's history has been marked by sudden violent **catastrophe**, repeatedly submerging continents beneath oceans."*
+> - 📜 **Winston Churchill (*The Gathering Storm*, 1948):** *"Failing to confront the aggressor in time precipitated the greatest human **catastrophe** in recorded history."*

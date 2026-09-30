@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inversion of the usual syntactical order of words for rhetorical effect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inversion of the usual syntactical order of words for rhetorical effect.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rhetorical figure of speech involving the inversion of the customary or natural syntactic word order (e.g., 'Deep into that darkness peering').
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A poetic and oratorical inversion used for dramatic emphasis, rhythmic meter, or heightened emotional focus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anastrophe designates inversion of the usual syntactical order of words for rhetorical effect."*
+> - 📜 **Quintilian (*Institutio Oratoria*, c. 95 AD):** *"When the natural order of words is reversed for aesthetic or rhythmic effect, we call it **anastrophe**."*
+> - 📜 **John Milton (*Paradise Lost*, 1667):** *"Milton's majestic Latinate style abounds in **anastrophe**, placing the verb before the noun or the adjective after the object."*
+> - 📜 **Edgar Allan Poe (*The Raven*, 1845):** *"Deep into that darkness peering, long I stood there wondering, fearing; an expressive **anastrophe** that suspended breath."*

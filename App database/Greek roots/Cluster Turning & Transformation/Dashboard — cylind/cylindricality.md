@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The roundness of a 3-dimensional cylinder.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The roundness of a 3-dimensional cylinder.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state, quality, or geometrical degree of being cylindrical.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In precision engineering, the three-dimensional tolerance zone defining the departure of a manufactured cylinder from an ideal geometric form.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cylindricality designates the roundness of a 3-dimensional cylinder."*
+> - 📜 **Joseph Whitworth (*On the Standard Gauge of Size*, 1857):** *"High-pressure steam pistons demand absolute **cylindricality** to prevent loss of power through leakage."*
+> - 📜 **D'Arcy Wentworth Thompson (*On Growth and Form*, 1917):** *"Hydrostatic pressure inside a tubular organism preserves its **cylindricality** against external distortion."*
+> - 📜 **Henry Maudslay (*Principles of Machine Construction*, 1830):** *"The slide rest enabled the lathe operator to produce metal shafts of perfect **cylindricality**."*

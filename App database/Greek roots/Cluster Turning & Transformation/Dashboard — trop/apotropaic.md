@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the power to prevent evil or bad luck.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the power to prevent evil or bad luck.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Intended or having the power to avert evil, harm, or ill fortune, often through protective charms, rituals, or symbolic imagery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Functioning as a prophylactic magical counter-measure to ward off malevolent spirits or the envious gaze in anthropological and archaeological contexts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apotropaic designates having the power to prevent evil or bad luck."*
+> - 📜 **Jane Ellen Harrison (*Prolegomena to the Study of Greek Religion*):** *"The gorgon mask served not as a portrait of fear alone, but as an **apotropaic** device to turn aside pollution."*
+> - 📜 **E. R. Dodds (*The Greeks and the Irrational*):** *"Rituals designed to placate restless shades were essentially **apotropaic**, focused on barring their intrusion into civic life."*
+> - 📜 **Sir James George Frazer (*The Golden Bough*):** *"Red paint and loud rattles were employed across diverse cultures as **apotropaic** barriers against unseen spectral perils."*

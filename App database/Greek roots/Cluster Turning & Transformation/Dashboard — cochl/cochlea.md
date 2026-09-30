@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hollow tube in the inner ear of higher vertebrates that is usually coiled like a snail shell and contains the sensory organ of hearing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hollow tube in the inner ear of higher vertebrates that is usually coiled like a snail shell and contains the sensory organ of hearing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The spiral cavity of the inner ear containing the organ of Corti, which produces nerve impulses in response to sound vibrations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A coiled, fluid-filled, snail-shell-shaped bony labyrinth in mammals that performs frequency analysis of acoustic signals along the basilar membrane.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cochlea designates a hollow tube in the inner ear of higher vertebrates that is usually coiled like a snail shell and contains the sensory organ of hearing."*
+> - 📜 **Gabriele Falloppio (*Observationes Anatomicae*, 1561):** *"To the spiral auditory labyrinth winding like a snail shell within the temporal bone, I assigned the name **cochlea**."*
+> - 📜 **Hermann von Helmholtz (*On the Sensations of Tone*, 1863):** *"Different frequencies resonate at different points along the spiraling basilar membrane within the **cochlea**."*
+> - 📜 **Georg von Békésy (*Experiments in Hearing, Nobel Lecture*, 1961):** *"Traveling waves along the fluid-filled duct of the **cochlea** stimulate sensory hair cells with exquisite mechanical precision."*

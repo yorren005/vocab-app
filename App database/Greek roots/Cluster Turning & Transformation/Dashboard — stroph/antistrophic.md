@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to an antistrophe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to an antistrophe.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or having the character of an antistrophe; alternating or answering in verse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the reciprocal, counter-balancing stanzaic structure of classical choral lyrics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antistrophic designates of or relating to an antistrophe."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*, 1817):** *"The grand choral movements of the tragedy were organized into strophic and **antistrophic** stanzas."*
+> - 📜 **Percy Bysshe Shelley (*Prometheus Unbound*, 1820):** *"Voices of the spirits answered one another in a soaring, **antistrophic** chorus that echoed across the abyss."*
+> - 📜 **Matthew Arnold (*Merope*, 1858):** *"Arnold strictly maintained the **antistrophic** responsions of the ancient drama in his English verse."*

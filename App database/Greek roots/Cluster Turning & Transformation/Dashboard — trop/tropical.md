@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, occurring in, or suitable for use in the tropics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, being, or characteristic of a region or climate that is frost-free with temperatures high enough to support year-round plant growth given sufficient moisture.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characteristic of, inhabiting, or situated within the tropics; hot, humid, and marked by luxuriant vegetation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to or containing rhetorical tropes; figurative, metaphorical, or allegorical in archaic or rhetorical usage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I can lie down on the grass—in fine weather—and float along an African river, embracing all the natives I meet, as sensible of the deep silence and sketching the dense overhanging tropical growth as accurately as if I were there."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Far different is the case of the oceanic canal in a tropical climate."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Oliver’s large fortune, he might do as much good with it as if he went and laid his genius out to wither, and his strength to waste, under a tropical sun."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The luxuriant splendour of **tropical** vegetation in Brazil surpassed everything that my imagination had painted."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The dense **tropical** forest rose like a dark impenetrable wall along the banks of the silent river."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Ancient scriptures often conveyed sacred mysteries under a **tropical** or figurative veil of speech."*

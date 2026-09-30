@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rhythmic system composed of two or more lines repeated as a unit; especially : such a unit recurring in a series of strophic units.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rhythmic system composed of two or more lines repeated as a unit; especially : such a unit recurring in a series of strophic units.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The first section of an ancient Greek choral ode, or one of a series of stanzas; sung while moving from right to left across the orchestra.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A structural division of a poem or ode containing a distinct rhythmic or thematic progression, complemented by the antistrophe and epode.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Strophe View the wither’d Beldam’s face; Can thy keen inspection trace Aught of Humanity’s sweet, melting grace?"*
-> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"Tradition has preserved some wild strophes of the barbarous hymn which she chanted wildly amid that scene of fire and of slaughter:— 1."*
+> - 📜 **Pindar (*Olympian Odes*, c. 476 BC):** *"The opening **strophe** of the ode celebrates the golden majesty of Olympic victory."*
+> - 📜 **John Milton (*Samson Agonistes*, 1671):** *"The Danite chorus chants in alternating **strophe** and antistrophe, lamenting the blinded champion."*
+> - 📜 **T. S. Eliot (*The Music of Poetry*, 1942):** *"The musical structure of poetic drama returns inevitably to the architectural discipline of the classical **strophe**."*

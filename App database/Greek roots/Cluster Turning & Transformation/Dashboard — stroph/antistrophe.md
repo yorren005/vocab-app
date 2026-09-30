@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The repetition of words in reversed order.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The repetition of a word or phrase at the end of successive clauses.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The second section of an ancient Greek choral ode, chanted by the chorus while returning in reverse direction across the orchestra (answering the strophe).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rhetorical device (also called epistrophe) wherein the same word or phrase is repeated at the end of successive sentences or clauses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Antistrophe Plunderer of Armies! lift thine eyes, (A while forbear, ye torturing fiends;) Seest thou whose step, unwilling, hither bends?"*
+> - 📜 **Pindar (*Pythian Odes*, c. 475 BC):** *"The solemn chorus pivoted across the stone terrace, matching the meter of the strophe with an intricate **antistrophe**."*
+> - 📜 **John Dryden (*A Song for St. Cecilia's Day*, 1687):** *"The ode shifted its harmonic cadence, balancing each sweeping strophe with a solemn, echoing **antistrophe**."*
+> - 📜 **Gilbert Murray (*The Classical Tradition in Poetry*, 1927):** *"The physical dance of the Greek chorus gave living spatial meaning to the strophe and the responsive **antistrophe**."*

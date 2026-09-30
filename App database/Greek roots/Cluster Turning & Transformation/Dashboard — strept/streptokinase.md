@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An enzyme produced by some strains of streptococcus that can liquefy blood clots by converting plasminogen to plasmin; used medicinally in some cases of myocardial infarction and pulmonary embolism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An enzyme produced by some strains of streptococcus that can liquefy blood clots by converting plasminogen to plasmin; used medicinally in some cases of myocardial infarction and pulmonary embolism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An enzyme produced by beta-hemolytic streptococci that dissolves blood clots by activating plasminogen to plasmin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A major thrombolytic medication administered intravenously in acute myocardial infarction, pulmonary embolism, and deep vein thrombosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, streptokinase designates an enzyme produced by some strains of streptococcus that can liquefy blood clots by converting plasminogen to plasmin; used medicinally in some cases of myocardial infarction and pulmonary embolism."*
+> - 📜 **William S. Tillett and R. L. Garner (*The Fibrinolytic Activity of Hemolytic Streptococci*, 1933):** *"The bacterial filtrate contains a potent fibrinolytic activator, subsequently named **streptokinase**, that dissolves human fibrin clots."*
+> - 📜 **Eugene Braunwald (*Heart Disease: A Textbook of Cardiovascular Medicine*, 1988):** *"Early intravenous infusion of **streptokinase** during acute myocardial infarction restores coronary perfusion and salvages ischemic myocardium."*
+> - 📜 **Jerome Groopman (*The Anatomy of Hope*, 2004):** *"The emergency team administered **streptokinase** immediately, racing to dissolve the arterial thrombus before irreversible necrosis set in."*

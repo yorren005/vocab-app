@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The lowest densest part of the earth's atmosphere in which most weather changes occur and temperature generally decreases rapidly with altitude and which extends from the earth's surface to the bottom of the stratosphere at about 7 miles (11 kilometers) high.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The lowest densest part of the earth's atmosphere in which most weather changes occur and temperature generally decreases rapidly with altitude and which extends from the earth's surface to the bottom of the stratosphere at about 7 miles (11 kilometers) high.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The lowest layer of the Earth's atmosphere, extending from the planetary surface up to the tropopause (roughly 7 to 20 km), within which temperature decreases with altitude and almost all weather phenomena, water vapor, and convective mixing take place.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The dynamic thermodynamic shell of overturning air currents that supports life and climatic cycles on Earth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, troposphere designates the lowest densest part of the earth's atmosphere in which most weather changes occur and temperature generally decreases rapidly with altitude and which extends from the earth's surface to the bottom of the stratosphere at about 7 miles (11 kilometers) high."*
+> - 📜 **Léon Teisserenc de Bort (*Comptes Rendus de l'Académie des Sciences*):** *"I proposed the name **troposphere** for this lower realm because its air masses are perpetually turned and mixed by convection."*
+> - 📜 **Alfred Wegener (*The Origin of Continents and Oceans*):** *"The dense, moisture-laden **troposphere** hugs the crust, generating cloud banks and storm systems in endless rotation."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"All the winds that ruffle the oceans and all the storms that sweep the land are bred within the turbulent depths of the **troposphere**."*

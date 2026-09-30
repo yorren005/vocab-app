@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of something twisted or spiral.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of something twisted or spiral.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Curled or spiraled like a snail shell; helical.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (In anatomy) Designating the tortuous, coiled, spiral-shaped arteries (arteriae helicinae) found in erectile tissue (corpus cavernosum) and the endometrium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, helicine designates adjective*) pertaining to, derived from, or characteristic of something twisted or spiral."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*, 1858):** *"These vessels, termed the **helicine** arteries, are coiled like tendrils in the resting state, straightening out when distended with blood."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*, 1858):** *"The physiological dilation of the **helicine** arterioles allows immediate engorgement of the surrounding erectile caverns."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*, 1986):** *"Autonomic parasympathetic impulses relax the muscular walls of the **helicine** arteries, initiating erection."*

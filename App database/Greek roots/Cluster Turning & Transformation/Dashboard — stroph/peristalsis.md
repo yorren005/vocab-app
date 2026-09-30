@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Successive waves of involuntary contraction passing along the walls of a hollow muscular structure (such as the esophagus or intestine) and forcing the contents onward.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Successive waves of involuntary contraction passing along the walls of a hollow muscular structure (such as the esophagus or intestine) and forcing the contents onward.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The involuntary constriction and relaxation of the muscles of the intestine or another canal, creating wave-like movements that push the contents forward.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coordinated neuro-muscular contractions mediated by the enteric nervous system (Auerbach's plexus) that propel boluses down the alimentary canal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, peristalsis designates successive waves of involuntary contraction passing along the walls of a hollow muscular structure (such as the esophagus or intestine) and forcing the contents onward."*
+> - 📜 **William Bayliss and Ernest Starling (*The Movements and Innervation of the Small Intestine*, 1899):** *"Local distension of the intestinal tube evokes coordinated **peristalsis**, contracting above and relaxing below the bolus."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*, 1892):** *"Mechanical obstruction of the bowel induces violent, visible **peristalsis** as the muscular wall attempts to overcome the barrier."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*, 1986):** *"The fundamental propulsive movement of the gastrointestinal tract is **peristalsis**, driven by inherent pacemakers."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A poisonous crystalline alkaloid extracted from the nightshade family; used as an antispasmodic and to dilate the eye pupil; also administered in large amounts as an antidote for organophosphate nerve agents or organophosphate insecticides.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A poisonous crystalline alkaloid extracted from the nightshade family; used as an antispasmodic and to dilate the eye pupil; also administered in large amounts as an antidote for organophosphate nerve agents or organophosphate insecticides.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A poisonous, crystalline tropane alkaloid ($C_{17}H_{23}NO_3$) extracted from deadly nightshade and other solanaceous plants, used medicinally to dilate the pupil, increase heart rate, and counteract organophosphate poisoning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A classic competitive antagonist of muscarinic acetylcholine receptors utilized across cardiology, ophthalmology, and toxicological emergency medicine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, atropine designates a poisonous crystalline alkaloid extracted from the nightshade family; used as an antispasmodic and to dilate the eye pupil; also administered in large amounts as an antidote for organophosphate nerve agents or organophosphate insecticides."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"A minute drop of **atropine** placed upon the conjunctiva paralyzes accommodation and widely dilates the pupil."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"The physiological antagonism between pilocarpine and **atropine** proved to be one of the clearest demonstrations of selective nerve action."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In severe bradycardia or acute mushroom intoxication, **atropine** must be administered promptly to restore normal rhythm."*

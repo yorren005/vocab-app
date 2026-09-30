@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of ring.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of ring.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to dynamical and optical systems exhibiting rotational inertia (gyrostatic) and magnetic-field-induced circular birefringence or optical activity (gyrotropic).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterizing continuous media (such as magnetized plasmas, chiral metamaterials, or rotating fluids) governed by antisymmetric tensor components and Coriolis/Faraday forces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gyrostatic gyrotropic designates adjective*) pertaining to, derived from, or characteristic of ring."*
+> - 📜 **Lord Kelvin (*Baltimore Lectures on Molecular Dynamics and the Wave Theory of Light*, 1904):** *"We model the aether as a **gyrostatic gyrotropic** medium whose concealed vortices account for magnetic rotation of polarized light."*
+> - 📜 **Lev Landau and Evgeny Lifshitz (*Electrodynamics of Continuous Media*, 1960):** *"Wave propagation through a **gyrostatic gyrotropic** plasma exhibits distinct phase velocities for right and left circularly polarized modes."*
+> - 📜 **Arnold Sommerfeld (*Optics: Lectures on Theoretical Physics*, 1954):** *"The dielectric tensor of a magnetized **gyrostatic gyrotropic** crystal contains imaginary off-diagonal terms that rotate the plane of polarization."*

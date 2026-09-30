@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tropical american genus of dicotyledonous climbing or diffuse pungent herbs constituting the family tropaeolaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tropical american genus of dicotyledonous climbing or diffuse pungent herbs constituting the family tropaeolaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of about 80 species of annual and perennial flowering plants native to South and Central America, commonly known as nasturtiums, cultivated for their edible peppery foliage and spurred flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A garden plant named after the Latin *tropaeum* (trophy), because its peltate leaves resemble shields and its spurred flowers resemble punctured helmets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tropaeolum designates a tropical american genus of dicotyledonous climbing or diffuse pungent herbs constituting the family tropaeolaceae."*
+> - 📜 **Carl Linnaeus (*Species Plantarum*):** *"Linnaeus named the genus **Tropaeolum** from the Greek for trophy, likening the circular leaves to round bucklers and the flower to a warrior's helmet."*
+> - 📜 **Charles Darwin (*The Movements and Habits of Climbing Plants*):** *"The sensitive petioles of **Tropaeolum** curl with remarkable rapidity around any twig they touch to hoist the plant upwards."*
+> - 📜 **Gertrude Jekyll (*Colour in the Flower Garden*):** *"Tangles of scarlet **Tropaeolum** trailed over the dry stone wall, setting the grey granite ablaze with blossom."*

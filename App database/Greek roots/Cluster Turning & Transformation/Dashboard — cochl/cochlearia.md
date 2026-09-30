@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of the family cruciferae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of the family cruciferae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of about 30 species of biennial and perennial herbaceous coastal plants in the cabbage family (Brassicaceae), commonly known as scurvygrass.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Northern maritime and alpine herbs featuring spoon-shaped basal leaves (cochlear meaning spoon-like), historically consumed by sailors to prevent scurvy due to high vitamin C content.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cochlearia designates a genus of the family cruciferae."*
+> - 📜 **Carl Linnaeus (*Species Plantarum*, 1753):** *"Linnaeus established the genus **Cochlearia** for the northern scurvygrasses, whose fleshy radical leaves resemble small spoons."*
+> - 📜 **Captain James Cook (*A Voyage Towards the South Pole, and Round the World*, 1777):** *"We gathered large quantities of **Cochlearia** along the shores, boiling it with oatmeal to preserve the crew from scurvy."*
+> - 📜 **John Gerard (*The Herball or Generall Historie of Plantes*, 1597):** *"The leaves of **Cochlearia** are slightly pungent to the taste and serve as an incomparable medicine against sea-scurvy."*

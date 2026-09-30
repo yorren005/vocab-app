@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A single complete turn (axial or orbital).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of rotating in a circle or spiral.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rapid movement in a circle or spiral; a revolution, whirling, or rotation around an axis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics, the radius of gyration—the radial distance to a point at which the entire mass of a rotating body could be concentrated without altering its moment of inertia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He finds that nothing agrees with him so well as to make little gyrations on one leg of his stool, and stab his desk, and gape."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"I know, because I am one, and have just been waked up by the gyrations of the cyclone; and I'm deeply confounded."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"I checked our status and proximity-to-mass in vicinity; then my ship's scope analyses of the buggy's thrust and gyrations."*
+> - 📜 **Isaac Newton (*Principia Mathematica*, 1687):** *"The circular **gyration** of a body in a central force field depends upon the inverse square of its distance from the focus."*
+> - 📜 **Edgar Allan Poe (*A Descent into the Maelström*, 1841):** *"The boat entered the dizzying **gyration** of the whirlpool, spinning faster and faster toward the black abyss."*
+> - 📜 **John Tyndall (*Sound*, 1867):** *"The rapid **gyration** of the tuning fork produced acoustic interference fringes across the lecture hall."*

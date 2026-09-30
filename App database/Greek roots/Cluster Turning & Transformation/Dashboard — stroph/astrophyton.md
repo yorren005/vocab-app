@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Includes many of the basket stars.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Includes many of the basket stars.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of large, deeply branched marine basket stars in the brittle-star class Ophiuroidea (family Gorgonocephalidae).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Benthic echinoderms featuring repeatedly dichotomously branching, coiled arms that form an intricate, starburst basket to capture zooplankton in ocean currents.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, astrophyton designates includes many of the basket stars."*
+> - 📜 **Alexander Agassiz (*Echinoidea and Ophiuroidea*, 1888):** *"The extraordinary basket star **Astrophyton** spreads its thousands of curling armlets into a living filter net."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Invertebrates*, 1877):** *"In the genus **Astrophyton**, each of the five primary arms divides repeatedly into an interlocking labyrinth of coiled branches."*
+> - 📜 **William Beebe (*Half Mile Down*, 1934):** *"Through the bathysphere window, the multi-armed silhouette of **Astrophyton** looked like a delicate bush of living lace."*

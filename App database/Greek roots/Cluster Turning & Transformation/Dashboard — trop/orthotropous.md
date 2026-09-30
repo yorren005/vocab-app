@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of a plant ovule) completely straight with the micropyle at the apex.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a plant ovule) completely straight with the micropyle at the apex.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of an ovule: having a straight axis with the micropyle and chalaza situated at opposite poles in a straight line with the hilum and funiculus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by an erect, vertical, or unbent orientation of growth relative to gravity or the substrate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orthotropous designates (of a plant ovule) completely straight with the micropyle at the apex."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"In the strictly **orthotropous** ovule, the chalaza sits at the very insertion of the stalk, and the orifice points directly away."*
+> - 📜 **John Lindley (*An Introduction to Botany*):** *"An **orthotropous** ovule is straight from base to apex, requiring no curvature of the integuments."*
+> - 📜 **Agnes Arber (*Herbals: Their Origin and Evolution*):** *"Early morphologists distinguished the erect **orthotropous** seed structure from those that turn downward during maturation."*

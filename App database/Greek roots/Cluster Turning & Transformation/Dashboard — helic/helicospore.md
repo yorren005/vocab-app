@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek helic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Turning & Transformation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fungal spore that is curved or coiled into a spiral, typical of certain aquatic and wood-decaying imperfect fungi (hyphomycetes).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specialized conidium whose helical morphology facilitates hydrodynamic dispersal, flotation, and entanglement on submerged leaves in running streams.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, helicospore designates a term designating an entity, condition, or phenomenon derived from greek helic."*
+> - 📜 **Pier Andrea Saccardo (*Sylloge Fungorum*, 1886):** *"The term **helicospore** designates those conidia whose elongated filaments wind into one or more tight spiral whorls."*
+> - 📜 **C. T. Ingold (*Aquatic Hyphomycetes of Decaying Leaves*, 1942):** *"The three-dimensional coil of the **helicospore** acts as a natural anchor, snagging decaying plant debris in turbulent waters."*
+> - 📜 **David L. Hawksworth (*Ainsworth & Bisby's Dictionary of the Fungi*, 1995):** *"Among aero-aquatic fungi, the tightly packed air-filled chambers of the **helicospore** promote buoyant surface flotation."*

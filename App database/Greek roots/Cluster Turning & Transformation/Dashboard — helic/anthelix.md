@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek helic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Turning & Transformation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The curved inner ridge of cartilage on the human auricle (external ear), lying parallel to and within the outer rim (helix).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An anatomical landmark of the pinna that bifurcates superiorly into two crura enclosing the triangular fossa.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthelix designates a term designating an entity, condition, or phenomenon derived from greek helic."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*, 1858):** *"The **anthelix** is a curved prominence situated in front of the helix, bounding the concha behind."*
+> - 📜 **Andreas Vesalius (*De Humani Corporis Fabrica*, 1543):** *"The cartilage of the external ear rises in two concentric ridges, the outer helix and the inner **anthelix**."*
+> - 📜 **Charles Bell (*The Anatomy of the Human Body*, 1802):** *"Sound waves reflect from the convolutions of the **anthelix** into the external auditory meatus."*

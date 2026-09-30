@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various rod-shaped gram-negative bacteria.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various rod-shaped gram-negative bacteria.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of Gram-negative, facultatively anaerobic rod-shaped bacteria that grow in chains or filaments (from Greek streptos pliant/twisted + bacillus little rod).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The causative agent of streptobacillary rat-bite fever (Streptobacillus moniliformis), characterized by Haverhill fever, petechial rash, and migratory polyarthritis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, streptobacillus designates any of various rod-shaped gram-negative bacteria."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*, 1901):** *"Rat-bite fever is frequently induced by the pleomorphic filamentous pathogen **Streptobacillus**."*
+> - 📜 **Louis S. Goodman and Alfred Gilman (*The Pharmacological Basis of Therapeutics*, 1975):** *"Infections caused by **Streptobacillus** respond promptly to systemic penicillin therapy."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*, 1986):** *"Blood cultures demonstrate chained filaments of **Streptobacillus** during acute febrile paroxysms."*

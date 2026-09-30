@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A circular or spiral motion or form; especially : a giant circular oceanic surface current.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To move in a circle or spiral.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A spiral or circular motion or form; a ring, vortex, or revolution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In oceanography, a large system of circulating ocean currents, particularly those driven by global wind patterns and the Coriolis effect (e.g., North Atlantic Gyre).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gyre designates a circular or spiral motion or form; especially : a giant circular oceanic surface current."*
+> - 📜 **William Butler Yeats (*The Second Coming*, 1919):** *"Turning and turning in the widening **gyre** / The falcon cannot hear the falconer; / Things fall apart; the centre cannot hold."*
+> - 📜 **Rachel Carson (*The Sea Around Us*, 1951):** *"The vast Sargasso Sea lies trapped in the slow, clockwise **gyre** of the mid-Atlantic currents."*
+> - 📜 **Dante Alighieri (*The Divine Comedy: Inferno*, c. 1320):** *"The poets descended along the stony **gyre** of the abyss, circling through the concentric terraces of hell."*

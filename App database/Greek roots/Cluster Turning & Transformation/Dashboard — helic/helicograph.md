@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek helic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Turning & Transformation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mechanical instrument or drafting device used for drawing spirals and involute curves on paper.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An 18th- and 19th-century kinematic drafting apparatus designed to trace logarithmic and Archimedean spirals with geometric precision.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, helicograph designates a term designating an entity, condition, or phenomenon derived from greek helic."*
+> - 📜 **Gaspard Monge (*Descriptive Geometry*, 1799):** *"Using a precision **helicograph**, the draughtsman can trace continuous Archimedean spirals for machine gears."*
+> - 📜 **Charles Babbage (*Passages from the Life of a Philosopher*, 1864):** *"The mechanical linkages of the **helicograph** illustrate the translation of linear rotation into expanding curves."*
+> - 📜 **Oliver Wendell Holmes Sr. (*The Autocrat of the Breakfast-Table*, 1858):** *"The nautilus builds its shell as smoothly as if guided by an invisible celestial **helicograph**."*

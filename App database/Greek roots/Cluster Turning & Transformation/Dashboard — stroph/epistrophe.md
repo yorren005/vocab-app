@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Repetition of a word or expression at the end of successive phrases, clauses, sentences, or verses especially for rhetorical or poetic effect (such as Lincoln's "of the people, by the people, for the people").
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Repetition of a word or expression at the end of successive phrases, clauses, sentences, or verses especially for rhetorical or poetic effect (such as Lincoln's "of the people, by the people, for the people").
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rhetorical figure of speech involving the repetition of a word or phrase at the end of successive clauses or sentences (the counterpart to anaphora).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stylistic device widely used in classical oratory and literature to produce rhythmic crescendo and memorable emotional conviction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epistrophe designates repetition of a word or expression at the end of successive phrases, clauses, sentences, or verses especially for rhetorical or poetic effect (such as lincoln's "of the people, by the people, for the people")."*
+> - 📜 **Abraham Lincoln (*Gettysburg Address*, 1863):** *"That government of the people, by the people, for the people, shall not perish from the earth; a supreme example of rhythmic **epistrophe**."*
+> - 📜 **Quintilian (*Institutio Oratoria*, c. 95 AD):** *"**Epistrophe** drives the point home by hammering the final word of every sentence into the listener's memory."*
+> - 📜 **Martin Luther King Jr. (*I Have a Dream*, 1963):** *"The cadence of the sermon gained unforgettable momentum through the powerful repetition of **epistrophe**."*

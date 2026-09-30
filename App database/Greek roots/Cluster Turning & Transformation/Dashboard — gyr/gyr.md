@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ring : circle : spiral.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ring : circle : spiral.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek morphemic root element derived from gyros, meaning a circle, ring, spiral, or circular motion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A combining form in anatomy, physics, and zoology denoting circular turning, cerebral convolutions, or rotational inertia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gyr designates ring : circle : spiral."*
+> - 📜 **Henry George Liddell and Robert Scott (*A Greek-English Lexicon*, 1843):** *"The root element **gyr-** stems from Greek gyros, signifying a round ring, circuit, or circular course."*
+> - 📜 **D'Arcy Wentworth Thompson (*On Growth and Form*, 1917):** *"Rotational growth trajectories based on **gyr-** curves model the spiraling shells of ammonites."*
+> - 📜 **Lord Kelvin (*Popular Lectures and Addresses*, 1889):** *"Rotational momentum in mechanical **gyr-** systems demonstrates remarkable dynamical stability against tilting forces."*

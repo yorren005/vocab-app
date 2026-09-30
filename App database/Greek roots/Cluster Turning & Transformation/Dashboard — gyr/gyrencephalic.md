@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of ring.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of ring.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (Of a mammalian brain) Having a cerebral cortex marked by numerous convolutions (gyri) and fissures (sulci), rather than being smooth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterizing the brains of advanced mammals (primates, cetaceans, ungulates, carnivores) possessing high surface area relative to cranial volume, contrasted with lissencephalic.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gyrencephalic designates adjective*) pertaining to, derived from, or characteristic of ring."*
+> - 📜 **Thomas Henry Huxley (*Evidence as to Man's Place in Nature*, 1863):** *"The anthropoid ape possesses a highly **gyrencephalic** brain whose primary fissures correspond directly to those of man."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*, 1868):** *"Owen classified higher placental mammals as **gyrencephalic**, emphasizing the evolutionary expansion of convoluted gray matter."*
+> - 📜 **Stephen Jay Gould (*Ever Since Darwin*, 1977):** *"The transition from small lissencephalic ancestors to large **gyrencephalic** cetaceans reflects a dramatic increase in cortical surface area."*

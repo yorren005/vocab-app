@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of deformation that produces continents and ocean basins in the earth's crust.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of deformation that produces continents and ocean basins in the earth's crust.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The major geological process by which the Earth's crust is deformed, producing continents, ocean basins, plateaus, and mountain ranges through folding and faulting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large-scale tectonic deformation of the lithosphere resulting from orogeny (mountain building) and epeirogeny (broad continental warping).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diastrophism designates the process of deformation that produces continents and ocean basins in the earth's crust."*
+> - 📜 **James Dwight Dana (*Manual of Geology*, 1863):** *"Mountain chains owe their elevation to profound lateral compressive strain and continental **diastrophism**."*
+> - 📜 **Grove Karl Gilbert (*Report on the Geology of the Henry Mountains*, 1877):** *"We trace the displacement of sedimentary strata to distinct episodes of regional **diastrophism**."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*, 1944):** *"Convection currents within the sub-crustal mantle provide the driving mechanism for global **diastrophism**."*

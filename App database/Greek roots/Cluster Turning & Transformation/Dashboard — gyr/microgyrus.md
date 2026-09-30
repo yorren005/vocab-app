@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek gyr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Turning & Transformation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormally small, malformed convolution (gyrus) on the cerebral cortex.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A localized neuropathological defect resulting from disrupted radial neuronal migration, featuring simplified four-layered cortical architecture and microgyria.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microgyrus designates a term designating an entity, condition, or phenomenon derived from greek gyr."*
+> - 📜 **Alois Alzheimer (*Beiträge zur Kenntnis der pathologischen Neuroglia*, 1910):** *"Histological analysis of the seizure focus revealed an isolated **microgyrus** with profound laminar disorganization."*
+> - 📜 **Wilder Penfield and Theodore Rasmussen (*The Cerebral Cortex of Man*, 1950):** *"Surgical excision of the atrophic **microgyrus** abolished the focal epileptogenic discharges."*
+> - 📜 **Norman Geschwind (*Cerebral Lateralization: Biological Mechanisms*, 1985):** *"Developmental dyslexia has been linked to focal clusters of **microgyrus** anomalies in the left perisylvian cortex."*

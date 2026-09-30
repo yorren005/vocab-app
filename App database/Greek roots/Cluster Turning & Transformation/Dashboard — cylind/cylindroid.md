@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective & Noun*) Resembling, having the physical form of, or akin to roll.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective & Noun*) Resembling, having the physical form of, or akin to roll.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A geometric solid or surface that resembles a cylinder, especially an elliptic cylinder whose cross section is an ellipse rather than a circle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In kinematics and ballistics, a ruled surface of the third order discovered by Arthur Cayley and Robert Stawell Ball representing screw systems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cylindroid designates adjective & noun*) resembling, having the physical form of, or akin to roll."*
+> - 📜 **Robert Stawell Ball (*A Treatise on the Theory of Screws*, 1900):** *"The **cylindroid** plays a fundamental role in the kinematics of rigid bodies subjected to wrenches and twists."*
+> - 📜 **Arthur Cayley (*On the Cylindroid*, 1871):** *"The mathematical equation of the **cylindroid** defines the locus of screws of instantaneous displacement."*
+> - 📜 **William Kingdon Clifford (*Mathematical Papers*, 1882):** *"Geometrical analysis reveals that every pair of co-planar screws defines an associated **cylindroid** in three-space."*

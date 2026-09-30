@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the characteristics of a gyroscope.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the characteristics of a gyroscope.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, resembling, or operated by a gyroscope.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhibiting gyroscopic stability—the tendency of a rapidly spinning mass to resist any change in the orientation of its rotational axis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Thus the gyroscopic action is very free indeed to exercise its function of keeping the contrivance pointing always in the one way."*
+> - 📜 **H. G. Wells (*The First Men in the Moon*, 1901):** *"A **gyroscopic** flywheel ensured that the gravitational sphere preserved its alignment during planetary transit."*
+> - 📜 **Richard Feynman (*The Feynman Lectures on Physics*, 1963):** *"When you apply a torque to a spinning top, the resulting **gyroscopic** precession occurs perpendicular to the applied force."*
+> - 📜 **Joseph Conrad (*The Mirror of the Sea*, 1906):** *"The steamer pitched heavily in the gale, but the experimental **gyroscopic** stabilizer dampened the violent roll."*

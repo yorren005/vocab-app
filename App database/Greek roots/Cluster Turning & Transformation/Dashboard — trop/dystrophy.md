@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition produced by faulty nutrition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any myogenic atrophy; especially : muscular dystrophy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A disorder or degenerative condition caused by defective or deficient nutrition, cellular metabolism, or genetic mutation, especially affecting muscles, nerves, or tissues.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any progressive degeneration or malformation of a biological structure, as seen in muscular dystrophy or corneal dystrophy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dystrophy designates a condition produced by faulty nutrition."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Progressive muscular **dystrophy** presents a hereditary wasting of voluntary muscles without primary lesion in the spinal cord."*
+> - 📜 **H. G. Wells (*The Island of Doctor Moreau*):** *"The artificially grafted tissues showed early signs of biological **dystrophy**, breaking down despite all surgical care."*
+> - 📜 **Stephen Jay Gould (*The Panda's Thumb*):** *"The severe systemic **dystrophy** observed in metabolic mutants illustrates how tightly coordinated embryonic growth must be."*

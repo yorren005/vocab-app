@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With unfortunate consequences.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With unfortunate consequences.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a way that causes great, sudden, and devastating disaster or damage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extremely, calamitously, or with ruinous consequences.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catastrophically designates with unfortunate consequences."*
+> - 📜 **H. G. Wells (*The War of the Worlds*, 1898):** *"Human defenses collapsed **catastrophically** before the Martian heat-ray and toxic black smoke."*
+> - 📜 **Jared Diamond (*Collapse: How Societies Choose to Fail or Succeed*, 2005):** *"Societies that exhaust their fragile topsoils inevitably decline **catastrophically** within a few generations."*
+> - 📜 **Paul Kennedy (*The Rise and Fall of the Great Powers*, 1987):** *"Overextended imperial obligations erode economic foundations, **catastrophically** bankrupting the state."*

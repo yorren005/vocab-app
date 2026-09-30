@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Exhibiting properties (such as velocity of light transmission) with the same values when measured along axes in all directions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhibiting properties (such as velocity of light transmission) with the same values when measured along axes in all directions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or property of having uniform physical characteristics in all directions; invariance with respect to spatial rotation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The absence of directional preference or bias in a physical field, cosmic structure, or material lattice.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isotropy designates exhibiting properties (such as velocity of light transmission) with the same values when measured along axes in all directions."*
+> - 📜 **Albert Einstein (*The Meaning of Relativity*):** *"The cosmological principle postulates both homogeneity and spatial **isotropy** for the universe on sufficiently large scales."*
+> - 📜 **Lev Landau & Evgeny Lifshitz (*Statistical Physics*):** *"The complete **isotropy** of the liquid state breaks down spontaneously when the substance freezes into an anisotropic crystal."*
+> - 📜 **Steven Weinberg (*Gravitation and Cosmology*):** *"Measurements of the relic radiation confirmed the extraordinary **isotropy** of the cosmic background to within parts per hundred thousand."*

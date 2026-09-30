@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek gyr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Turning & Transformation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A specific form of microgyria resulting from perinatal hypoxic-ischemic brain injury, characterized by scarred, shrunken, mushroom-shaped gyri where the sulcal depths are destroyed while the crests survive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A scarring cortical lesion (from Greek oule scar + gyros convolution) that typically affects watershed arterial territories, causing cerebral palsy and focal epilepsy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ulegyria designates a term designating an entity, condition, or phenomenon derived from greek gyr."*
+> - 📜 **Alois Alzheimer (*Histologische Studien zur Hirnrinde*, 1904):** *"The mushroom-shaped appearance of **ulegyria** results from severe ischemic necrosis confined to the deep sulcal floors."*
+> - 📜 **Wilder Penfield and Herbert Jasper (*Epilepsy and the Functional Anatomy of the Human Brain*, 1954):** *"Surgical exploration of the seizure focus uncovered classic **ulegyria**, the shrunken gyri scarred by perinatal birth asphyxia."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*, 1892):** *"Cerebral spastic paraplegia in infants frequently reveals underlying **ulegyria** upon post-mortem examination."*

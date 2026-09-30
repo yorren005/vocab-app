@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek gyr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Turning & Transformation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A type of rotorcraft that utilizes an engine-driven rotor for takeoff, hovering, and landing (like a helicopter), but employs separate forward propellers to provide thrust for high-speed cruising.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hybrid VTOL aircraft combining the vertical lifting capabilities of a helicopter with the cruising efficiency and speed of an airplane.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gyrodyne designates a term designating an entity, condition, or phenomenon derived from greek gyr."*
+> - 📜 **Igor Sikorsky (*Rotorcraft Innovations*, 1948):** *"The compound **gyrodyne** relieves the rotor of propulsive duty during forward flight, overcoming retreating-blade stall."*
+> - 📜 **Juan de la Cierva (*Theory of Rotary Wing Aircraft*, 1934):** *"Incorporating auxiliary tractor propellers transforms the pure autogyro into a high-speed **gyrodyne**."*
+> - 📜 **Arthur C. Clarke (*The Exploration of Space*, 1951):** *"Planetary survey missions will utilize a versatile **gyrodyne** capable of landing on rugged alien plateaus."*

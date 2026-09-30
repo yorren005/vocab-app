@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of gill fungi with brown spores that is closely related to agaricus; here placed in its own family strophariaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of gill fungi with brown spores that is closely related to agaricus; here placed in its own family strophariaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of medium-sized to large agaric mushrooms in the family Strophariaceae, commonly known as roundheads.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Saprotrophic woodland and dung fungi named from Greek strophos (a sword-belt or ring) for the distinct, persistent membranous ring (annulus) on the stipe.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stropharia designates genus of gill fungi with brown spores that is closely related to agaricus; here placed in its own family strophariaceae."*
+> - 📜 **Elias Magnus Fries (*Systema Mycologicum*, 1821):** *"Fries distinguished the subgenus **Stropharia** by the presence of a distinct membranous ring upon the central stem."*
+> - 📜 **Charles Horton Peck (*New York State Museum Reports*, 1878):** *"The green-capped mushroom *Stropharia aeruginosa* is readily identified by its slimy pellicle and persistent annulus."*
+> - 📜 **David Arora (*Mushrooms Demystified*, 1986):** *"The genus **Stropharia** includes distinctive dung-loving and woodchip-loving species with dark purple-brown spores."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Metempsychosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Metempsychosis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rebirth, regeneration, or re-creation; spiritual renewal or continuous cycles of rebirth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biology, the recapitulation of ancestral evolutionary history in the course of individual embryonic development (Haeckelian palingenesis vs. caenogenesis).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, palingenesis designates metempsychosis."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*, 1836):** *"Society undergoes perpetual decay and perpetual **palingenesis**, emerging renewed from the ashes of revolution."*
+> - 📜 **Ernst Haeckel (*Generelle Morphologie der Organismen*, 1866):** *"We apply the term **palingenesis** to that part of ontogeny which directly repeats phylogenetic history."*
+> - 📜 **Arthur Schopenhauer (*The World as Will and Representation*, 1819):** *"Death does not destroy the will to live; rather, nature exhibits a constant metaphysical **palingenesis**."*

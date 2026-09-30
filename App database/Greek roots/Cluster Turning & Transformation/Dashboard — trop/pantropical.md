@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Distributed throughout the tropics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Distributed throughout the tropics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Distributed or occurring throughout the tropical regions of the entire globe, spanning tropical Africa, the Americas, Asia, and Oceania.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to biological taxa, climatic patterns, or ecosystems that encircle the equatorial and tropical zones of the earth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pantropical designates distributed throughout the tropics."*
+> - 📜 **Alfred Russel Wallace (*Tropical Nature, and Other Essays*):** *"Certain families of palms exhibit a strictly **pantropical** distribution, flourishing across all continents where frosts are unknown."*
+> - 📜 **E. O. Wilson (*The Diversity of Life*):** *"The coconut palm stands as the classic example of a **pantropical** species whose buoyant seeds crossed entire oceanic basins."*
+> - 📜 **Alexander von Humboldt (*Aspects of Nature*):** *"The traveler observes how certain creeping ferns maintain a continuous **pantropical** belt around the warmest latitudes of our globe."*

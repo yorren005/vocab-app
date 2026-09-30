@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the family palinuridae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the family palinuridae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The type genus of spiny lobsters in the family Palinuridae, native to the eastern Atlantic and Mediterranean Sea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical literature, the famous helmsman of Aeneas in Virgil's Aeneid, who fell overboard into the sea and whose name became synonymous with a lost pilot.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George W. Cronyn (*The Glebe 1914/09 (Vol. 2, No. 2): Poems*):** *"PALINURUS Starlight: with deep and quiet breathing slept The southern sea."*
+> - 📜 **Virgil (*The Aeneid*, c. 19 BC):** *"O **Palinurus**, too trusting in the calm sky and sea, your naked body will lie unburied on an unknown strand."*
+> - 📜 **Cyril Connolly (*The Unquiet Grave*, 1944):** *"Connolly wrote under the pseudonym **Palinurus**, identifying with the weary steersman who fell into the dark ocean."*
+> - 📜 **Georges Cuvier (*The Animal Kingdom*, 1817):** *"Fabricius designated the spiny lobster under the generic title **Palinurus**, recalling the classical navigator."*

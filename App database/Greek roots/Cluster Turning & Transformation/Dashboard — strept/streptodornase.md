@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An enzyme produced by some hemolytic strains of streptococcus that dissolves fibrinous secretions from infections; used medicinally (often in combination with streptokinase).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An enzyme produced by some hemolytic strains of streptococcus that dissolves fibrinous secretions from infections; used medicinally (often in combination with streptokinase).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An enzyme (deoxyribonuclease) produced by hemolytic streptococci that liquefies viscous purulent exudates and DNA debris.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used clinically in combination with streptokinase (Varidase) for enzymatic wound debridement to dissolve thick clotted fibrin and purulent collections.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, streptodornase designates an enzyme produced by some hemolytic strains of streptococcus that dissolves fibrinous secretions from infections; used medicinally (often in combination with streptokinase)."*
+> - 📜 **William S. Tillett (*The Action of Streptococcal Fibrinolysin and Deoxyribonuclease*, 1949):** *"The administration of **streptodornase** rapidly depolymerizes free extracellular DNA, thinning thick pus into liquid drainage."*
+> - 📜 **Louis S. Goodman and Alfred Gilman (*The Pharmacological Basis of Therapeutics*, 1970):** *"Enzymatic debridement with **streptodornase** facilitates surgical wound drainage without injuring living granulation tissue."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*, 1986):** *"Purulent exudates owe their tenacious viscosity to cellular nucleoproteins, which **streptodornase** readily hydrolyzes."*

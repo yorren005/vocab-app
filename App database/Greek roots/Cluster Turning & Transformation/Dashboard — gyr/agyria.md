@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Severe lissencephaly marked by the absence of cerebral convolutions; broadly : lissencephaly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Severe lissencephaly marked by the absence of cerebral convolutions; broadly : lissencephaly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A severe cerebral developmental malformation characterized by the complete absence of gyri and sulci on the cerebral cortex, resulting in a smooth brain surface (lissencephaly).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A neuronal migration defect occurring between the 12th and 24th weeks of gestation, resulting in a thick four-layered cortex, severe developmental delay, and refractory epilepsy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, agyria designates severe lissencephaly marked by the absence of cerebral convolutions; broadly : lissencephaly."*
+> - 📜 **Alois Alzheimer and Franz Nissl (*Histologische und histopathologische Arbeiten*, 1904):** *"Microscopic sections of the infant brain revealed total **agyria**, the cerebral surface being entirely smooth and devoid of sulci."*
+> - 📜 **Wilder Penfield (*Epilepsy and the Functional Anatomy of the Human Brain*, 1954):** *"In congenital **agyria**, widespread developmental arrest of neuroblasts impairs the formation of cortical laminations."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*, 1985):** *"Severe cortical dysplasias such as **agyria** produce profound epileptic encephalopathies from birth."*

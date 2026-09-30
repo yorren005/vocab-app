@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek gyr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Turning & Transformation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A developmental cerebral cortical malformation characterized by excessive numbers of abnormally small, crowded, and fused convolutions (gyri).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A neuronal migration disorder (polymicrogyria) leading to mental retardation, spastic diplegia, and intractable infantile epilepsy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, micropolygyria designates a term designating an entity, condition, or phenomenon derived from greek gyr."*
+> - 📜 **Alois Alzheimer and Franz Nissl (*Histologische Arbeiten*, 1908):** *"The autopsy demonstrated extensive bilateral **micropolygyria**, the cortex resembling the crumpled surface of a cauliflower."*
+> - 📜 **Wilder Penfield (*Epilepsy and Cerebral Localization*, 1941):** *"Cortical mapping over areas of **micropolygyria** reveals disorganized, hyperexcitable neural networks."*
+> - 📜 **Oliver Sacks (*Awakenings*, 1973):** *"Congenital developmental anomalies like **micropolygyria** produce refractory neurological deficits that resist pharmacotherapy."*

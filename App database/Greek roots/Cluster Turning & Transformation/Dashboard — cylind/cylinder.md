@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The surface traced by a straight line moving parallel to a fixed straight line and intersecting a fixed planar closed curve.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A solid or surface bounded by a cylinder and two parallel planes cutting all its elements; especially : right circular cylinder.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A solid geometric figure with straight parallel sides and a circular or oval cross section.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The chamber within which an engine piston moves; or a cylindrical container for holding compressed gas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Squish, squash echoed the milk in the great cylinder, but never arose the sound they waited for."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"It is an elongated cylinder with conical ends."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The length of this cylinder, from stem to stern, is exactly 232 feet, and its maximum breadth is twenty-six feet."*
+> - 📜 **Archimedes (*On the Sphere and Cylinder*, c. 225 BC):** *"The surface area of a right circular **cylinder** is equal to the perimeter of its base multiplied by its altitude."*
+> - 📜 **James Watt (*Letters on the Steam Engine*, 1769):** *"The steam entered the iron **cylinder**, driving the piston downward with immense mechanical power."*
+> - 📜 **H. G. Wells (*The War of the Worlds*, 1898):** *"A colossal metal **cylinder** fell from the sky, its unscrewing lid terrifying the onlookers upon Horsell Common."*

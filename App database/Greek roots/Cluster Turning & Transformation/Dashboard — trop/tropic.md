@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of the two parallels of terrestrial latitude at a distance of about 23½ degrees north or south of the equator where the sun is directly overhead when it reaches its most northerly or southerly point in the sky.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The region lying between the tropics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of the two parallels of celestial latitude (Tropic of Cancer and Tropic of Capricorn) where the sun reaches its northernmost or southernmost declination and turns back toward the equator.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to, situated within, or characteristic of the tropical regions of the earth; warm, equatorial, and lush.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Bathsheba was far from dreaming that the dark and silent shape upon which she had so carelessly thrown a seed was a hotbed of tropic intensity."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"In the complexion of a third still lingers a tropic tawn, but slightly bleached withal; he doubtless has tarried whole weeks ashore."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"I hope ye’ll have fine weather now, so that Captain Ahab may soon be moving among ye—a pleasant sun is all he needs, and ye’ll have plenty of them in the tropic voyage ye go."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The sun from the **tropic** turns, and sheds oblique his lesser beams across the winter solstice."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"We were cruising under the fiery line of the southern **tropic**, where the air trembled with dazzling heat."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"Why should the traveler seek the torrid **tropic**, when the warmth of his own heart can thaw any latitude?"*

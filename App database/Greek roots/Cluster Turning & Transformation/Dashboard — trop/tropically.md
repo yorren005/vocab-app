@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a tropical manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a tropical manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a tropical manner, climate, or setting; warmly, humidly, or luxuriantly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Figuratively, metaphorically, or by means of a rhetorical trope in literary usage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tropically designates in a tropical manner."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"The Mousetrap. Marry, how? **Tropically**. This play is the image of a murder done in Vienna."*
+> - 📜 **Herman Melville (*Typee*):** *"The valley was **tropically** lush, fed by sparkling cascades falling from basalt crags."*
+> - 📜 **Robert Louis Stevenson (*In the South Seas*):** *"The trade wind blew **tropically** warm across the deck, bearing the scent of copra and wild hibiscus."*

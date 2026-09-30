@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek stroph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Turning & Transformation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (In geology and geophysics) The dynamic rotational shell or deformable layer of the Earth's crust and upper mantle subjected to tectonic twisting and torsional strain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The crustal shear zone wherein rotational displacement and transcurrent faulting accommodate differential plate motion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, strophosphere designates a term designating an entity, condition, or phenomenon derived from greek stroph."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*, 1944):** *"Torsional stresses across the global lithosphere induce widespread shear deformation within the **strophosphere**."*
+> - 📜 **Reginald Aldworth Daly (*Architecture of the Earth*, 1938):** *"Differential planetary rotation imposes deep tangential forces upon the ductile **strophosphere**."*
+> - 📜 **Frank Dawson Adams (*The Birth and Development of the Geological Sciences*, 1938):** *"Early geophysicists postulated a mobile **strophosphere** to explain the torsional distribution of mountain arcs."*

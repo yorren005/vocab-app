@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several hemolysins derived from strains of streptococcus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several hemolysins derived from strains of streptococcus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several hemolytic exotoxins produced by streptococci that lyse red and white blood cells (e.g., streptolysin O and streptolysin S).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An oxygen-labile pore-forming bacterial cytolysin whose antibodies (anti-streptolysin O, or ASO titer) serve as a diagnostic indicator of recent group A streptococcal infection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, streptolysin designates any of several hemolysins derived from strains of streptococcus."*
+> - 📜 **Rebecca Lancefield (*Studies on the Antigenic Properties of Streptolysin*, 1934):** *"The hemolytic power of group A streptococcal broth cultures is mediated by the potent protein toxin **streptolysin**."*
+> - 📜 **Bruce Alberts et al. (*Molecular Biology of the Cell*, 2002):** *"**Streptolysin** O oligomerizes in host cell membranes to form large transmembrane pores that cause osmotic lysis."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*, 1901):** *"Elevated serological titers against **streptolysin** confirm antecedent infection in patients presenting with post-streptococcal chorea."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek gyr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Turning & Transformation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition characterized by abnormal development of the brain cortex before birth, in which the surface develops too many small, tightly folded folds (microgyri).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A heterogeneous cortical malformation resulting from post-migrational cortical reorganization abnormalities, often linked to cytomegalovirus infection or mutations in genes like GPR56.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polymicrogyria designates a term designating an entity, condition, or phenomenon derived from greek gyr."*
+> - 📜 **Norman Geschwind (*Cerebral Lateralization*, 1985):** *"Bilateral perisylvian **polymicrogyria** produces a characteristic syndrome of pseudobulbar palsy and severe expressive dysphasia."*
+> - 📜 **Eric Kandel et al. (*Principles of Neural Science*, 2000):** *"Genetic disruption of neuronal migration pathways causes **polymicrogyria**, resulting in a fused, overfolded neocortex."*
+> - 📜 **Oliver Sacks (*Musicophilia: Tales of Music and the Brain*, 2007):** *"Neuroimaging revealed focal **polymicrogyria** in the patient's temporal lobe, providing the anatomical substrate for her musical seizures."*

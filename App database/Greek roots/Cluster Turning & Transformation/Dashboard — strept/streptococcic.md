@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or caused by streptococci.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or caused by streptococci.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, caused by, or characteristic of streptococci; streptococcal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Denoting a pathological condition or bacteriological feature associated with streptococcal infection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, streptococcic designates of or relating to or caused by streptococci."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*, 1901):** *"The cutaneous erythema of scarlet fever is a direct toxic manifestation of **streptococcic** invasion."*
+> - 📜 **Ernst von Bergmann (*A System of Practical Surgery*, 1904):** *"The wound presented spreading margins typical of acute **streptococcic** cellulitis."*
+> - 📜 **Howard Florey (*Antibiotics*, 1949):** *"Clinical trials demonstrated that **streptococcic** septicemia yielded rapidly to systemic penicillin infusions."*

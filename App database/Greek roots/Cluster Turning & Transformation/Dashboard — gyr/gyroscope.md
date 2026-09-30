@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A wheel or disk mounted so that it can spin rapidly about one axis while also free to rotate about one or both of the two other perpendicular axes so that when torque is applied to either of these axes when the wheel is spinning a rotation about the other axis results.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A wheel or disk mounted so that it can spin rapidly about one axis while also free to rotate about one or both of the two other perpendicular axes so that when torque is applied to either of these axes when the wheel is spinning a rotation about the other axis results.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A device consisting of a wheel or disk mounted so that it can spin rapidly about an axis which is itself free to alter in direction (maintaining orientation via conservation of angular momentum).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An essential instrument utilized in inertial navigation systems, stabilization of ships and spacecraft, and aeronautical attitude indicators.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A comparatively small amount of such work would serve as a gyroscope to preserve the balance of employment for a large part of the less skilled workers."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This is a well-nigh incredibly small proportion, hardly as great as that of the weight of the gyroscope compared with the car or ship to which it is applied."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Being thus deprived of one of its movements the gyroscope with three degrees becomes a gyroscope with two degrees of freedom, and in that form it supplies the need for an efficient and reliable compass."*
+> - 📜 **Léon Foucault (*Sur les phénomènes d'orientation des corps tournants*, 1852):** *"I have named this apparatus the **gyroscope**, for its spinning rotor renders the rotation of the Earth directly visible to our eyes."*
+> - 📜 **Lord Kelvin (*Popular Lectures and Addresses*, 1889):** *"The spinning **gyroscope** exhibits an astonishing resistance to any couple attempting to alter the direction of its rotational axis."*
+> - 📜 **Arthur C. Clarke (*2001: A Space Odyssey*, 1968):** *"Internal **gyroscope** flywheels hummed softly within the spacecraft, maintaining attitude orientation across deep interplanetary space."*

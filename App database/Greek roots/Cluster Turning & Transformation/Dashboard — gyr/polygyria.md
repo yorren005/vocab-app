@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek gyr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Turning & Transformation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A congenital malformation of the brain characterized by an excessive number of small cerebral convolutions (gyri).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A structural cortical dysplasia characterized by irregular, hyper-convoluted gray matter, often associated with developmental delay and epilepsy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polygyria designates a term designating an entity, condition, or phenomenon derived from greek gyr."*
+> - 📜 **Alois Alzheimer (*Neuropathology of the Cortex*, 1911):** *"The cerebral surface exhibited marked **polygyria**, folding into an irregular maze of miniature gyri."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*, 1901):** *"Congenital hemiplegia is occasionally associated with localized cerebral **polygyria** and porencephaly."*
+> - 📜 **Norman Geschwind (*Selected Papers on Language and the Brain*, 1974):** *"Bilateral **polygyria** affecting the temporal lobes disrupts the normal architectural substrate for speech acquisition."*

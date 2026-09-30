@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Turtledoves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Turtledoves.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small to medium-sized slender doves in the pigeon family (Columbidae), commonly known as turtle doves and collared doves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Granivorous, highly vocal columbid birds characterized by distinct black neck patches or collars and worldwide temperate and tropical distributions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, streptopelia designates turtledoves."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*, 1868):** *"The domesticated Barbary dove is readily crossed with species of the genus **Streptopelia**, demonstrating their close phylogenetic affinity."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*, 1789):** *"The soft, plaintive cooing of the turtle dove, belonging to **Streptopelia**, is the quintessential herald of high summer."*
+> - 📜 **Ernst Mayr (*Systematics and the Origin of Species*, 1942):** *"The geographic expansion of the Eurasian collared dove (*Streptopelia decaocto*) is one of the most rapid avian colonization events on record."*

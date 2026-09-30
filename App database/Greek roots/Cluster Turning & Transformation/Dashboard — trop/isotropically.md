@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an isotropic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an isotropic manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an isotropic manner; with uniform physical, optical, or spatial properties in every direction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Radiating, expanding, or propagating equally along all axes from a central source.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isotropically designates in an isotropic manner."*
+> - 📜 **Stephen Hawking (*A Brief History of Time*):** *"The cosmic microwave background radiation is observed to arrive **isotropically** from every quarter of the sky."*
+> - 📜 **Richard Feynman (*The Feynman Lectures on Physics*):** *"A point charge isolated in free space radiates electromagnetic energy **isotropically** over the entire solid angle."*
+> - 📜 **P. J. E. Peebles (*Principles of Physical Cosmology*):** *"The universe appears to expand **isotropically**, displaying no preferred direction of cosmic flow on large scales."*

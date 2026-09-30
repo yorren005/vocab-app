@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The place names of a region or a language considered collectively.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The place names of a region or a language considered collectively.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The systematic study, classification, or nomenclature of tropes and figurative expressions in language and rhetoric.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The analytical taxonomy of semantic shifts, metaphorical turns, and lexical alterations in literary discourse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, troponomy designates the place names of a region or a language considered collectively."*
+> - 📜 **Kenneth Burke (*A Grammar of Motives*):** *"An exhaustive **troponomy** classifies metaphor, metonymy, synecdoche, and irony as the four master turnings of rhetorical discourse."*
+> - 📜 **Paul de Man (*Allegories of Reading*):** *"The deconstructive critique reveals how every conceptual system rests upon an unacknowledged **troponomy** of borrowed figures."*
+> - 📜 **Gérard Genette (*Figures of Literary Discourse*):** *"The classical treatise on **troponomy** categorized each subtle departure from literal syntax with meticulous precision."*

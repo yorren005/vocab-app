@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spiny lobsters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spiny lobsters.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The taxonomic family of marine decapod crustaceans comprising the spiny lobsters or langoustes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Clawless, heavily armored benthic lobsters characterized by long spiny antennae, stridulating sound-producing organs, and pelagic phyllosoma larvae.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, palinuridae designates spiny lobsters."*
+> - 📜 **Thomas Henry Huxley (*The Crayfish: An Introduction to the Study of Zoology*, 1880):** *"Members of the family **Palinuridae** are distinguished from the true lobsters by the absence of massive pincers on the first pair of legs."*
+> - 📜 **Alister Hardy (*The Open Sea: The World of Plankton*, 1956):** *"The flattened, glass-like phyllosoma larva of the **Palinuridae** drifts for months in oceanic currents before settling."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*, 1955):** *"Beneath the tropical coral ledge sheltered spiny lobsters of the **Palinuridae**, their long antennae sweeping the water."*

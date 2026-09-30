@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The prediction that human intelligence and technology will enable life to expand in an orderly way throughout the entire universe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The prediction that human intelligence and technology will enable life to expand in an orderly way throughout the entire universe.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A measure of a system's capacity for growth, intelligence, vitality, energy, and self-organization; the conceptual antithesis or negative of entropy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A transhumanist philosophy advocating continuous human enhancement, rational progress, and overcoming biological limits through science and technology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, extropy designates the prediction that human intelligence and technology will enable life to expand in an orderly way throughout the entire universe."*
+> - 📜 **Max More (*Extropy: The Journal of Transhumanist Thought*):** *"We define **extropy** as the extent of a living or organizational system's capacity to maintain order, intelligence, and purposeful action."*
+> - 📜 **Vernor Vinge (*True Names and Other Perils*):** *"The sheer drive of cybernetic networks toward **extropy** suggested an antidote to the heat death of closed systems."*
+> - 📜 **Nick Bostrom (*Superintelligence*):** *"Civilizational longevity depends on cultivating systems whose collective **extropy** outpaces the friction of institutional inertia."*

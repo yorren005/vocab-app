@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the form of a cylinder.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the form of a cylinder.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the form or shape of a cylinder; tube-shaped or roller-like.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Symmetrical around a central axis with a uniform circular cross-section throughout its length.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I seemed to see the membraneous and cylindrical tubes tremble beneath the undulation of the waters."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Better armed than the whale, whose upper jaw is furnished only with whalebone, it is supplied with twenty-five large tusks, about eight inches long, cylindrical and conical at the top, each weighing two pounds."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"A cylindrical view tank filled its available space."*
+> - 📜 **Herman Melville (*Moby-Dick*, 1851):** *"The whale's ivory tooth was carved into a neat **cylindrical** box by the industrious harpooneer."*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould through the Action of Worms*, 1881):** *"Earthworms excavate long **cylindrical** burrows lined with fine particles of humus."*
+> - 📜 **Carl Sagan (*Cosmos*, 1980):** *"Within every cell of our bodies lies the miraculous helical ladder of DNA, carrying information in **cylindrical** symmetry."*

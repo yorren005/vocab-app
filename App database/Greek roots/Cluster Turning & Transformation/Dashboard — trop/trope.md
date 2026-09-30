@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A word or expression used in a figurative sense : figure of speech.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A word or expression used in a figurative sense : figure of speech.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A figurative or metaphorical use of a word or expression, such as metaphor, metonymy, or hyperbole, turning a term from its literal meaning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A conventional, overused, or recurrent theme, motif, or storytelling device in literature, cinema, or popular culture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Pure religion enthroned Through trope and metaphor, the Revelator, immortal scribe of Spirit and of a true idealism, furnishes the 571:24 mirror in which mortals may see their own image."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The bitter check had wrung from me some tears; and now, as I sat poring over the crabbed characters and flourishing tropes of an Indian scribe, my eyes filled again."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Craigdarroch led a light-arm’d core, Tropes, metaphors, and figures pour, Like Hecla streaming thunder: Glenriddel, skill’d in rusty coins, Blew up each Tory’s dark designs, And bared the treason under."*
+> - 📜 **Quintilian (*Institutio Oratoria*):** *"By a **trope** is meant the artistic alteration of a word or phrase from its proper meaning to another."*
+> - 📜 **Samuel Johnson (*The Lives of the Poets*):** *"Cowley sought out every strained conceit and metaphysical **trope** that could astonish rather than persuade."*
+> - 📜 **Harold Bloom (*The Anxiety of Influence*):** *"Every strong poet swerves away from their precursor through an audacious and revisionary poetic **trope**."*

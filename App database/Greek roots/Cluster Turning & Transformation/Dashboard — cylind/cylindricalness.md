@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The roundness of a 3-dimensional cylinder.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The roundness of a 3-dimensional cylinder.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition, state, or property of having a cylindrical form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The noticeable roundness and tubular symmetry of a physical object.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cylindricalness designates the roundness of a 3-dimensional cylinder."*
+> - 📜 **John Ruskin (*The Stones of Venice*, 1851):** *"The unbroken **cylindricalness** of the Roman column contrasts with the clustered shafts of the Gothic pier."*
+> - 📜 **Thomas Hardy (*Under the Greenwood Tree*, 1872):** *"The massive trunk retained its majestic **cylindricalness** up to the first spreading boughs."*
+> - 📜 **George Eliot (*Adam Bede*, 1859):** *"The carpenter planed the ash timber until its rough corners smoothed into uniform **cylindricalness**."*

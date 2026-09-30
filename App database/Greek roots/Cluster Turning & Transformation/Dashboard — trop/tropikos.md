@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek trop.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Turning & Transformation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Ancient Greek adjective meaning 'pertaining to a turning', 'of the solstice', or 'figurative', the etymological progenitor of modern words such as *tropic*, *tropical*, and *trope*.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical rhetoric and astronomy, designating the turning points of the celestial sun or metaphorical conversions of speech.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tropikos designates a term designating an entity, condition, or phenomenon derived from greek trop."*
+> - 📜 **Aristotle (*Rhetoric*):** *"The ancient masters observed how **tropikos** usage imparts elegance and vividness by turning language from its everyday path."*
+> - 📜 **Ptolemy (*Almagest*):** *"The circles named **tropikos** mark the celestial parallels where the sun halts its declination and begins its return."*
+> - 📜 **Henry George Liddell & Robert Scott (*A Greek-English Lexicon*):** *"The entry for **tropikos** records its primary sense of turning or solstice, branching into rhetorical metaphor and change."*

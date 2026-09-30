@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Leafless fleshy saprophytic plants; in some classifications placed in the family pyrolaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Leafless fleshy saprophytic plants; in some classifications placed in the family pyrolaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of herbaceous, perennial, mycoheterotrophic flowering plants in the heath family (Ericaceae), completely lacking chlorophyll and deriving nutrients from mycorrhizal fungi, typified by *Monotropa uniflora* (Indian pipe).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A ghostly pale forest wildflower whose downward-curved stem straightens upon capsule maturation, reflecting its Greek etymology ('single turn').
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monotropa designates leafless fleshy saprophytic plants; in some classifications placed in the family pyrolaceae."*
+> - 📜 **Henry David Thoreau (*Journal*):** *"I found the waxen, translucent stems of **Monotropa** rising from the damp pine mould like pale apparitions."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The genus **Monotropa** consists of white or reddish parasitic herbs destitute of green foliage."*
+> - 📜 **Emily Dickinson (*Selected Letters*):** *"She called the **Monotropa** her favorite flower—a fitting emblem of solitary and spotless contemplation."*

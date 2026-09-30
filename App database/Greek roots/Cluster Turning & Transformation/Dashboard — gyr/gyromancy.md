@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek gyr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Turning & Transformation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of divination in which a person walks or spins around a circle inscribed with the letters of the alphabet until collapsing from dizziness, the fallen position indicating an omen or message.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ancient and medieval mantic practice relying upon vertigo and involuntary bodily collapse to divine future events.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gyromancy designates a term designating an entity, condition, or phenomenon derived from greek gyr."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*, 1621):** *"The superstitious practitioner had recourse to **gyromancy**, spinning in circles till he fell giddy upon the letters of destiny."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*, 1646):** *"Ancient augurs practiced **gyromancy**, deriving omens from the erratic fall of dizzy performers upon the inscribed floor."*
+> - 📜 **Walter Scott (*The Antiquary*, 1816):** *"The village conjurer muttered strange incantations, pretending to reveal lost treasure through the dark art of **gyromancy**."*

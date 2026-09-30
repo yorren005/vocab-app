@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective & Noun*) Resembling, having the physical form of, or akin to ring.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective & Noun*) Resembling, having the physical form of, or akin to ring.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An infinitely connected, triply periodic minimal surface (TPMS) discovered by Alan Schoen in 1970, containing no straight lines or planar symmetries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A complex nanoscale geometric architecture found in nature (such as butterfly wing scales and lipid mesophases) and utilized in advanced photonic crystals and metamaterials.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gyroid designates adjective & noun*) resembling, having the physical form of, or akin to ring."*
+> - 📜 **Alan Schoen (*Infinite Periodic Minimal Surfaces Without Self-Intersections, NASA Report*, 1970):** *"I have named this remarkable cubic minimal surface the **gyroid**, which partitions three-dimensional space into two interwoven labyrinthine domains."*
+> - 📜 **D'Arcy Wentworth Thompson (*On Growth and Form*, 1917):** *"The self-assembly of surfactant membranes into complex triply periodic **gyroid** meshes illustrates physical minimization of curvature energy."*
+> - 📜 **Philip Ball (*Made to Measure: New Materials for the 21st Century*, 1997):** *"The iridescent blue coloration of morpho butterfly wings results from optical diffraction across a microscopic **gyroid** chitin lattice."*

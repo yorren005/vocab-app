@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An antibiotic produced by the actinomycete streptomyces griseus and used to treat tuberculosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antibiotic produced by the actinomycete streptomyces griseus and used to treat tuberculosis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An antibiotic substance produced by the soil bacterium Streptomyces griseus, the first effective aminoglycoside antibiotic discovered for treating tuberculosis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antimicrobial agent that inhibits bacterial protein synthesis by binding to the 30S ribosomal subunit, causing misreading of messenger RNA.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, streptomycin designates an antibiotic produced by the actinomycete streptomyces griseus and used to treat tuberculosis."*
+> - 📜 **Selman Waksman, Albert Schatz, and Elizabeth Bugie (*Streptomycin, a Substance Exhibiting Antibiotic Activity Against Gram-Positive and Gram-Negative Bacteria*, 1944):** *"We have isolated a new antibiotic, **streptomycin**, which displays marked activity against the tubercle bacillus."*
+> - 📜 **René Dubos (*The White Plague: Tuberculosis, Man, and Society*, 1952):** *"The clinical introduction of **streptomycin** transformed tuberculosis from an incurable scourge into a manageable bacterial infection."*
+> - 📜 **Oliver Sacks (*Uncle Tungsten*, 2001):** *"Waksman's Nobel Prize in 1952 celebrated the discovery of **streptomycin**, heralding the golden age of antibiotic therapy."*

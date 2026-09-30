@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek cylind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Turning & Transformation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A benign adnexal skin tumor typically presenting as smooth, pink nodules on the scalp, known clinically as a 'turban tumor' when multiple.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An uncommon neoplasm of eccrine/apocrine or salivary origin characterized histologically by nests of basaloid cells surrounded by thick basement membrane hyaline sheaths.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cylindroma designates a term designating an entity, condition, or phenomenon derived from greek cylind."*
+> - 📜 **Theodor Billroth (*General Surgical Pathology and Therapeutics*, 1863):** *"Billroth first identified the histological structure of the **cylindroma**, noting the cylinders of hyaline material enclosing epithelial nests."*
+> - 📜 **Jonathan Hutchinson (*Illustrations of Clinical Surgery*, 1878):** *"Multiple familial lesions of **cylindroma** covered the scalp like an uninterrupted turban of nodules."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*, 1901):** *"Histological examination of the salivary **cylindroma** demonstrates classic cylinders of myxoid matrix."*

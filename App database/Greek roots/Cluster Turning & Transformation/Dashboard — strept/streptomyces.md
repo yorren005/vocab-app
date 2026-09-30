@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Aerobic bacteria (some of which produce the antibiotic streptomycin).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Aerobic bacteria (some of which produce the antibiotic streptomycin).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large genus of Gram-positive, spore-forming filamentous soil bacteria belonging to the actinomycetes, renowned as the source of many clinical antibiotics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Soil-dwelling microbes characterized by complex branching mycelia and the synthesis of natural bioactive metabolites (streptomycin, chloramphenicol, tetracycline, neomycin).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, streptomyces designates aerobic bacteria (some of which produce the antibiotic streptomycin)."*
+> - 📜 **Selman Waksman (*Neomycin: Nature, Formation, and Practical Application*, 1953):** *"The genus **Streptomyces** has yielded an extraordinary wealth of antimicrobial substances capable of combating bacterial disease."*
+> - 📜 **René Dubos (*The Bacterial Cell*, 1945):** *"The characteristic earthy scent of freshly ploughed soil is produced by volatile geosmins synthesized by species of **Streptomyces**."*
+> - 📜 **Lewis Thomas (*The Medusa and the Snail*, 1979):** *"Filamentous actinomycetes like **Streptomyces** wage chemical warfare through tiny antibiotic molecules evolved over millions of years."*

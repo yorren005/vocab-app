@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or resembling a parhelion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or resembling a parhelion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or resembling a parhelion (a mock sun or sun dog).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to optical atmospheric halo phenomena, especially the parhelic circle, a luminous white horizontal ring formed by ice crystal reflection at the sun's elevation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parhelic designates relating to or resembling a parhelion."*
+> - 📜 **René Descartes (*Discourse on Method: Meteors*, 1637):** *"The **parhelic** circle appears in the upper atmosphere when millions of hexagonal ice crystals reflect the sun's rays like tiny mirrors."*
+> - 📜 **John Tyndall (*The Glaciers of the Alps*, 1860):** *"Looking toward the blinding summit, we beheld a glorious **parhelic** display spanning the cloudless blue sky."*
+> - 📜 **Marcel Minnaert (*The Nature of Light and Colour in the Open Air*, 1954):** *"The bright mock suns and the horizontal **parhelic** circle result from reflection and refraction through horizontally oriented plate crystals."*

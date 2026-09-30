@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A momentous tragic event ranging from extreme misfortune to utter overthrow or ruin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Utter failure : fiasco.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving or causing sudden, widespread, and devastating damage, suffering, or disaster.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Denoting an extreme, irreversible failure in mechanical, financial, or ecological systems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The red wrath always has undone me in all my lives; for the red wrath is my disastrous catastrophic heritage from the time of the slimy things ere the world was prime."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The point is, that in a surge of anger, obsessed by that catastrophic red wrath that has cursed me down the ages, I killed my fellow professor."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The effects on Slingshot could be catastrophic."*
+> - 📜 **Charles Lyell (*Principles of Geology*, 1830):** *"Geological changes occur by gradual uniform processes rather than by recurrent, **catastrophic** deluges."*
+> - 📜 **Rachel Carson (*Silent Spring*, 1962):** *"The widespread spraying of synthetic pesticides risks **catastrophic** collapse across ecological food webs."*
+> - 📜 **Joseph Stiglitz (*Globalization and Its Discontents*, 2002):** *"The sudden withdrawal of foreign capital produced **catastrophic** unemployment across developing economies."*

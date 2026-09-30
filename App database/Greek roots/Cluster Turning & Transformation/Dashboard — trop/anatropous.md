@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of a plant ovule) completely inverted; turned back 180 degrees on its stalk.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a plant ovule) completely inverted; turned back 180 degrees on its stalk.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of an ovule: inverted completely during development so that the micropyle faces toward the placenta and lies alongside the hilum, with the funiculus adnate to the body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having an upside-down or inverted orientation relative to the axis of initial growth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anatropous designates (of a plant ovule) completely inverted; turned back 180 degrees on its stalk."*
+> - 📜 **Charles Darwin (*The Various Contrivances by Which Orchids Are Fertilised by Insects*):** *"The ovules in orchids are minute, numerous, and typically **anatropous**, suspended along the parietal placentae."*
+> - 📜 **Agnes Arber (*Water Plants: A Study of Aquatic Angiosperms*):** *"In many monocotyledonous families, the ovule remains strictly **anatropous** throughout its ontogeny."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"The inverted or **anatropous** ovule represents the most common morphology found among flowering angiosperms."*

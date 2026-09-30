@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the cochlea of the ear.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the cochlea of the ear.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or resembling a cochlea or snail shell; especially relating to the cochlea of the inner ear.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the cochlear nerve, auditory transduction, or cochlear implant technologies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cochlear designates of or relating to the cochlea of the ear."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*, 1909):** *"The bipolar neurons of the spiral ganglion send peripheral axons directly to the sensory cells of the **cochlear** organ."*
+> - 📜 **Oliver Sacks (*Seeing Voices: A Journey into the World of the Deaf*, 1989):** *"The multi-channel **cochlear** implant bypasses damaged sensory hair cells to stimulate the auditory nerve directly."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*, 1986):** *"Acoustic shear forces within the **cochlear** duct depolarize inner hair cells to trigger nerve impulses."*

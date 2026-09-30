@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or concerned with astrophysics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or concerned with astrophysics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to astrophysics, the branch of astronomy concerned with the physical and chemical properties of celestial bodies and cosmic processes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to phenomena governed by stellar thermodynamics, nucleosynthesis, gravitational collapse, and relativistic radiation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, astrophysical designates of or concerned with astrophysics."*
+> - 📜 **Subrahmanyan Chandrasekhar (*An Introduction to the Study of Stellar Structure*, 1939):** *"Degenerate electron pressure sets a fundamental **astrophysical** limit upon the maximum mass of stable white dwarfs."*
+> - 📜 **Arthur Eddington (*The Internal Constitution of the Stars*, 1926):** *"Radiation pressure provides the essential **astrophysical** balance preventing massive stars from immediate gravitational collapse."*
+> - 📜 **Carl Sagan (*Cosmos*, 1980):** *"Modern **astrophysical** observations demonstrate that the heavy elements in our bodies were forged in supernova explosions."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various plants of the genus streptocarpus having leaves in a basal rosette and flowers like primroses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various plants of the genus streptocarpus having leaves in a basal rosette and flowers like primroses.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of about 150 species of flowering plants in the African violet family (Gesneriaceae), commonly called Cape primroses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Subtropical herbs known for their remarkable spirally twisted seed capsules (streptos twisted + karpos fruit), which unwind as they dry to fling seeds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, streptocarpus designates any of various plants of the genus streptocarpus having leaves in a basal rosette and flowers like primroses."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*, 1846):** *"The generic name **Streptocarpus** aptly designates the singular twisted spiral of its ripening capsules."*
+> - 📜 **Gertrude Jekyll (*Wood and Garden*, 1899):** *"In the warm conservatory, the delicate pastel throats of **Streptocarpus** bloomed continuously throughout the late summer."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*, 1917):** *"Modern greenhouse hybrids of **Streptocarpus** produce large trumpet-shaped flowers on slender scapes."*

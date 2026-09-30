@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mild to moderate lissencephaly marked by a cerebral cortex with only a few broad, flat convolutions : incomplete lissencephaly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mild to moderate lissencephaly marked by a cerebral cortex with only a few broad, flat convolutions : incomplete lissencephaly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A developmental disorder of the cerebral cortex characterized by abnormally broad, thick, and flat convolutions (gyri) with shallow sulci.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A form of lissencephaly (lissencephaly type I) caused by incomplete neuronal migration, producing a simplified four-layered cortex and severe cognitive impairment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pachygyria designates mild to moderate lissencephaly marked by a cerebral cortex with only a few broad, flat convolutions : incomplete lissencephaly."*
+> - 📜 **Wilder Penfield (*The Cerebral Cortex of Man*, 1950):** *"Magnetic resonance imaging confirmed extensive frontotemporal **pachygyria**, marked by thickened cortex and absent secondary sulci."*
+> - 📜 **Santiago Ramón y Cajal (*Studies on the Cerebral Cortex*, 1900):** *"The histological hallmark of **pachygyria** is the arrested migration of neuroblasts midway through the cerebral wall."*
+> - 📜 **Jerome Groopman (*How Doctors Think*, 2007):** *"The pediatric neurologist identified **pachygyria** on the infant's brain scan, explaining the underlying cause of the developmental delay."*

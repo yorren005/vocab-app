@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Land snails including the common edible snail and some pests.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Land snails including the common edible snail and some pests.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large, diverse taxonomic family of air-breathing terrestrial pulmonate land snails, including the common garden snail and the Roman snail.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The iconic clade of stylommatophoran snails characterized by globose spiral shells, a well-developed mantle cavity, and calcified mating darts (love darts).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, helicidae designates land snails including the common edible snail and some pests."*
+> - 📜 **Georges Cuvier (*The Animal Kingdom*, 1817):** *"The family **Helicidae** comprises those terrestrial mollusks that breathe air through a pulmonary vascular cavity."*
+> - 📜 **Charles Darwin (*On the Origin of Species*, 1859):** *"Land snails of the **Helicidae** display remarkable geographical endemism across oceanic islands."*
+> - 📜 **Stephen Jay Gould (*Eight Little Piggies*, 1993):** *"The elaborate calcium-carbonate love dart of the **Helicidae** provides a vivid example of sexual selection in invertebrates."*

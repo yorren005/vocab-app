@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Booklice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Booklice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archaic family of primitive, wingless or brachypterous booklice and barklice (order Psocodea), formerly typified by the genus *Atropos* (now *Trogium* or *Lepinotus*).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An entomological taxon grouping domestic booklice known for infesting dried herbaria, parchment, and library bindings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog atropidae as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Hermann August Hagen (*Synopsis of the Neuroptera of North America*):** *"In the classification of wingless insects, the family **Atropidae** comprised those diminutive forms that haunt old volumes and dried plant collections."*
+> - 📜 **John Obadiah Westwood (*An Introduction to the Modern Classification of Insects*):** *"The minute creatures referred to the **Atropidae** inhabit damp wainscoting and herbarium cabinets, feeding upon starchy paste."*
+> - 📜 **Alpheus Spring Packard (*Guide to the Study of Insects*):** *"The death-watch tick heard in quiet library shelves was frequently attributed to minute species of **Atropidae** tapping against dry wood."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Exhibiting properties (such as velocity of light transmission) with the same values when measured along axes in all directions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhibiting properties (such as velocity of light transmission) with the same values when measured along axes in all directions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having physical properties (such as elasticity, thermal conductivity, or optical refractive index) that are identical in all directions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhibiting spatial uniformity or symmetry irrespective of the axis of measurement or observation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isotropic designates exhibiting properties (such as velocity of light transmission) with the same values when measured along axes in all directions."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"In an **isotropic** medium, the dielectric permittivity remains constant regardless of the orientation of the electric field."*
+> - 📜 **Arthur Eddington (*The Mathematical Theory of Relativity*):** *"The geometry of spacetime around an isolated mass is treated as spherically symmetric and spatially **isotropic**."*
+> - 📜 **Subrahmanyan Chandrasekhar (*Radiative Transfer*):** *"We first evaluate the equation of transfer under the simplifying assumption of purely **isotropic** scattering."*

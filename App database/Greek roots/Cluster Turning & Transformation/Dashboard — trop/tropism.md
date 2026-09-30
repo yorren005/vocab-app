@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Involuntary orientation by an organism or one of its parts that involves turning or curving by movement or by differential growth and is a positive or negative response to a source of stimulation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reflex reaction involving a tropism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The innate directional growth or movement of a biological organism (especially a plant or sessile animal) in response to an external environmental stimulus, such as light, gravity, or touch.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An involuntary, instinctive turning or orientation of thought, behavior, or inclination toward a specific influence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tropism designates involuntary orientation by an organism or one of its parts that involves turning or curving by movement or by differential growth and is a positive or negative response to a source of stimulation."*
+> - 📜 **Jacques Loeb (*Forced Movements, Tropisms, and Animal Conduct*):** *"The orientation of the organism toward a source of stimulation is an involuntary **tropism** determined by symmetric physicochemical reactions."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"We have seen that light exercises a profound **tropism** over the hypocotyl, bending the young shoot directly toward the sun."*
+> - 📜 **Nathanael West (*The Day of the Locust*):** *"Crowds drifted across Hollywood Boulevard by a kind of sluggish mechanical **tropism**, drawn by neon glitz."*

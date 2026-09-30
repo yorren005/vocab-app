@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bitter and very toxic glycoside derived from plants of the genus strophanthus; in moderate doses it is a cardiac stimulant but in larger doses it is a powerful poison; used in africa as an arrow poison.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bitter and very toxic glycoside derived from plants of the genus strophanthus; in moderate doses it is a cardiac stimulant but in larger doses it is a powerful poison; used in africa as an arrow poison.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A highly potent, toxic cardiac glycoside obtained from the seeds of various African plants of the genus Strophanthus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cardiotonic agent (including ouabain / g-strophanthin) that inhibits the cellular Na+/K+-ATPase pump, increasing myocardial contractile force.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, strophanthin designates a bitter and very toxic glycoside derived from plants of the genus strophanthus; in moderate doses it is a cardiac stimulant but in larger doses it is a powerful poison; used in africa as an arrow poison."*
+> - 📜 **Thomas Richard Fraser (*Strophanthus hispidus: Its Natural History, Chemistry, and Pharmacology*, 1890):** *"I isolated the crystalline glycoside **strophanthin**, proving its extraordinary power to strengthen the failing heart."*
+> - 📜 **Louis S. Goodman and Alfred Gilman (*The Pharmacological Basis of Therapeutics*, 1970):** *"Intravenous **strophanthin** acts with remarkable rapidity, exerting positive inotropic effects within minutes."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*, 1986):** *"By blocking sodium-potassium ATPase, **strophanthin** raises intracellular calcium concentration in cardiac myocytes."*

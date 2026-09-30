@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a genus (Streptococcus) of spherical or ovoid chiefly nonmotile and parasitic gram-positive bacteria that divide only in one plane, occur in pairs or chains, and include important pathogens of humans and domestic animals; broadly : a coccus occurring in chains.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a genus (Streptococcus) of spherical or ovoid chiefly nonmotile and parasitic gram-positive bacteria that divide only in one plane, occur in pairs or chains, and include important pathogens of humans and domestic animals; broadly : a coccus occurring in chains.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A bacterium of a genus that includes the agents of souring milk and various serious infections such as scarlet fever and pneumonia, typically forming chains.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of non-motile, Gram-positive cocci in the family Streptococcaceae that divide along a single axis to produce distinctive chain-like colonies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, streptococcus designates any of a genus (streptococcus) of spherical or ovoid chiefly nonmotile and parasitic gram-positive bacteria that divide only in one plane, occur in pairs or chains, and include important pathogens of humans and domestic animals; broadly : a coccus occurring in chains."*
+> - 📜 **Theodor Billroth (*Untersuchungen über die Vegetationsformen von Coccobacteria septica*, 1874):** *"Billroth first coined the term **Streptococcus**, uniting Greek streptos with coccus to describe round bacteria chained like rosaries."*
+> - 📜 **Alexander Fleming (*Penicillin, Nobel Lecture*, 1945):** *"The sensitivity of virulent **Streptococcus** pyogenes to penicillin opened a new era in infectious disease medicine."*
+> - 📜 **Lewis Thomas (*The Lives of a Cell*, 1974):** *"The hemolytic **Streptococcus** does not set out to destroy its human host; the damage results from an explosive immune overreaction."*

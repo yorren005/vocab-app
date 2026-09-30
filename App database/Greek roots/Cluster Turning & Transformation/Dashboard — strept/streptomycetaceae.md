@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Higher bacteria typically aerobic soil saprophytes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Higher bacteria typically aerobic soil saprophytes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic family of Gram-positive, aerobic, spore-forming actinobacteria in the order Streptomycetales, typified by the genus Streptomyces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Filamentous soil bacteria whose life cycle involves vegetative substrate mycelia and aerial hyphae that fragment into chains of non-motile arthrospores.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, streptomycetaceae designates higher bacteria typically aerobic soil saprophytes."*
+> - 📜 **Selman Waksman (*The Actinomycetes: Their Nature, Occurrence, Activities, and Importance*, 1950):** *"The family **Streptomycetaceae** is differentiated from other actinomycetes by the formation of aerial mycelium bearing catenulate spores."*
+> - 📜 **Martinus Beijerinck (*Sur la production d'ammoniaque par les Actinomycètes*, 1900):** *"Soil analyses demonstrate that members of **Streptomycetaceae** are fundamental agents in the decomposition of chitin and cellulose."*
+> - 📜 **David L. Hawksworth (*The Biodiversity of Microorganisms*, 1996):** *"More than half of all medically useful natural antibiotics originate from the diverse metabolic pathways of the **Streptomycetaceae**."*

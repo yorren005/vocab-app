@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek gyr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Turning & Transformation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A spherical casing containing a spinning gyroscope, especially one floating freely in liquid within a gyrocompass to minimize friction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The spherical sensitive element of a marine gyrocompass (such as the Sperry or Anschütz gyrocompass) that aligns with true geographical north.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gyrosphere designates a term designating an entity, condition, or phenomenon derived from greek gyr."*
+> - 📜 **Elmer Sperry (*The Gyrocompass: Its Development and Principles*, 1910):** *"The hermetically sealed **gyrosphere** floats in a mercurial bath, isolating the spinning wheel from hull vibrations."*
+> - 📜 **C. S. Forester (*The Good Shepherd*, 1955):** *"The master compass deep in the ship hummed smoothly, its floating **gyrosphere** pointing steadily toward true north."*
+> - 📜 **Arthur C. Clarke (*Rendezvous with Rama*, 1973):** *"The crew maneuvered inside the artificial gravity hub, guided by the central **gyrosphere** display."*

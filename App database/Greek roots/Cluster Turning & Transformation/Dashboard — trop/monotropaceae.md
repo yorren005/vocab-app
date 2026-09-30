@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used in some classification for saprophytic herbs sometimes included in the family pyrolaceae: genera monotropa and sarcodes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used in some classification for saprophytic herbs sometimes included in the family pyrolaceae: genera monotropa and sarcodes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A former family of achlorophyllous, parasitic or saprophytic flowering plants, now classified as the subfamily Monotropoideae within the Ericaceae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A botanical family grouping mycoheterotrophic woodland herbs that partner with subterranean fungal mycelia to nourish their translucent shoots.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monotropaceae designates used in some classification for saprophytic herbs sometimes included in the family pyrolaceae: genera monotropa and sarcodes."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The **Monotropaceae** are singular leafless herbs of brownish or white hue, parasitic on the roots of beech and pine trees."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"The lack of chlorophyll among members of **Monotropaceae** reflects their specialized nutritional reliance upon subterranean associations."*
+> - 📜 **Nathaniel Lord Britton (*An Illustrated Flora of the Northern United States*):** *"Plants of the family **Monotropaceae** bear scaly stems terminated by solitary or clustered nodding flowers."*

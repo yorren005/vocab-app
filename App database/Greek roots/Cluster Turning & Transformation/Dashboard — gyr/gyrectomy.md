@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek gyr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Turning & Transformation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical excision or resection of one or more cerebral gyri from the brain cortex.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A historical psychosurgical or epileptological operative procedure used to treat intractable focal epilepsy or severe psychiatric disorders.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gyrectomy designates a term designating an entity, condition, or phenomenon derived from greek gyr."*
+> - 📜 **Wilder Penfield (*Surgical Therapy of Focal Epilepsy*, 1936):** *"Subpial **gyrectomy** of the epileptogenic focus eliminated seizure activity without producing collateral neurological deficits."*
+> - 📜 **John Farquhar Fulton (*Functional Localization in the Frontal Lobes and Cerebellum*, 1949):** *"Bilateral prefrontal **gyrectomy** demonstrated profound alterations in primate affective reactivity and social behavior."*
+> - 📜 **Walter Freeman and James W. Watts (*Psychosurgery*, 1950):** *"Selective **gyrectomy** was attempted as a refined surgical alternative to crude lobotomy in refractory psychoses."*

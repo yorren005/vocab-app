@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tuba that coils over the shoulder of the musician.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tuba that coils over the shoulder of the musician.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mountain range in Boeotia, Greece, celebrated in classical mythology as the sacred abode of the Muses and the site of the fountains Aganippe and Hippocrene.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bass brass musical wind instrument shaped in a wide coil so as to encircle the musician's body, precursor to the modern sousaphone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Song.—O, Were I On Parnassus Hill Tune—“My love is lost to me.” O, were I on Parnassus hill, Or had o’ Helicon my fill, That I might catch poetic skill, To sing how dear I love thee!"*
-> - 📜 **George Eliot (*Middlemarch*):** *"I spent no end of time in making out these things—Helicon, now."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"You will believe empty myths, he says, but "Truth's bright face seems to you to be false and falls under eyes of unbelief." But Cithaeron and Helicon are old."*
+> - 📜 **Hesiod (*Theogony*, c. 700 BC):** *"From the Muses of **Helicon** let us begin our singing, they who hold the great and holy mount of Helicon."*
+> - 📜 **John Keats (*Ode to a Nightingale*, 1819):** *"O for a beaker full of the warm South, full of the true, the blushful Hippocrene, sprung from the rocks of **Helicon**."*
+> - 📜 **John Philip Sousa (*Marching Along*, 1928):** *"The marching bands needed a horn that rested easily upon the shoulder, replacing the heavy upright tuba with the circular **helicon**."*

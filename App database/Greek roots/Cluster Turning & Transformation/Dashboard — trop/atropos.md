@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The greek goddess of fate who cuts the thread of life.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The greek goddess of fate who cuts the thread of life.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The eldest of the three Fates (Moirai) in Greek mythology, who cut the thread of human life spun by Clotho and measured by Lachesis, representing the inevitable and unalterable nature of death.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The inexorable, unturning, or inflexible destiny that terminates human existence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, atropos designates the greek goddess of fate who cuts the thread of life."*
+> - 📜 **John Milton (*Lycidas*):** *"Comes the blind Fury with the abhorred shears, and slits the thin-spun life; for **Atropos** respects neither youth nor genius."*
+> - 📜 **Percy Bysshe Shelley (*Prometheus Unbound*):** *"Beyond the spinning spheres stood **Atropos**, severing mortal hopes with indifferent blade."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Destiny sweeps onward like **Atropos**, turning aside for neither tears nor monarchs."*

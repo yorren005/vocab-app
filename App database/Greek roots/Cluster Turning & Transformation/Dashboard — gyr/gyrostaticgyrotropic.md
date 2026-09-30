@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of ring.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of ring.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to media, substances, or mathematical tensors exhibiting both rotational dynamical stability (gyrostatic) and optical activity or Faraday rotation (gyrotropic).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Alternative unspaced compound denoting anisotropic electromagnetic and mechanical systems whose response tensors possess skew-symmetric rotational components.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gyrostaticgyrotropic designates adjective*) pertaining to, derived from, or characteristic of ring."*
+> - 📜 **Lord Kelvin (*Mathematical and Physical Papers*, 1890):** *"The elastic properties of a **gyrostaticgyrotropic** lattice demonstrate that hidden rotational inertia mimics elasticity."*
+> - 📜 **Lev Landau and Evgeny Lifshitz (*Statistical Physics*, 1958):** *"The kinetic coefficients in a **gyrostaticgyrotropic** system satisfy Onsager-Casimir reciprocal relations with inverted magnetic fields."*
+> - 📜 **Max Born and Emil Wolf (*Principles of Optics*, 1959):** *"Electromagnetic waves traversing a **gyrostaticgyrotropic** medium split into two orthogonal circularly polarized eigenwaves."*

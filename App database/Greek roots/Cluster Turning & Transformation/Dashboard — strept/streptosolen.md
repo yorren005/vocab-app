@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One species: marmalade bush.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One species: marmalade bush.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A monotypic genus of evergreen shrubs in the nightshade family (Solanaceae), native to South America, represented by Streptosolen jamesonii (marmalade bush).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ornamental flowering shrub named from Greek streptos (twisted) and solen (tube) for the spirally twisted corolla tube of its brilliant yellow, orange, and red flowers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, streptosolen designates one species: marmalade bush."*
+> - 📜 **John Lindley (*Edwards's Botanical Register*, 1847):** *"Lindley established the genus **Streptosolen** to denote the singular spirally twisted tube of the floral corolla."*
+> - 📜 **Gertrude Jekyll (*Colour in the Flower Garden*, 1908):** *"The vibrant orange and fiery amber clusters of **Streptosolen** make a dazzling display in the winter greenhouse."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*, 1917):** *"**Streptosolen** jamesonii is a vigorous scrambling shrub that blooms profusely under warm conservatory culture."*

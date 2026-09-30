@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of roll.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of roll.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling a cylinder or cylindrical projection without being strictly cylindrical.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cartography, denoting a class of map projections (such as the Robinson, Mollweide, or Sinusoidal projections) where parallels are straight horizontal lines and meridians are curved.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pseudocylindric designates adjective*) pertaining to, derived from, or characteristic of roll."*
+> - 📜 **Arthur H. Robinson (*Elements of Cartography*, 1953):** *"The **pseudocylindric** projection softens polar distortion by curving the meridians toward the poles."*
+> - 📜 **John P. Snyder (*Map Projections: A Working Manual*, 1987):** *"In a **pseudocylindric** grid, all parallels remain straight and parallel while meridians converge equally."*
+> - 📜 **Richard Edes Harrison (*Look at the World: The Fortune Atlas for World Strategy*, 1944):** *"Global strategic mapping often favors a **pseudocylindric** framework to present uninterrupted continental landmasses."*

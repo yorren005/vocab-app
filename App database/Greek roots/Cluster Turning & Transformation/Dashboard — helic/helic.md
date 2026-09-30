@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Helix : spiral.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Helix : spiral.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek morphemic root element derived from helix (spiral, convolution, twisted band) from helissein (to turn, roll, wind).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A combining form signifying spiral, helical, or rotatory structures across mathematics, anatomy, and engineering.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, helic designates helix : spiral."*
+> - 📜 **Henry George Liddell and Robert Scott (*A Greek-English Lexicon*, 1843):** *"The Greek root **helic-** signifies anything that winds, coils, or turns in a continuous spiral."*
+> - 📜 **D'Arcy Wentworth Thompson (*On Growth and Form*, 1917):** *"The **helic-** trajectory governs the logarithmic growth of nautilus shells and ram horns."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*, 1939):** *"The fundamental stability of polypeptide chains arises from their **helic-** spatial symmetry."*

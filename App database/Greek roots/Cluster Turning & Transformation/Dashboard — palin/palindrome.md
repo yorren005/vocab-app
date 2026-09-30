@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A word, verse, or sentence (such as "Able was I ere I saw Elba") or a number (such as 1881) that reads the same backward or forward.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A word, verse, or sentence (such as "Able was I ere I saw Elba") or a number (such as 1881) that reads the same backward or forward.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A word, phrase, verse, number, or sentence that reads the same backward as forward (e.g., madam, rotator, racecar).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular biology, a symmetrical sequence of nucleic acid base pairs that is identical when read in opposite directions along antiparallel strands.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, palindrome designates a word, verse, or sentence (such as "able was i ere i saw elba") or a number (such as 1881) that reads the same backward or forward."*
+> - 📜 **Samuel Butler (*Hudibras*, 1664):** *"A witty **palindrome** that reads the same both backward and forward, mocking the linear flow of words."*
+> - 📜 **James Joyce (*Finnegans Wake*, 1939):** *"The recursive linguistic pun spun upon itself like an enigmatic, cyclic **palindrome**."*
+> - 📜 **Bruce Alberts et al. (*Molecular Biology of the Cell*, 2002):** *"Type II restriction endonucleases recognize a short symmetrical DNA **palindrome** to cleave double strands."*

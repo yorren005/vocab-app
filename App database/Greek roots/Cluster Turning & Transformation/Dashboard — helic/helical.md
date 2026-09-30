@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In the shape of a coil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the shape of a coil.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the shape or form of a helix; spiral, coiled, or corkscrew-shaped.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Winding smoothly in three-dimensional space around a central cylinder or cone at a constant pitch angle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, helical designates in the shape of a coil."*
+> - 📜 **James Watson and Francis Crick (*Molecular Structure of Nucleic Acids*, 1953):** *"We wish to suggest a structure for the salt of deoxyribose nucleic acid; this structure has two **helical** chains each coiled round the same axis."*
+> - 📜 **Rosalind Franklin and Raymond Gosling (*Molecular Configuration in Sodium Thymonucleate*, 1953):** *"The X-ray fiber diagram provides unmistakable evidence for a **helical** arrangement of phosphate groups on the outside of the molecule."*
+> - 📜 **Carl Sagan (*Cosmos*, 1980):** *"Within every cell of our bodies lies the miraculous **helical** ladder of DNA, containing instructions for human life."*

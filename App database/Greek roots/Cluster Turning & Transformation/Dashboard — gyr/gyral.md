@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or associated with or comprising a convolution of the brain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or associated with or comprising a convolution of the brain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to a gyration or circular motion; spiral or rotatory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (In neuroanatomy) Pertaining to the gyri (convolutions) of the cerebral cortex.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gyral designates relating to or associated with or comprising a convolution of the brain."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*, 1909):** *"Pyramidal neurons in the **gyral** crests display different dendritic orientations than those deep within the sulcal floor."*
+> - 📜 **William James (*The Principles of Psychology*, 1890):** *"Electrical stimulation applied to the primary **gyral** zones of the cortex produces localized motor contractions."*
+> - 📜 **Samuel Taylor Coleridge (*The Friend*, 1818):** *"The soaring eagle traced majestic **gyral** sweeps in the azure vault above the crags."*

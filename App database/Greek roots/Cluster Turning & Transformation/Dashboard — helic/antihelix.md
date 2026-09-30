@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek helic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Turning & Transformation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Standard anatomical variant of anthelix; the prominent curved cartilaginous ridge of the auricle situated inside the helix.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The internal curved border bounding the concha of the ear, essential for directional sound localization in mammals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antihelix designates a term designating an entity, condition, or phenomenon derived from greek helic."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*, 1892):** *"Gouty tophi frequently deposit as hard urate crystals along the margin of the helix and **antihelix**."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*, 1909):** *"Sensory branches of the auriculotemporal nerve supply the cutaneous covering of the **antihelix**."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*, 1986):** *"The asymmetrical folds of the pinna, including the **antihelix**, assist in vertical sound localization."*

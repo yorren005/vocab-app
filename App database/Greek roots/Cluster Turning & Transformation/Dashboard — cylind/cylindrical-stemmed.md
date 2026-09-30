@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a cylindrical stem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a cylindrical stem.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (Of a plant or fungus) Possessing a stem that is round in cross-section and elongated like a cylinder; terete.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Botanical descriptor for species whose vegetative or reproductive stalks lack wings, grooves, or angular ridges.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cylindrical-stemmed designates having a cylindrical stem."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*, 1848):** *"The marsh reed is easily recognized by its tall, smooth, **cylindrical-stemmed** habit."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*, 1914):** *"This **cylindrical-stemmed** succulent requires minimal irrigation and withstands direct midday sunlight."*
+> - 📜 **Augustin Pyramus de Candolle (*Prodromus Systematis Naturalis Regni Vegetabilis*, 1825):** *"The specimen is distinctly **cylindrical-stemmed**, bearing solitary terminal flowers."*

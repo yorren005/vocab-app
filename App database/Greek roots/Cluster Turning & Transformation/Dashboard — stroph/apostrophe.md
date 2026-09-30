@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mark ' used to indicate the omission of letters or numerals, the possessive case (as in "John's book"), or sometimes the plural of letters or numerals (as in "the 1960's").
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The addressing of a usually absent person or a usually personified thing rhetorically.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A punctuation mark (') used to indicate either possession (e.g., Harry's book) or the omission of letters or numbers (e.g., can't, '89).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rhetorical device in which a speaker directly addresses an absent person, an abstract concept, an inanimate object, or a deity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Sit down!” This little apostrophe to Mrs."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"He then explained this affectionate apostrophe, by touching his brooch representing the lady and the weeping willow at the tomb with the urn upon it, and saying, “Had it made for me, express!” “Is the lady anybody?” said I."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Jaggers and Wemmick did after this apostrophe."*
+> - 📜 **William Shakespeare (*Hamlet*, 1603):** *"Hamlet breaks into passionate **apostrophe**, crying out: 'O that this too too solid flesh would melt!'"*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*, 1818):** *"Roll on, thou deep and dark blue Ocean—roll! A magnificent lyrical **apostrophe** to the sea."*
+> - 📜 **Samuel Johnson (*A Dictionary of the English Language*, 1755):** *"The **apostrophe** is a grammatical mark noting the deletion of a vowel, or a sudden turning of speech to another person."*

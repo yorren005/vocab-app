@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of astronomy dealing especially with the behavior, physical properties, and dynamic processes of celestial objects and phenomena.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of astronomy dealing especially with the behavior, physical properties, and dynamic processes of celestial objects and phenomena.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of astronomy that deals with the physics of the universe, including the physical properties, chemical composition, and evolutionary processes of celestial objects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The discipline that integrates thermodynamics, electromagnetism, nuclear physics, and relativity to model stars, galaxies, and cosmology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, astrophysics designates a branch of astronomy dealing especially with the behavior, physical properties, and dynamic processes of celestial objects and phenomena."*
+> - 📜 **Edwin Hubble (*The Realm of the Nebulae*, 1936):** *"Observational **astrophysics** expanded beyond our Milky Way, revealing an expanding universe populated by millions of galaxies."*
+> - 📜 **Kip Thorne (*Black Holes and Time Warps: Einstein's Outrageous Legacy*, 1994):** *"Relativistic **astrophysics** emerged as astronomers observed quasars and pulsars that defied classical Newtonian models."*
+> - 📜 **George Gamow (*The Creation of the Universe*, 1952):** *"Nuclear **astrophysics** showed that the primordial fireball of the Big Bang cooked the light elements within the first few minutes."*

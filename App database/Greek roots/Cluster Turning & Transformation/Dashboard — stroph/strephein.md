@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek stroph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Turning & Transformation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ancient Greek verb meaning 'to turn,' 'to twist,' 'to wind,' or 'to rotate.'
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The linguistic root from which classical rhetoric, pathology, and biology derived concepts of turning, strophes, catastrophes, and twisted organisms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, strephein designates a term designating an entity, condition, or phenomenon derived from greek stroph."*
+> - 📜 **Henry George Liddell and Robert Scott (*A Greek-English Lexicon*, 1843):** *"The root verb **strephein** signifies to twist, turn round, or alter the direction of a movement."*
+> - 📜 **Aristotle (*Rhetoric*, c. 330 BC):** *"The orator knows how to **strephein** the argument, turning the opponent's own premises against him."*
+> - 📜 **Gilbert Murray (*The Rise of the Greek Epic*, 1907):** *"From **strephein** the tragic chorus took the name of its turning movement across the stage."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rotary-wing aircraft that employs a propeller for forward motion and a freely rotating rotor for lift.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rotary-wing aircraft that employs a propeller for forward motion and a freely rotating rotor for lift.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A type of aircraft that derives lift from an unpowered, freely rotating overhead rotor (autorotation) while forward thrust is provided by an engine-driven propeller.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An early rotary-wing aircraft invented by Juan de la Cierva in 1923, precursor to the modern helicopter and autogyro/gyrocopter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, autogyro designates a rotary-wing aircraft that employs a propeller for forward motion and a freely rotating rotor for lift."*
+> - 📜 **Juan de la Cierva (*Engineering Wonders of the World*, 1930):** *"The **autogyro** achieves safe, stall-proof flight by relying upon autorotation of freely spinning articulated rotor blades."*
+> - 📜 **Antoine de Saint-Exupéry (*Night Flight*, 1931):** *"The experimental **autogyro** descended almost vertically, touching the grass with the gentleness of a falling leaf."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*, 1933):** *"Fleets of lightweight **autogyro** craft patrolled the transport corridors between regional city complexes."*

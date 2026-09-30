@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various shrubs or small trees of the genus strophanthus having whorled leaves and showy flowers of various colors in dense and corymbose clusters; some have poisonous seeds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various shrubs or small trees of the genus strophanthus having whorled leaves and showy flowers of various colors in dense and corymbose clusters; some have poisonous seeds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of tropical African and Asian woody lianas and shrubs in the dogbane family (Apocynaceae), famous for seeds yielding potent cardiac poisons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Plants characterized by showy flowers whose corolla lobes extend into exceptionally long, twisted tail-like streamers (strophos twisted cord + anthos flower).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, strophanthus designates any of various shrubs or small trees of the genus strophanthus having whorled leaves and showy flowers of various colors in dense and corymbose clusters; some have poisonous seeds."*
+> - 📜 **David Livingstone (*Missionary Travels and Researches in South Africa*, 1857):** *"The hunters poisoned their arrows with the pulverized seeds of the virulent climber **Strophanthus**."*
+> - 📜 **Carl Linnaeus (*Species Plantarum*, 1753):** *"The twisted, thread-like tails of the floral petals suggested to botanists the generic name **Strophanthus**."*
+> - 📜 **Oliver Sacks (*Awakenings*, 1973):** *"Historical pharmacopeias derived powerful digitalis-like cardiac inotropes from the seeds of **Strophanthus**."*

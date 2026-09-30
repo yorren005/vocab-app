@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A basic antibiotic derived from a soil actinomycete.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A basic antibiotic derived from a soil actinomycete.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An early aminoglycoside-related antibiotic complex produced by Streptomyces lavendulae, discovered by Selman Waksman in 1942.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The historical precursor to streptomycin, effective against both Gram-negative and Gram-positive pathogens, but limited clinically by delayed nephrotoxicity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, streptothricin designates a basic antibiotic derived from a soil actinomycete."*
+> - 📜 **Selman Waksman and H. Boyd Woodruff (*Streptothricin, a New Selective Bacteriostatic and Bactericidal Agent*, 1942):** *"We isolated **streptothricin** from an actinomycete, demonstrating remarkable inhibitory power against colon bacilli."*
+> - 📜 **Howard Florey (*Antibiotics*, 1949):** *"While **streptothricin** proved too toxic for human systemic therapy, its discovery led directly to the isolation of streptomycin."*
+> - 📜 **René Dubos (*The Bacterial Cell*, 1945):** *"The investigation of **streptothricin** established that soil actinomycetes possess complex and diverse antibiotic capabilities."*

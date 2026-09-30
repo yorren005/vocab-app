@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek exo.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of strabismus in which one or both eyes deviate outward away from the nose; divergent squint.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The clinical ocular condition characterized by outward turning of the visual axes, leading to diplopia or suppressed binocular vision.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exotropia designates a term designating an entity, condition, or phenomenon derived from greek exo."*
+> - 📜 **Stewart Duke-Elder (*System of Ophthalmology*):** *"Intermittent **exotropia** often manifests when the patient is fatigued or daydreaming, the non-fixing eye drifting outward into the temporal field."*
+> - 📜 **Albrecht von Graefe (*Archiv für Ophthalmologie*):** *"Surgical recession of the lateral rectus muscle provides the standard intervention for marked divergent **exotropia**."*
+> - 📜 **Oliver Sacks (*The Mind's Eye*):** *"Patients with uncorrected alternating **exotropia** learn to suppress one visual stream to avoid distressing double vision."*

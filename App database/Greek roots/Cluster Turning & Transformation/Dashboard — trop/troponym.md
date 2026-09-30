@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek onym.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Speech & Language.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A verb that expresses a specific, manner-elaborated way of performing the action of a more general verb (e.g., 'strut' and 'amble' are troponyms of 'walk'; 'whisper' is a troponym of 'speak').
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In relational lexical semantics (such as WordNet), a lexical unit situated in a 'manner-of' hierarchical relation to a hypernymic verb.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, troponym designates a term designating an entity, condition, or phenomenon derived from greek onym."*
+> - 📜 **George A. Miller (*WordNet: An Electronic Lexical Database*):** *"Just as hyponymy organizes nouns into a taxonomic tree, the **troponym** relation structures verbs according to specific manners of action."*
+> - 📜 **Christiane Fellbaum (*WordNet: An Electronic Lexical Database*):** *"To march is to walk in a distinct military manner; hence 'march' serves as a precise **troponym** of the base verb 'walk'."*
+> - 📜 **John Lyons (*Semantics*):** *"A **troponym** enriches verbal discourse by packaging the core predicate together with qualitative nuances of manner and intent."*

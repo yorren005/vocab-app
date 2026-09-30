@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Coextensive with the genus tropaeolum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coextensive with the genus tropaeolum.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of dicotyledonous flowering plants in the order Brassicales, comprising the genus *Tropaeolum* (garden nasturtiums), characterized by pungent peltate leaves and spurred zygomorphic flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The botanical nasturtium family, prized in horticulture for edible peppery leaves and vibrant flowers containing mustard-oil glucosides.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tropaeolaceae designates coextensive with the genus tropaeolum."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The family **Tropaeolaceae** is distinguished by its pungent juices, peltate foliage, and long nectariferous spurred calyx."*
+> - 📜 **Liberty Hyde Bailey (*Manual of Cultivated Plants*):** *"In the **Tropaeolaceae**, the trailing stems and bright spur-bearing blossoms have made them staples of ornamental cottage gardens."*
+> - 📜 **George Bentham & Joseph Dalton Hooker (*Genera Plantarum*):** *"The South American family **Tropaeolaceae** possesses an affinity with Geraniaceae, while developing unique mustard-oil chemistries."*

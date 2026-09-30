@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to extropy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to extropy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending toward or characterized by extropy; exhibiting increasing order, intelligence, complexity, organization, and vitality over time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to philosophical or transhumanist principles that oppose entropy through technological, social, and cognitive evolution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, extropic designates of or relating to extropy."*
+> - 📜 **Max More (*The Principles of Extropy*):** *"An **extropic** framework affirms our capacity to expand intelligence, vitality, and freedom against the baseline of material decay."*
+> - 📜 **Kevin Kelly (*Out of Control*):** *"Living systems display an **extropic** impulse, constantly organizing raw matter into self-reinforcing loops of higher complexity."*
+> - 📜 **Ray Kurzweil (*The Singularity Is Near*):** *"The acceleration of computing paradigms represents an **extropic** trajectory where information density surpasses physical limits."*

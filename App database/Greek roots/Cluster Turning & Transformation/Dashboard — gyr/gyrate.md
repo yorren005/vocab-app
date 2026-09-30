@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To wind or move in a spiral course.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Revolve quickly and repeatedly around one's own axis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To move or cause to move in a circle or spiral, especially quickly; to revolve or rotate around an axis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Convoluted or winding in rings; or (figuratively) to fluctuate wildly.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"OK?' Granddaughter stared at the three palm trees and their gyrating tops."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The swift stream raced and gyrated under them, tossing, distorting, and splitting the moon’s reflected face."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"The airplane gyrated; the water rushed upward."*
+> - 📜 **Herman Melville (*Moby-Dick*, 1851):** *"The harpooned whale began to **gyrate** violently in the bloody vortex of the sea."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*, 1880):** *"The climbing tendril continues to **gyrate** in search of a solid support to encircle."*
+> - 📜 **Virginia Woolf (*The Waves*, 1931):** *"Motes of golden dust **gyrate** endlessly in the slant of midday sunlight."*

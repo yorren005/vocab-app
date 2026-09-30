@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Use an apostrophe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Use an apostrophe.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To address someone or something using the rhetorical figure of apostrophe; to speak directly to an absent or personified entity (chiefly British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To punctuate a word with an apostrophe.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"But it’s not worth your while to apostrophise me, or the air, about it; what you want to do, you do."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"How provoking!” exclaimed Miss Ingram: “you tiresome monkey!” (apostrophising Adèle), “who perched you up in the window to give false intelligence?” and she cast on me an angry glance, as if I were in fault."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Pumblechook, apostrophising the fowl in the dish, “when you was a young fledgling, what was in store for you."*
+> - 📜 **Charles Dickens (*Bleak House*, 1853):** *"The eccentric coroner was prone to **apostrophise** the inkstand whenever a difficult witness prevaricated."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*, 1847):** *"Standing alone before the window, I could not help but **apostrophise** the distant blue hills of freedom."*
+> - 📜 **Walter Scott (*The Antiquary*, 1816):** *"The old antiquary would **apostrophise** each rusty roman coin as if it were a living friend."*

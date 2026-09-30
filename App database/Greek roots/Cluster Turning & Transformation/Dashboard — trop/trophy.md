@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something gained or given in victory or conquest especially when preserved or mounted as a memorial.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A memorial of an ancient Greek or Roman victory raised on the field of battle or on the nearest land for a naval victory.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A decorative cup, plaque, statue, or memento awarded as a prize or token of victory in a contest, competition, or sport.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A monument erected on a battlefield from captured armor and weapons dedicated to a deity, celebrating the turning back of an enemy army (from Greek *tropaion*).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The mere word’s a slave, Debauch’d on every tomb, on every grave A lying trophy, and as oft is dumb Where dust and damn’d oblivion is the tomb Of honour’d bones indeed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It more becomes a man Than gilt his trophy."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let this be so; His means of death, his obscure burial,— No trophy, sword, nor hatchment o’er his bones, No noble rite, nor formal ostentation,— Cry to be heard, as ’twere from heaven to earth, That I must call’t in question."*
+> - 📜 **Thucydides (*History of the Peloponnesian War*):** *"The Athenians having routed the enemy raised a **trophy** on the shore and restored the dead under a truce."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"No **trophy**, sword, nor hatchment o'er his bones, no noble rite nor formal ostentation."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The conqueror displayed every splendid **trophy** of Roman triumph before the gaze of the assembled legions."*

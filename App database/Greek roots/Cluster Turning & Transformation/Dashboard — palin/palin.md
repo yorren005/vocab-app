@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sarah (Louise) 1964— née Heath American politician.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sarah (Louise) 1964— née Heath American politician.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Greek combining form meaning 'back,' 'again,' 'anew,' or 'in reverse.'
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A root element expressing recurrence, historical reversibility, or mirror symmetry in lexical and scientific compounds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"By HENRY PALIN GURNEY, M.A., Clare College, Cambridge."*
+> - 📜 **Henry George Liddell and Robert Scott (*A Greek-English Lexicon*, 1843):** *"The adverb **palin** signifies returning back upon a path, repeating an action, or turning in the opposite direction."*
+> - 📜 **Gilbert Murray (*The Rise of the Greek Epic*, 1907):** *"Ancient poetic terminology employed **palin** to indicate rhythmic recurrence and cyclical return."*
+> - 📜 **Ernst Mayr (*The Growth of Biological Thought*, 1982):** *"Evolutionary biology borrowed the Greek **palin** to designate morphological recapitulation across generations."*

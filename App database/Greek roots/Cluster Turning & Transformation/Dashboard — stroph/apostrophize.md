@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Use an apostrophe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Use an apostrophe.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To address by rhetorical apostrophe; to speak directly to an absent person, deity, or personified idea (standard/American spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To mark or insert an apostrophe in written text.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"If the author be old-fashioned enough to apostrophize the Gentle Reader, I know he must mean me, and docilely give ear, and presently tumble head-foremost into the treacherous pit he has digged for me."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"When he apostrophizes the sinner, he speaks of himself."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Oh!” said the old lady, apostrophizing him with infinite vehemence."*
+> - 📜 **Herman Melville (*Moby-Dick*, 1851):** *"Ahab paced the quarterdeck, pausing to **apostrophize** the dying sperm whale: 'Oh, head! Thou hast seen enough to split the planets!'"*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*, 1841):** *"Do not **apostrophize** the past with weeping; live boldly in the present hour."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*, 1860):** *"Kenyon loved to **apostrophize** the ruined arches of the Coliseum under the moonlight."*

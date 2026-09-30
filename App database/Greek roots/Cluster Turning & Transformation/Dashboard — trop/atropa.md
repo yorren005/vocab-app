@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Belladonna.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Belladonna.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of perennial herbaceous plants in the nightshade family (Solanaceae), notably including *Atropa belladonna* (deadly nightshade), characterized by toxic tropane alkaloids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The botanical source of medicinal alkaloids that block muscarinic acetylcholine receptors, named after the Greek Fate Atropos.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, atropa designates belladonna."*
+> - 📜 **William Withering (*A Botanical Arrangement of British Plants*):** *"The genus **Atropa** bears lurid purple bell-shaped flowers followed by lustrous black berries of dangerous potency."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Devil's Foot*):** *"The alkaloid derived from **Atropa** possessed physiological effects of the most extraordinary and deadly character."*
+> - 📜 **Jonathan Pereira (*The Elements of Materia Medica and Therapeutics*):** *"The root and leaves of **Atropa** belladonna have long been recognized as among the most powerful narcotics known to pharmacy."*

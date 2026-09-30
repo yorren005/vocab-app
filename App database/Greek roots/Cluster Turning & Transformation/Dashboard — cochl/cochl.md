@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek cochl.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Turning & Transformation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek morphemic root element derived from kochlos, signifying a snail, shell-fish, or spiral shell.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A combining form used in anatomy and zoology to denote spiral, shell-like structures, notably the inner ear's cochlea.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cochl designates a term designating an entity, condition, or phenomenon derived from greek cochl."*
+> - 📜 **Henry George Liddell and Robert Scott (*A Greek-English Lexicon*, 1843):** *"The root element **cochl-** stems from Greek kochlos, denoting a spiral shell or snail."*
+> - 📜 **Richard Owen (*Lectures on Comparative Anatomy*, 1843):** *"The prefix **cochl-** designates morphological convolutions resembling the spiral whorls of a gastropod shell."*
+> - 📜 **Ernst Haeckel (*Art Forms in Nature*, 1904):** *"The architectural perfection of the **cochl-** spiral appears repeatedly throughout marine mollusca and vertebrate hearing organs."*

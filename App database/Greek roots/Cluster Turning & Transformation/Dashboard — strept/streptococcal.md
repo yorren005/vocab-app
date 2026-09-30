@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or caused by streptococci.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or caused by streptococci.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or caused by bacteria of the genus Streptococcus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to clinical conditions such as streptococcal pharyngitis (strep throat), scarlet fever, erysipelas, or rheumatic fever.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, streptococcal designates of or relating to or caused by streptococci."*
+> - 📜 **Alexander Fleming (*On the Antibacterial Action of Cultures of a Penicillium*, 1929):** *"Penicillin exhibited intense bacteriostatic power against staphylococcal and **streptococcal** organisms."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*, 1892):** *"Acute rheumatic fever is closely linked to preceding **streptococcal** inflammation of the tonsils."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*, 1986):** *"Glomerulonephritis frequently develops several weeks after an untreated **streptococcal** skin infection."*

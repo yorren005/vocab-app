@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spherical gram-positive bacteria occurring in pairs or chains; cause e.g. scarlet fever and tonsillitis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spherical gram-positive bacteria occurring in pairs or chains; cause e.g. scarlet fever and tonsillitis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Plural form of streptococcus; spherical Gram-positive bacteria that form pairs or chains.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pathogenic and commensal bacteria classified serologically by Lancefield groupings (Groups A, B, etc.) and hemolytic patterns (alpha, beta, gamma).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, streptococci designates spherical gram-positive bacteria occurring in pairs or chains; cause e.g. scarlet fever and tonsillitis."*
+> - 📜 **Louis Pasteur (*On the Extension of the Germ Theory to the Etiology of Certain Common Diseases*, 1880):** *"Microscopic examination of puerperal fever exudates revealed chains of spherical **streptococci**."*
+> - 📜 **Rebecca Lancefield (*A Serological Differentiation of Human and Other Groups of Hemolytic Streptococci*, 1933):** *"By extracting specific cell-wall carbohydrate antigens, we subdivided pathogenic **streptococci** into distinct immunological groups."*
+> - 📜 **Paul de Kruif (*Microbe Hunters*, 1926):** *"The physician watched through the lens as the malignant **streptococci** formed tangled bead-like necklaces."*

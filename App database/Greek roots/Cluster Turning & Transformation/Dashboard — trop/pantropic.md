@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Distributed throughout the tropics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Distributed throughout the tropics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an affinity for or capable of infecting many different types of tissue or organs, rather than being tissue-specific in virology and pathology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Distributed throughout, or having an ecological tolerance for, all tropical regions of the world (synonymous with pantropical).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pantropic designates distributed throughout the tropics."*
+> - 📜 **Macfarlane Burnet (*Natural History of Infectious Disease*):** *"Certain yellow fever virus variants exhibit a **pantropic** virulence, attacking hepatic, renal, and vascular tissues indiscriminately."*
+> - 📜 **Theobald Smith (*Parasitism and Disease*):** *"The mutant strain lost its neurotropic affinity and reverted to a generalized **pantropic** dissemination throughout the host."*
+> - 📜 **René Dubos (*Bacterial and Mycotic Infections of Man*):** *"A pathogen that is truly **pantropic** overcomes localized mucosal defenses to seed widespread systemic foci."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to palingenesis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to palingenesis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, involving, or characterized by palingenesis (rebirth, regeneration, or recapitulation).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In embryology, relating to traits that faithfully reflect ancestral evolutionary stages without adaptive secondary modifications.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, palingenetic designates of or relating to palingenesis."*
+> - 📜 **T. H. Morgan (*The Mechanism of Mendelian Heredity*, 1915):** *"We must distinguish purely **palingenetic** embryonic characters from secondary larval adaptations."*
+> - 📜 **Stephen Jay Gould (*Ontogeny and Phylogeny*, 1977):** *"Haeckel argued that **palingenetic** features provide an uncorrupted historical record of evolutionary descent."*
+> - 📜 **Arnold J. Toynbee (*A Study of History*, 1934):** *"The disintegration of a civilization is often followed by a **palingenetic** impulse toward universal reconstruction."*

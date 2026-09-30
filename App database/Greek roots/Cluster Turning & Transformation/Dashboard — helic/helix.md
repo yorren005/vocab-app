@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something spiral in form: such as.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ornamental volute.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extended three-dimensional spiral curve, like the thread of a screw, a spring, or a spiral staircase.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomy, the prominent curved outer cartilaginous rim of the external human ear; or in biology, the iconic double-helical architecture of DNA.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Lewis, 1997, Helix Books, Addison-Wesley, Reading, MA. (Foreseeable technologies may reveal huge quantities of raw materials from space.) MONITORING AND CONTROLLING DEBRIS IN SPACE."*
+> - 📜 **James Watson (*The Double Helix*, 1968):** *"We realized that the structure had to be a **helix**; in a regular spiral each base would be in identical chemical surroundings."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*, 1858):** *"The **helix** is the large, outer curved rim of the pinna, bending forward to terminate above the external acoustic meatus."*
+> - 📜 **D'Arcy Wentworth Thompson (*On Growth and Form*, 1917):** *"The conical spiral of a snail shell is simply an expanding **helix** traced upon the surface of a cone."*

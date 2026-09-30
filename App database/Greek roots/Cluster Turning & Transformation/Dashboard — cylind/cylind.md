@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek cylind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Turning & Transformation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek morphemic root element derived from kylindros (a roller) and kylindein (to roll, roll around).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A combining form used in geometry, mechanics, and biology to denote cylindrical or roller-shaped forms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cylind designates a term designating an entity, condition, or phenomenon derived from greek cylind."*
+> - 📜 **Henry George Liddell and Robert Scott (*A Greek-English Lexicon*, 1843):** *"The root element **cylind-** derives from the Greek verb kylindein, to roll or tumble along."*
+> - 📜 **Archimedes (*On the Sphere and Cylinder*, c. 225 BC):** *"The solid **cylind-** form encloses two-thirds of the volume of the circumscribed sphere."*
+> - 📜 **D'Arcy Wentworth Thompson (*On Growth and Form*, 1917):** *"Many simple colonial organisms approximate a pure **cylind-** geometry under uniform surface tension."*

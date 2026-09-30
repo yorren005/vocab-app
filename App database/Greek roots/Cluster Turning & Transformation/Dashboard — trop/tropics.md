@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The part of the earth's surface between the tropic of cancer and the tropic of capricorn; characterized by a hot climate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either of two parallels of latitude about 23.5 degrees to the north and south of the equator representing the points farthest north and south at which the sun can shine directly overhead and constituting the boundaries of the torrid zone or tropics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The region of the Earth surrounding the Equator, bounded by the Tropic of Cancer in the northern hemisphere and the Tropic of Capricorn in the southern hemisphere, characterized by warm-to-hot climates year-round.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The equatorial and torrid zones of the globe, famous for rich biodiversity, coral reefs, and rain forests.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"He waited for her in the rare shadow of the birchtree, a tall powerful figure in a white drill suit of the tropics, his fair skin and black eyes shaded by a wide Panama hat."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"In the serene weather of the tropics it is exceedingly pleasant the mast-head; nay, to a dreamy meditative man it is delightful."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Witness the white bear of the poles, and the white shark of the tropics; what but their smooth, flaky whiteness makes them the transcendent horrors they are?"*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions*):** *"In the **tropics**, nature displays an inexhaustible energy, clothed in forms of grandeur unknown to northern climates."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The traveller in the **tropics** is constantly amazed by the endless variety of insect and avian life."*
+> - 📜 **W. Somerset Maugham (*The Trembling of a Leaf*):** *"He surrendered completely to the languor of the **tropics**, where the days drifted by without count or care."*

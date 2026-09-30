@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the magnetic properties of a rotating electrical particle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ratio of the magnetic moment of a spinning charged particle to its angular momentum —called also g-factor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the magnetic properties of rotating or spinning charged particles, especially atomic nuclei and electrons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the gyromagnetic ratio, the ratio of an electron's or nucleus's magnetic dipole moment to its angular momentum, fundamental to nuclear magnetic resonance (NMR).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gyromagnetic designates of or relating to the magnetic properties of a rotating electrical particle."*
+> - 📜 **Albert Einstein and Wander Johannes de Haas (*Experimental Proof of the Existence of Ampère's Molecular Currents*, 1915):** *"Our measurements of the **gyromagnetic** effect confirm that magnetic moments in ferromagnets arise from internal angular momentum."*
+> - 📜 **Felix Bloch (*Nuclear Induction, Nobel Lecture*, 1952):** *"The nuclear **gyromagnetic** ratio determines the exact resonant frequency at which atomic nuclei precess in an external magnetic field."*
+> - 📜 **Richard Feynman (*The Feynman Lectures on Physics*, 1963):** *"Because the electron carries both electric charge and intrinsic spin, it possesses an anomalous **gyromagnetic** ratio close to two."*

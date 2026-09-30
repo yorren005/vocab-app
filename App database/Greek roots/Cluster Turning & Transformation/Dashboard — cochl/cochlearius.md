@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Boatbills.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Boatbills.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The boat-billed heron (Cochlearius cochlearius), an unusual nocturnal wading bird of Central and South American mangrove swamps, possessing a massive, scoop-like bill.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The monotypic genus of ardeid birds named from Latin cochleare (spoon) for its wide, boat-shaped bill used in scoop-feeding in shallow nocturnal waters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cochlearius designates boatbills."*
+> - 📜 **John James Audubon (*Ornithological Biography*, 1838):** *"The peculiar boat-billed heron, classified as **Cochlearius**, feeds in murky tidal shallows using its broad scoop."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions of America*, 1814):** *"Along the swampy banks of the Orinoco roosted the solitary **Cochlearius**, motionless until the evening dusk."*
+> - 📜 **Alexander Wetmore (*The Birds of the Republic of Panama*, 1965):** *"The heavy broad bill of **Cochlearius** distinguishes it immediately from all other neotropical herons."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek onym.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Speech & Language.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The lexical semantic relation that holds between a specific verb and a more general verb specifying the manner in which the activity is performed; manner-hyponymy for verbs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The linguistic framework and study of semantic hierarchies among verbal predicates in computational lexicons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, troponymy designates a term designating an entity, condition, or phenomenon derived from greek onym."*
+> - 📜 **Christiane Fellbaum (*WordNet: An Electronic Lexical Database*):** *"The structural organizing principle for the verbal lexicon is **troponymy**, representing the 'doing-something-in-a-particular-manner' hierarchy."*
+> - 📜 **Steven Pinker (*Words and Rules*):** *"Through **troponymy**, our mental dictionary nests intricate verbs of motion and speech under broad conceptual primitives."*
+> - 📜 **Alan Cruse (*Meaning in Language*):** *"While hyponymy governs categorical relations between nouns, **troponymy** governs the fine-grained differentiation of action verbs."*

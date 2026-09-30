@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek strept.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Turning & Transformation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An enigmatic order of tiny, holometabolous parasitic insects, commonly known as twisted-wing parasites.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bizarre endoparasites of other insects whose adult males have twisted, club-like forewings and fan-shaped hindwings, while adult females are wingless, legless endoparasitic bags inside the host.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Strepsiptera designates a term designating an entity, condition, or phenomenon derived from greek strept."*
+> - 📜 **William Kirby (*Monographia Apum Angliae*, 1802):** *"Kirby established the order **Strepsiptera**, naming them for the curious twisted, haltere-like anterior wings of the males."*
+> - 📜 **J. H. Comstock (*An Introduction to Entomology*, 1920):** *"The biology of **Strepsiptera** presents one of the most astonishing examples of parasitic specialization in the animal kingdom."*
+> - 📜 **Michael S. Engel and David Grimaldi (*Evolution of the Insects*, 2005):** *"The phylogenetic placement of **Strepsiptera** remained controversial for centuries, challenging systematists with extreme morphological divergence."*

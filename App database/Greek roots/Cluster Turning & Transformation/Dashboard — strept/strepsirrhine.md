@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of twisted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of twisted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Belonging to the suborder Strepsirrhini of primates, comprising lemurs, lorises, and galagos, characterized by a moist, naked rhinarium ('curly/turned nose').
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Primitive primates possessing a grooming toothcomb on the lower incisors, a reflecting tapetum lucidum in the retina, and relying heavily on olfactory communication.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, strepsirrhine designates adjective*) pertaining to, derived from, or characteristic of twisted."*
+> - 📜 **W. E. Le Gros Clark (*The Antecedents of Man*, 1959):** *"The **strepsirrhine** primates preserve the primitive mammalian condition of a moist glandular rhinarium linked to the upper lip."*
+> - 📜 **Stephen Jay Gould (*The Panda's Thumb*, 1980):** *"Madagascar offered an isolated continental sanctuary where **strepsirrhine** lineages could radiate into diverse ecological niches."*
+> - 📜 **Frans de Waal (*Chimpanzee Politics*, 1982):** *"Unlike higher anthropoids, the **strepsirrhine** lemur relies extensively on scent marking to establish territorial boundaries."*

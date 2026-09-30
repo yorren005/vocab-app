@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A convoluted ridge between anatomical grooves; especially : convolution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A convoluted ridge between anatomical grooves; especially : convolution.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A ridge or fold between two clefts on the cerebral surface in the brain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An anatomical convolution of the cerebral cortex (such as the precentral gyrus or postcentral gyrus) that maximizes cortical surface area within the skull.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gyrus designates a convoluted ridge between anatomical grooves; especially : convolution."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*, 1909):** *"Each cerebral **gyrus** contains millions of interconnected pyramidal neurons organized into horizontal cellular laminae."*
+> - 📜 **Wilder Penfield (*The Cerebral Cortex of Man*, 1950):** *"Stimulating the precentral **gyrus** elicited immediate motor twitches in the contralateral thumb and tongue."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*, 1985):** *"A discrete lesion confined to the fusiform **gyrus** produced severe, lifelong visual prosopagnosia."*
